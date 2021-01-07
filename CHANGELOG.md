@@ -280,3 +280,4 @@
 - 2021-01-07 — `docs: describe application tracker flow` [#403]
 - 2021-01-07 — `chore: update error mapping example profile` [#158]
 - 2021-01-07 — `feat: implement extension popup interface` [#620]
+- 2021-01-07 — `docs: expand dashboard API section` [#513]
