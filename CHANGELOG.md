@@ -266,3 +266,4 @@
 - 2021-01-07 — `style: reorder CLI table imports` [#884]
 - 2021-01-07 — `refactor: simplify apply session control flow` [#640]
 - 2021-01-07 — `chore: tidy keyword filter file ordering` [#548]
+- 2021-01-07 — `feat: wire up greenhouse pipeline` [#702]
