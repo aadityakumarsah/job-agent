@@ -264,3 +264,4 @@
 - 2021-01-07 — `chore: add config loader to ignore rules` [#600]
 - 2021-01-07 — `feat: fill PDF renderer from answer bank` [#346]
 - 2021-01-07 — `style: reorder CLI table imports` [#884]
+- 2021-01-07 — `refactor: simplify apply session control flow` [#640]
