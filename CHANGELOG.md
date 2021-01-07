@@ -261,3 +261,4 @@
 - 2021-01-07 — `refactor: rename DOCX renderer for clarity` [#545]
 - 2021-01-07 — `feat: track DOCX renderer per application` [#991]
 - 2021-01-07 — `fix: skip error mapping when board omits it` [#482]
+- 2021-01-07 — `chore: add config loader to ignore rules` [#600]
