@@ -258,3 +258,4 @@
 - 2021-01-07 — `feat: track answer bank per application` [#256]
 - 2021-01-07 — `test: assert application tracker shape in tests` [#490]
 - 2021-01-07 — `feat: add content scanner to extension popup` [#798]
+- 2021-01-07 — `refactor: rename DOCX renderer for clarity` [#545]
