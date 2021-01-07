@@ -260,3 +260,4 @@
 - 2021-01-07 — `feat: add content scanner to extension popup` [#798]
 - 2021-01-07 — `refactor: rename DOCX renderer for clarity` [#545]
 - 2021-01-07 — `feat: track DOCX renderer per application` [#991]
+- 2021-01-07 — `fix: skip error mapping when board omits it` [#482]
