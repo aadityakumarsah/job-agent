@@ -278,3 +278,4 @@
 - 2021-01-07 — `perf: batch career facts requests` [#318]
 - 2021-01-07 — `refactor: share apply session between cli and dashboard` [#902]
 - 2021-01-07 — `docs: describe application tracker flow` [#403]
+- 2021-01-07 — `chore: update error mapping example profile` [#158]
