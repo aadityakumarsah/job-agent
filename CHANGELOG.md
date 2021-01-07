@@ -263,3 +263,4 @@
 - 2021-01-07 — `fix: skip error mapping when board omits it` [#482]
 - 2021-01-07 — `chore: add config loader to ignore rules` [#600]
 - 2021-01-07 — `feat: fill PDF renderer from answer bank` [#346]
+- 2021-01-07 — `style: reorder CLI table imports` [#884]
