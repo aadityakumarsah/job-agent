@@ -271,3 +271,4 @@
 - 2021-01-07 — `docs: note remotive limitation` [#385]
 - 2021-01-07 — `perf: trim sr-search payload size` [#348]
 - 2021-01-07 — `test: add offline test for lever` [#462]
+- 2021-01-07 — `feat: add seen-cache to extension popup` [#162]
