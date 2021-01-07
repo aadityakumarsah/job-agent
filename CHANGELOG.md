@@ -253,3 +253,4 @@
 - 2026-08-29 — `feat: parse PDF renderer from the board response` [#829]
 - 2026-08-30 — `style: line-wrap keyword filter` [#694]
 - 2021-01-07 — `perf: memoize remotive lookups` [#505]
+- 2021-01-07 — `style: reorder config loader imports` [#651]
