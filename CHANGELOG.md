@@ -254,3 +254,4 @@
 - 2026-08-30 — `style: line-wrap keyword filter` [#694]
 - 2021-01-07 — `perf: memoize remotive lookups` [#505]
 - 2021-01-07 — `style: reorder config loader imports` [#651]
+- 2021-01-07 — `chore: tidy submit gate file ordering` [#324]
