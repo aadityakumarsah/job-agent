@@ -275,3 +275,4 @@
 - 2021-01-07 — `docs: add remoteok to the README` [#294]
 - 2021-01-07 — `docs: note smartrecruiters limitation` [#995]
 - 2021-01-07 — `style: tidy remoteok whitespace` [#956]
+- 2021-01-07 — `perf: batch career facts requests` [#318]
