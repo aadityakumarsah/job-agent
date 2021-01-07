@@ -252,3 +252,4 @@
 - 2026-08-29 — `test: add offline test for submit gate` [#574]
 - 2026-08-29 — `feat: parse PDF renderer from the board response` [#829]
 - 2026-08-30 — `style: line-wrap keyword filter` [#694]
+- 2021-01-07 — `perf: memoize remotive lookups` [#505]
