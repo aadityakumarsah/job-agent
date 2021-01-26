@@ -282,3 +282,4 @@
 - 2021-01-07 — `feat: implement extension popup interface` [#620]
 - 2021-01-07 — `docs: expand dashboard API section` [#513]
 - 2021-01-07 — `feat: cache experience filter` [#529]
+- 2021-01-26 — `chore: update content scanner example profile` [#344]
