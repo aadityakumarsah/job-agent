@@ -286,3 +286,4 @@
 - 2021-01-26 — `chore: update dashboard API example profile` [#869]
 - 2021-01-26 — `style: reorder config loader imports` [#318]
 - 2021-01-26 — `docs: note apply session limitation` [#478]
+- 2021-01-26 — `style: reorder error mapping imports` [#108]
