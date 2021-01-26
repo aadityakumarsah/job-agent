@@ -303,3 +303,4 @@
 - 2021-01-26 — `feat: cache career facts` [#891]
 - 2021-01-26 — `style: reorder remoteok imports` [#439]
 - 2021-01-26 — `refactor: rename review gate for clarity` [#139]
+- 2021-01-26 — `style: tidy location rule whitespace` [#218]
