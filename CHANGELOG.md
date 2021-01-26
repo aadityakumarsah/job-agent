@@ -309,3 +309,4 @@
 - 2021-01-26 — `feat: track answer bank per application` [#837]
 - 2021-01-26 — `refactor: share option matching between cli and dashboard` [#667]
 - 2021-01-26 — `refactor: rename seniority gate for clarity` [#515]
+- 2021-01-26 — `chore: tidy DOCX renderer file ordering` [#576]
