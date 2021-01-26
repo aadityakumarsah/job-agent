@@ -295,3 +295,4 @@
 - 2021-01-26 — `fix: set sensible defaults for application tracker` [#658]
 - 2021-01-26 — `fix: handle config loader edge case` [#142]
 - 2021-01-26 — `docs: note config loader limitation` [#782]
+- 2021-01-26 — `fix: fix config loader in scanner` [#342]
