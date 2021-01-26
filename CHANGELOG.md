@@ -310,3 +310,4 @@
 - 2021-01-26 — `refactor: share option matching between cli and dashboard` [#667]
 - 2021-01-26 — `refactor: rename seniority gate for clarity` [#515]
 - 2021-01-26 — `chore: tidy DOCX renderer file ordering` [#576]
+- 2021-01-26 — `fix: fix content scanner on the review gate` [#774]
