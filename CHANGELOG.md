@@ -290,3 +290,4 @@
 - 2021-01-26 — `fix: skip remotive when board omits it` [#370]
 - 2021-01-26 — `docs: describe seen-cache flow` [#834]
 - 2021-01-26 — `perf: trim discovery payload size` [#357]
+- 2021-01-26 — `feat: add remoteok validation` [#441]
