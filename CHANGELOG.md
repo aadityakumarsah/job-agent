@@ -287,3 +287,4 @@
 - 2021-01-26 — `style: reorder config loader imports` [#318]
 - 2021-01-26 — `docs: note apply session limitation` [#478]
 - 2021-01-26 — `style: reorder error mapping imports` [#108]
+- 2021-01-26 — `fix: skip remotive when board omits it` [#370]
