@@ -298,3 +298,4 @@
 - 2021-01-26 — `fix: fix config loader in scanner` [#342]
 - 2021-01-26 — `fix: fix playwright driver XSS vector` [#854]
 - 2021-01-26 — `docs: document career facts` [#373]
+- 2021-01-26 — `perf: trim fit scoring payload size` [#327]
