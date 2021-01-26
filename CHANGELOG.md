@@ -284,3 +284,4 @@
 - 2021-01-07 — `feat: cache experience filter` [#529]
 - 2021-01-26 — `chore: update content scanner example profile` [#344]
 - 2021-01-26 — `chore: update dashboard API example profile` [#869]
+- 2021-01-26 — `style: reorder config loader imports` [#318]
