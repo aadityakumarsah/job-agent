@@ -306,3 +306,4 @@
 - 2021-01-26 — `style: tidy location rule whitespace` [#218]
 - 2021-01-26 — `test: add offline test for option matching` [#101]
 - 2021-01-26 — `docs: clarify extension popup behavior` [#472]
+- 2021-01-26 — `feat: track answer bank per application` [#837]
