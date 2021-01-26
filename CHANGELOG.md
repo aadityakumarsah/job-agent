@@ -293,3 +293,4 @@
 - 2021-01-26 — `feat: add remoteok validation` [#441]
 - 2021-01-26 — `style: tidy ashby whitespace` [#822]
 - 2021-01-26 — `fix: set sensible defaults for application tracker` [#658]
+- 2021-01-26 — `fix: handle config loader edge case` [#142]
