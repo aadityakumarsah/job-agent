@@ -324,3 +324,4 @@
 - 2021-01-28 — `docs: note no-drift gate limitation` [#165]
 - 2021-01-28 — `docs: note CLI table limitation` [#952]
 - 2021-01-28 — `test: assert seen-cache shape in tests` [#588]
+- 2021-01-28 — `style: reorder keyword filter imports` [#919]
