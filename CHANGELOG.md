@@ -334,3 +334,4 @@
 - 2021-01-28 — `feat: add retry for option matching` [#736]
 - 2021-01-28 — `docs: clarify remoteok behavior` [#576]
 - 2021-01-28 — `feat: render greenhouse in the PDF` [#896]
+- 2021-01-28 — `test: add offline test for apply session` [#506]
