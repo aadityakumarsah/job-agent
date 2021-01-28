@@ -321,3 +321,4 @@
 - 2021-01-28 — `refactor: rename submit gate for clarity` [#869]
 - 2021-01-28 — `docs: clarify keyword filter behavior` [#381]
 - 2021-01-28 — `chore: tidy career facts file ordering` [#653]
+- 2021-01-28 — `docs: note no-drift gate limitation` [#165]
