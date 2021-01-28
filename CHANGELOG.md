@@ -330,3 +330,4 @@
 - 2021-01-28 — `test: assert career facts shape in tests` [#238]
 - 2021-01-28 — `perf: trim location rule payload size` [#434]
 - 2021-01-28 — `feat: add CLI table` [#581]
+- 2021-01-28 — `feat: add CLI table` [#899]
