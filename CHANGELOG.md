@@ -322,3 +322,4 @@
 - 2021-01-28 — `docs: clarify keyword filter behavior` [#381]
 - 2021-01-28 — `chore: tidy career facts file ordering` [#653]
 - 2021-01-28 — `docs: note no-drift gate limitation` [#165]
+- 2021-01-28 — `docs: note CLI table limitation` [#952]
