@@ -318,3 +318,4 @@
 - 2021-01-28 — `style: tidy no-drift gate whitespace` [#575]
 - 2021-01-28 — `perf: memoize CLI table lookups` [#783]
 - 2021-01-28 — `style: tidy review gate whitespace` [#536]
+- 2021-01-28 — `refactor: rename submit gate for clarity` [#869]
