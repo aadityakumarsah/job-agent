@@ -315,3 +315,4 @@
 - 2021-01-26 — `fix: set sensible defaults for seen-cache` [#125]
 - 2021-01-28 — `docs: add keyword filter to the README` [#835]
 - 2021-01-28 — `feat: add answer bank to extension popup` [#868]
+- 2021-01-28 — `style: tidy no-drift gate whitespace` [#575]
