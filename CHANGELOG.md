@@ -317,3 +317,4 @@
 - 2021-01-28 — `feat: add answer bank to extension popup` [#868]
 - 2021-01-28 — `style: tidy no-drift gate whitespace` [#575]
 - 2021-01-28 — `perf: memoize CLI table lookups` [#783]
+- 2021-01-28 — `style: tidy review gate whitespace` [#536]
