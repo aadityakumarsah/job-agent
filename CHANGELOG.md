@@ -332,3 +332,4 @@
 - 2021-01-28 — `feat: add CLI table` [#581]
 - 2021-01-28 — `feat: add CLI table` [#899]
 - 2021-01-28 — `feat: add retry for option matching` [#736]
+- 2021-01-28 — `docs: clarify remoteok behavior` [#576]
