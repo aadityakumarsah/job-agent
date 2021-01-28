@@ -313,3 +313,4 @@
 - 2021-01-26 — `fix: fix content scanner on the review gate` [#774]
 - 2021-01-26 — `feat: add keyword filter validation` [#938]
 - 2021-01-26 — `fix: set sensible defaults for seen-cache` [#125]
+- 2021-01-28 — `docs: add keyword filter to the README` [#835]
