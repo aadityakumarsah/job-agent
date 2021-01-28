@@ -314,3 +314,4 @@
 - 2021-01-26 — `feat: add keyword filter validation` [#938]
 - 2021-01-26 — `fix: set sensible defaults for seen-cache` [#125]
 - 2021-01-28 — `docs: add keyword filter to the README` [#835]
+- 2021-01-28 — `feat: add answer bank to extension popup` [#868]
