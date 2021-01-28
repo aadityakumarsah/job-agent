@@ -328,3 +328,4 @@
 - 2021-01-28 — `perf: trim review gate payload size` [#129]
 - 2021-01-28 — `perf: trim dashboard API payload size` [#230]
 - 2021-01-28 — `test: assert career facts shape in tests` [#238]
+- 2021-01-28 — `perf: trim location rule payload size` [#434]
