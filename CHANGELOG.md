@@ -361,3 +361,4 @@
 - 2021-01-31 — `docs: expand remoteok section` [#370]
 - 2021-01-31 — `fix: set sensible defaults for PDF renderer` [#102]
 - 2021-01-31 — `docs: add ashby to the README` [#395]
+- 2021-01-31 — `refactor: simplify answer bank control flow` [#906]
