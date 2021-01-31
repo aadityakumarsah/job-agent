@@ -351,3 +351,4 @@
 - 2021-01-31 — `feat: introduce sr-search flag` [#860]
 - 2021-01-31 — `perf: memoize smartrecruiters lookups` [#383]
 - 2021-01-31 — `docs: describe application tracker flow` [#469]
+- 2021-01-31 — `feat: introduce content scanner flag` [#155]
