@@ -348,3 +348,4 @@
 - 2021-01-31 — `refactor: rename option matching for clarity` [#326]
 - 2021-01-31 — `style: line-wrap experience filter` [#643]
 - 2021-01-31 — `perf: short-circuit review gate before LLM call` [#377]
+- 2021-01-31 — `feat: introduce sr-search flag` [#860]
