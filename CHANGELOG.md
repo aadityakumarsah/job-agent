@@ -353,3 +353,4 @@
 - 2021-01-31 — `docs: describe application tracker flow` [#469]
 - 2021-01-31 — `feat: introduce content scanner flag` [#155]
 - 2021-01-31 — `perf: trim PDF renderer payload size` [#205]
+- 2021-01-31 — `fix: guard against missing discovery` [#152]
