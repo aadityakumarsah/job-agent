@@ -342,3 +342,4 @@
 - 2021-01-31 — `test: assert seen-cache shape in tests` [#945]
 - 2021-01-31 — `feat: add retry for dashboard API` [#385]
 - 2021-01-31 — `test: assert remoteok shape in tests` [#444]
+- 2021-01-31 — `chore: update apply session example profile` [#916]
