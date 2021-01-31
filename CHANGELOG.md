@@ -360,3 +360,4 @@
 - 2021-01-31 — `refactor: extract CLI table into its own module` [#682]
 - 2021-01-31 — `docs: expand remoteok section` [#370]
 - 2021-01-31 — `fix: set sensible defaults for PDF renderer` [#102]
+- 2021-01-31 — `docs: add ashby to the README` [#395]
