@@ -345,3 +345,4 @@
 - 2021-01-31 — `chore: update apply session example profile` [#916]
 - 2021-01-31 — `feat: fill answer bank from answer bank` [#629]
 - 2021-01-31 — `docs: add no-drift gate to the README` [#807]
+- 2021-01-31 — `refactor: rename option matching for clarity` [#326]
