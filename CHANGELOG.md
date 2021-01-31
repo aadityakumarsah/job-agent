@@ -356,3 +356,4 @@
 - 2021-01-31 — `fix: guard against missing discovery` [#152]
 - 2021-01-31 — `perf: short-circuit remotive before LLM call` [#175]
 - 2021-01-31 — `refactor: share extension popup between cli and dashboard` [#187]
+- 2021-01-31 — `style: reorder seen-cache imports` [#489]
