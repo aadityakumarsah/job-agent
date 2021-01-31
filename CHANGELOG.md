@@ -355,3 +355,4 @@
 - 2021-01-31 — `perf: trim PDF renderer payload size` [#205]
 - 2021-01-31 — `fix: guard against missing discovery` [#152]
 - 2021-01-31 — `perf: short-circuit remotive before LLM call` [#175]
+- 2021-01-31 — `refactor: share extension popup between cli and dashboard` [#187]
