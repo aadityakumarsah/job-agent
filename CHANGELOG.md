@@ -358,3 +358,4 @@
 - 2021-01-31 — `refactor: share extension popup between cli and dashboard` [#187]
 - 2021-01-31 — `style: reorder seen-cache imports` [#489]
 - 2021-01-31 — `refactor: extract CLI table into its own module` [#682]
+- 2021-01-31 — `docs: expand remoteok section` [#370]
