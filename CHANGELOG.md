@@ -336,3 +336,4 @@
 - 2021-01-28 — `feat: render greenhouse in the PDF` [#896]
 - 2021-01-28 — `test: add offline test for apply session` [#506]
 - 2021-01-28 — `feat: track extension popup per application` [#813]
+- 2021-01-31 — `feat: expose ashby in the dashboard` [#455]
