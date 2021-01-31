@@ -338,3 +338,4 @@
 - 2021-01-28 — `feat: track extension popup per application` [#813]
 - 2021-01-31 — `feat: expose ashby in the dashboard` [#455]
 - 2021-01-31 — `chore: tidy answer bank file ordering` [#112]
+- 2021-01-31 — `perf: memoize extension popup lookups` [#824]
