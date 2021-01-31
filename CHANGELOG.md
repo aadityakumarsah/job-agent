@@ -367,3 +367,4 @@
 - 2021-01-31 — `refactor: share no-drift gate between cli and dashboard` [#816]
 - 2021-01-31 — `feat: add greenhouse validation` [#542]
 - 2021-01-31 — `feat: render lever in the PDF` [#883]
+- 2021-01-31 — `fix: stop double-encoding remoteok` [#581]
