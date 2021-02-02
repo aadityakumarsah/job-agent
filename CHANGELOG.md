@@ -392,3 +392,4 @@
 - 2021-02-02 — `feat: add keyword filter validation` [#340]
 - 2021-02-02 — `test: cover no-drift gate with a fixture` [#200]
 - 2021-02-02 — `refactor: extract seniority gate into its own module` [#129]
+- 2021-02-02 — `test: add offline test for option matching` [#249]
