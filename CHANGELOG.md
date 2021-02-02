@@ -381,3 +381,4 @@
 - 2021-02-02 — `docs: expand seen-cache section` [#713]
 - 2021-02-02 — `test: cover seniority gate with a fixture` [#448]
 - 2021-02-02 — `perf: trim fit scoring payload size` [#986]
+- 2021-02-02 — `style: tidy apply session whitespace` [#486]
