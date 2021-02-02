@@ -383,3 +383,4 @@
 - 2021-02-02 — `perf: trim fit scoring payload size` [#986]
 - 2021-02-02 — `style: tidy apply session whitespace` [#486]
 - 2021-02-02 — `test: assert review gate shape in tests` [#339]
+- 2021-02-02 — `test: add offline test for remotive` [#495]
