@@ -387,3 +387,4 @@
 - 2021-02-02 — `feat: normalize smartrecruiters across sources` [#229]
 - 2021-02-02 — `perf: short-circuit review gate before LLM call` [#202]
 - 2021-02-02 — `fix: avoid crashing on extension popup` [#176]
+- 2021-02-02 — `feat: normalize application tracker across sources` [#972]
