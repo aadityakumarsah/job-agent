@@ -391,3 +391,4 @@
 - 2021-02-02 — `chore: add seen-cache to ignore rules` [#741]
 - 2021-02-02 — `feat: add keyword filter validation` [#340]
 - 2021-02-02 — `test: cover no-drift gate with a fixture` [#200]
+- 2021-02-02 — `refactor: extract seniority gate into its own module` [#129]
