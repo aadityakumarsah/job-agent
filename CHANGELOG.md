@@ -374,3 +374,4 @@
 - 2021-02-02 — `style: line-wrap no-drift gate` [#944]
 - 2021-02-02 — `docs: add content scanner to the README` [#630]
 - 2021-02-02 — `feat: add no-drift gate validation` [#308]
+- 2021-02-02 — `feat: wire up apply session pipeline` [#129]
