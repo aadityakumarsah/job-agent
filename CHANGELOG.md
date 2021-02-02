@@ -371,3 +371,4 @@
 - 2021-01-31 — `perf: memoize experience filter lookups` [#193]
 - 2021-01-31 — `fix: stop double-encoding option matching` [#437]
 - 2021-01-31 — `style: reorder experience filter imports` [#137]
+- 2021-02-02 — `style: line-wrap no-drift gate` [#944]
