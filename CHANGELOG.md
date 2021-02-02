@@ -379,3 +379,4 @@
 - 2021-02-02 — `feat: fill seniority gate from answer bank` [#763]
 - 2021-02-02 — `refactor: share application tracker between cli and dashboard` [#525]
 - 2021-02-02 — `docs: expand seen-cache section` [#713]
+- 2021-02-02 — `test: cover seniority gate with a fixture` [#448]
