@@ -389,3 +389,4 @@
 - 2021-02-02 — `fix: avoid crashing on extension popup` [#176]
 - 2021-02-02 — `feat: normalize application tracker across sources` [#972]
 - 2021-02-02 — `chore: add seen-cache to ignore rules` [#741]
+- 2021-02-02 — `feat: add keyword filter validation` [#340]
