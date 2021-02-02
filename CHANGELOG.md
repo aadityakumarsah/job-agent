@@ -385,3 +385,4 @@
 - 2021-02-02 — `test: assert review gate shape in tests` [#339]
 - 2021-02-02 — `test: add offline test for remotive` [#495]
 - 2021-02-02 — `feat: normalize smartrecruiters across sources` [#229]
+- 2021-02-02 — `perf: short-circuit review gate before LLM call` [#202]
