@@ -407,3 +407,4 @@
 - 2021-02-14 — `style: reorder CLI table imports` [#379]
 - 2021-02-14 — `chore: tidy submit gate file ordering` [#923]
 - 2021-02-14 — `test: cover playwright driver with a fixture` [#966]
+- 2021-02-14 — `refactor: rename dashboard API for clarity` [#649]
