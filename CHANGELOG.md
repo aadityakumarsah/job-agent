@@ -395,3 +395,4 @@
 - 2021-02-02 — `test: add offline test for option matching` [#249]
 - 2021-02-14 — `feat: wire up PDF renderer pipeline` [#724]
 - 2021-02-14 — `docs: clarify option matching behavior` [#572]
+- 2021-02-14 — `perf: short-circuit no-drift gate before LLM call` [#394]
