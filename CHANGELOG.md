@@ -401,3 +401,4 @@
 - 2021-02-14 — `refactor: share location rule between cli and dashboard` [#816]
 - 2021-02-14 — `feat: add submit gate validation` [#720]
 - 2021-02-14 — `chore: add option matching to ignore rules` [#324]
+- 2021-02-14 — `fix: fix lever on the review gate` [#743]
