@@ -405,3 +405,4 @@
 - 2021-02-14 — `perf: batch ashby requests` [#134]
 - 2021-02-14 — `test: add offline test for config loader` [#279]
 - 2021-02-14 — `style: reorder CLI table imports` [#379]
+- 2021-02-14 — `chore: tidy submit gate file ordering` [#923]
