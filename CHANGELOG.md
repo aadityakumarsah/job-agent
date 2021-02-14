@@ -397,3 +397,4 @@
 - 2021-02-14 — `docs: clarify option matching behavior` [#572]
 - 2021-02-14 — `perf: short-circuit no-drift gate before LLM call` [#394]
 - 2021-02-14 — `refactor: share seen-cache between cli and dashboard` [#754]
+- 2021-02-14 — `test: assert dashboard API shape in tests` [#973]
