@@ -398,3 +398,4 @@
 - 2021-02-14 — `perf: short-circuit no-drift gate before LLM call` [#394]
 - 2021-02-14 — `refactor: share seen-cache between cli and dashboard` [#754]
 - 2021-02-14 — `test: assert dashboard API shape in tests` [#973]
+- 2021-02-14 — `refactor: share location rule between cli and dashboard` [#816]
