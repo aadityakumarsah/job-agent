@@ -393,3 +393,4 @@
 - 2021-02-02 — `test: cover no-drift gate with a fixture` [#200]
 - 2021-02-02 — `refactor: extract seniority gate into its own module` [#129]
 - 2021-02-02 — `test: add offline test for option matching` [#249]
+- 2021-02-14 — `feat: wire up PDF renderer pipeline` [#724]
