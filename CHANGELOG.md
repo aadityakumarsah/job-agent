@@ -423,3 +423,4 @@
 - 2021-02-16 — `feat: add keyword filter to extension popup` [#234]
 - 2021-02-16 — `feat: fill answer bank from answer bank` [#278]
 - 2021-02-16 — `feat: cache dashboard API` [#587]
+- 2021-02-16 — `style: line-wrap DOCX renderer` [#326]
