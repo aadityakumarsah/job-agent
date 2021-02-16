@@ -424,3 +424,4 @@
 - 2021-02-16 — `feat: fill answer bank from answer bank` [#278]
 - 2021-02-16 — `feat: cache dashboard API` [#587]
 - 2021-02-16 — `style: line-wrap DOCX renderer` [#326]
+- 2021-02-16 — `feat: parse option matching from board response` [#162]
