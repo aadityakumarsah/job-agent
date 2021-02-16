@@ -419,3 +419,4 @@
 - 2021-02-16 — `perf: short-circuit lever before LLM call` [#193]
 - 2021-02-16 — `fix: skip sr-search when board omits it` [#905]
 - 2021-02-16 — `docs: note greenhouse limitation` [#436]
+- 2021-02-16 — `fix: fix smartrecruiters in scanner` [#233]
