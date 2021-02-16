@@ -428,3 +428,4 @@
 - 2021-02-16 — `perf: batch ashby requests` [#175]
 - 2021-02-16 — `style: line-wrap seniority gate` [#829]
 - 2021-02-16 — `test: add offline test for content scanner` [#201]
+- 2021-02-16 — `docs: add experience filter to the README` [#540]
