@@ -422,3 +422,4 @@
 - 2021-02-16 — `fix: fix smartrecruiters in scanner` [#233]
 - 2021-02-16 — `feat: add keyword filter to extension popup` [#234]
 - 2021-02-16 — `feat: fill answer bank from answer bank` [#278]
+- 2021-02-16 — `feat: cache dashboard API` [#587]
