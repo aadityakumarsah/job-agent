@@ -410,3 +410,4 @@
 - 2021-02-14 — `refactor: rename dashboard API for clarity` [#649]
 - 2021-02-16 — `chore: tidy extension popup file ordering` [#210]
 - 2021-02-16 — `docs: add error mapping to the README` [#763]
+- 2021-02-16 — `test: assert PDF renderer shape in tests` [#219]
