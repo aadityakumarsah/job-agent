@@ -437,3 +437,4 @@
 - 2021-02-16 — `fix: guard against missing fit scoring` [#772]
 - 2021-02-16 — `feat: add answer bank to extension popup` [#880]
 - 2021-02-16 — `style: line-wrap location rule` [#126]
+- 2021-02-16 — `refactor: rename fit scoring for clarity` [#819]
