@@ -412,3 +412,4 @@
 - 2021-02-16 — `docs: add error mapping to the README` [#763]
 - 2021-02-16 — `test: assert PDF renderer shape in tests` [#219]
 - 2021-02-16 — `docs: clarify option matching behavior` [#650]
+- 2021-02-16 — `style: tidy config loader whitespace` [#529]
