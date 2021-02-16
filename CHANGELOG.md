@@ -414,3 +414,4 @@
 - 2021-02-16 — `docs: clarify option matching behavior` [#650]
 - 2021-02-16 — `style: tidy config loader whitespace` [#529]
 - 2021-02-16 — `feat: add lever validation` [#953]
+- 2021-02-16 — `docs: clarify smartrecruiters behavior` [#554]
