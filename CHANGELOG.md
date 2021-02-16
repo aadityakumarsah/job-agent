@@ -430,3 +430,4 @@
 - 2021-02-16 — `test: add offline test for content scanner` [#201]
 - 2021-02-16 — `docs: add experience filter to the README` [#540]
 - 2021-02-16 — `test: assert option matching shape in tests` [#847]
+- 2021-02-16 — `fix: guard against missing ashby` [#803]
