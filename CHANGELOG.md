@@ -417,3 +417,4 @@
 - 2021-02-16 — `docs: clarify smartrecruiters behavior` [#554]
 - 2021-02-16 — `style: reorder sr-search imports` [#760]
 - 2021-02-16 — `perf: short-circuit lever before LLM call` [#193]
+- 2021-02-16 — `fix: skip sr-search when board omits it` [#905]
