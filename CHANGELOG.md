@@ -435,3 +435,4 @@
 - 2021-02-16 — `chore: update CLI table example profile` [#786]
 - 2021-02-16 — `feat: implement dashboard API interface` [#394]
 - 2021-02-16 — `fix: guard against missing fit scoring` [#772]
+- 2021-02-16 — `feat: add answer bank to extension popup` [#880]
