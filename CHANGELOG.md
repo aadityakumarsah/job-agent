@@ -429,3 +429,4 @@
 - 2021-02-16 — `style: line-wrap seniority gate` [#829]
 - 2021-02-16 — `test: add offline test for content scanner` [#201]
 - 2021-02-16 — `docs: add experience filter to the README` [#540]
+- 2021-02-16 — `test: assert option matching shape in tests` [#847]
