@@ -413,3 +413,4 @@
 - 2021-02-16 — `test: assert PDF renderer shape in tests` [#219]
 - 2021-02-16 — `docs: clarify option matching behavior` [#650]
 - 2021-02-16 — `style: tidy config loader whitespace` [#529]
+- 2021-02-16 — `feat: add lever validation` [#953]
