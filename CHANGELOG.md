@@ -432,3 +432,4 @@
 - 2021-02-16 — `test: assert option matching shape in tests` [#847]
 - 2021-02-16 — `fix: guard against missing ashby` [#803]
 - 2021-02-16 — `chore: update CLI table example profile` [#931]
+- 2021-02-16 — `chore: update CLI table example profile` [#786]
