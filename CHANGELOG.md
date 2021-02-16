@@ -415,3 +415,4 @@
 - 2021-02-16 — `style: tidy config loader whitespace` [#529]
 - 2021-02-16 — `feat: add lever validation` [#953]
 - 2021-02-16 — `docs: clarify smartrecruiters behavior` [#554]
+- 2021-02-16 — `style: reorder sr-search imports` [#760]
