@@ -426,3 +426,4 @@
 - 2021-02-16 — `style: line-wrap DOCX renderer` [#326]
 - 2021-02-16 — `feat: parse option matching from board response` [#162]
 - 2021-02-16 — `perf: batch ashby requests` [#175]
+- 2021-02-16 — `style: line-wrap seniority gate` [#829]
