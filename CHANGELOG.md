@@ -421,3 +421,4 @@
 - 2021-02-16 — `docs: note greenhouse limitation` [#436]
 - 2021-02-16 — `fix: fix smartrecruiters in scanner` [#233]
 - 2021-02-16 — `feat: add keyword filter to extension popup` [#234]
+- 2021-02-16 — `feat: fill answer bank from answer bank` [#278]
