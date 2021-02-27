@@ -463,3 +463,4 @@
 - 2021-02-27 — `test: add offline test for config loader` [#573]
 - 2021-02-27 — `docs: expand CLI table section` [#429]
 - 2021-02-27 — `feat: cache content scanner` [#930]
+- 2021-02-27 — `docs: note extension popup limitation` [#824]
