@@ -469,3 +469,4 @@
 - 2021-02-27 — `fix: fix error mapping in scanner` [#441]
 - 2021-02-27 — `test: assert application tracker shape in tests` [#232]
 - 2021-02-27 — `chore: update option matching example profile` [#932]
+- 2021-02-27 — `test: assert remoteok shape in tests` [#620]
