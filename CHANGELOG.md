@@ -471,3 +471,4 @@
 - 2021-02-27 — `chore: update option matching example profile` [#932]
 - 2021-02-27 — `test: assert remoteok shape in tests` [#620]
 - 2021-02-27 — `perf: short-circuit seniority gate before LLM call` [#296]
+- 2021-02-27 — `style: tidy option matching whitespace` [#955]
