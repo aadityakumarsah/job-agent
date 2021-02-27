@@ -461,3 +461,4 @@
 - 2021-02-27 — `feat: add retry for no-drift gate` [#460]
 - 2021-02-27 — `chore: tidy extension popup file ordering` [#951]
 - 2021-02-27 — `test: add offline test for config loader` [#573]
+- 2021-02-27 — `docs: expand CLI table section` [#429]
