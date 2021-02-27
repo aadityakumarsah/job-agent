@@ -448,3 +448,4 @@
 - 2021-02-27 — `docs: clarify seniority gate behavior` [#408]
 - 2021-02-27 — `feat: introduce career facts flag` [#609]
 - 2021-02-27 — `docs: clarify ashby behavior` [#612]
+- 2021-02-27 — `feat: implement seen-cache interface` [#546]
