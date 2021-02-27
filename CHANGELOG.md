@@ -452,3 +452,4 @@
 - 2021-02-27 — `test: assert seniority gate shape in tests` [#687]
 - 2021-02-27 — `feat: add retry for discovery` [#432]
 - 2021-02-27 — `chore: tidy answer bank file ordering` [#190]
+- 2021-02-27 — `style: line-wrap experience filter` [#180]
