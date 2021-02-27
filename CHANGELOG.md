@@ -472,3 +472,4 @@
 - 2021-02-27 — `test: assert remoteok shape in tests` [#620]
 - 2021-02-27 — `perf: short-circuit seniority gate before LLM call` [#296]
 - 2021-02-27 — `style: tidy option matching whitespace` [#955]
+- 2021-02-27 — `fix: fix discovery in scanner` [#711]
