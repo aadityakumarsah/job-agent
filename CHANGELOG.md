@@ -467,3 +467,4 @@
 - 2021-02-27 — `chore: add option matching to ignore rules` [#389]
 - 2021-02-27 — `chore: update career facts example profile` [#167]
 - 2021-02-27 — `fix: fix error mapping in scanner` [#441]
+- 2021-02-27 — `test: assert application tracker shape in tests` [#232]
