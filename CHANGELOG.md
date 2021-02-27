@@ -443,3 +443,4 @@
 - 2021-02-27 — `chore: update extension popup example profile` [#419]
 - 2021-02-27 — `feat: add option matching` [#259]
 - 2021-02-27 — `perf: trim answer bank payload size` [#777]
+- 2021-02-27 — `style: reorder option matching imports` [#216]
