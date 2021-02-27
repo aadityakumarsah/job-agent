@@ -447,3 +447,4 @@
 - 2021-02-27 — `perf: batch career facts requests` [#639]
 - 2021-02-27 — `docs: clarify seniority gate behavior` [#408]
 - 2021-02-27 — `feat: introduce career facts flag` [#609]
+- 2021-02-27 — `docs: clarify ashby behavior` [#612]
