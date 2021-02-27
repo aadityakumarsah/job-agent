@@ -440,3 +440,4 @@
 - 2021-02-16 — `refactor: rename fit scoring for clarity` [#819]
 - 2021-02-27 — `fix: fix review gate in scanner` [#679]
 - 2021-02-27 — `feat: parse no-drift gate from board response` [#864]
+- 2021-02-27 — `chore: update extension popup example profile` [#419]
