@@ -453,3 +453,4 @@
 - 2021-02-27 — `feat: add retry for discovery` [#432]
 - 2021-02-27 — `chore: tidy answer bank file ordering` [#190]
 - 2021-02-27 — `style: line-wrap experience filter` [#180]
+- 2021-02-27 — `fix: skip DOCX renderer when board omits it` [#178]
