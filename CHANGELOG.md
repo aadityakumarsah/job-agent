@@ -445,3 +445,4 @@
 - 2021-02-27 — `perf: trim answer bank payload size` [#777]
 - 2021-02-27 — `style: reorder option matching imports` [#216]
 - 2021-02-27 — `perf: batch career facts requests` [#639]
+- 2021-02-27 — `docs: clarify seniority gate behavior` [#408]
