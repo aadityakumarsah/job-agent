@@ -449,3 +449,4 @@
 - 2021-02-27 — `feat: introduce career facts flag` [#609]
 - 2021-02-27 — `docs: clarify ashby behavior` [#612]
 - 2021-02-27 — `feat: implement seen-cache interface` [#546]
+- 2021-02-27 — `test: assert seniority gate shape in tests` [#687]
