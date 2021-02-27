@@ -473,3 +473,4 @@
 - 2021-02-27 — `perf: short-circuit seniority gate before LLM call` [#296]
 - 2021-02-27 — `style: tidy option matching whitespace` [#955]
 - 2021-02-27 — `fix: fix discovery in scanner` [#711]
+- 2021-02-27 — `fix: avoid crashing on option matching` [#838]
