@@ -438,3 +438,4 @@
 - 2021-02-16 — `feat: add answer bank to extension popup` [#880]
 - 2021-02-16 — `style: line-wrap location rule` [#126]
 - 2021-02-16 — `refactor: rename fit scoring for clarity` [#819]
+- 2021-02-27 — `fix: fix review gate in scanner` [#679]
