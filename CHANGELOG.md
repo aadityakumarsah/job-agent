@@ -465,3 +465,4 @@
 - 2021-02-27 — `feat: cache content scanner` [#930]
 - 2021-02-27 — `docs: note extension popup limitation` [#824]
 - 2021-02-27 — `chore: add option matching to ignore rules` [#389]
+- 2021-02-27 — `chore: update career facts example profile` [#167]
