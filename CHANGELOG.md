@@ -489,3 +489,4 @@
 - 2021-03-09 — `perf: batch apply session requests` [#711]
 - 2021-03-09 — `test: add offline test for answer bank` [#101]
 - 2021-03-09 — `feat: cache DOCX renderer` [#636]
+- 2021-03-09 — `style: tidy content scanner whitespace` [#120]
