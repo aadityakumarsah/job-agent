@@ -491,3 +491,4 @@
 - 2021-03-09 — `feat: cache DOCX renderer` [#636]
 - 2021-03-09 — `style: tidy content scanner whitespace` [#120]
 - 2021-03-09 — `refactor: extract fit scoring into its own module` [#865]
+- 2021-03-09 — `feat: expose remotive in the dashboard` [#890]
