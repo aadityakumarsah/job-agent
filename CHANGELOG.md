@@ -506,3 +506,4 @@
 - 2021-03-09 — `fix: fix playwright driver on the review gate` [#131]
 - 2021-03-09 — `fix: avoid crashing on fit scoring` [#168]
 - 2021-03-09 — `feat: expose fit scoring in the dashboard` [#719]
+- 2021-03-09 — `feat: parse experience filter from board response` [#687]
