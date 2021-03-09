@@ -476,3 +476,4 @@
 - 2021-02-27 — `fix: avoid crashing on option matching` [#838]
 - 2021-02-27 — `refactor: simplify application tracker control flow` [#870]
 - 2021-03-09 — `perf: trim no-drift gate payload size` [#955]
+- 2021-03-09 — `test: cover playwright driver with a fixture` [#614]
