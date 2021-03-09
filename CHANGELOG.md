@@ -480,3 +480,4 @@
 - 2021-03-09 — `refactor: rename application tracker for clarity` [#153]
 - 2021-03-09 — `style: tidy location rule whitespace` [#971]
 - 2021-03-09 — `style: tidy discovery whitespace` [#250]
+- 2021-03-09 — `chore: update fit scoring example profile` [#127]
