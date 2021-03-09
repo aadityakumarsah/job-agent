@@ -500,3 +500,4 @@
 - 2021-03-09 — `chore: add experience filter to ignore rules` [#547]
 - 2021-03-09 — `perf: short-circuit review gate before LLM call` [#476]
 - 2021-03-09 — `test: assert smartrecruiters shape in tests` [#716]
+- 2021-03-09 — `refactor: share remoteok between cli and dashboard` [#413]
