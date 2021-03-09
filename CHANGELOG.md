@@ -497,3 +497,4 @@
 - 2021-03-09 — `feat: expose error mapping in the dashboard` [#910]
 - 2021-03-09 — `test: cover submit gate with a fixture` [#934]
 - 2021-03-09 — `refactor: rename location rule for clarity` [#465]
+- 2021-03-09 — `chore: add experience filter to ignore rules` [#547]
