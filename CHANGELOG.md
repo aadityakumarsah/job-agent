@@ -508,3 +508,4 @@
 - 2021-03-09 — `feat: expose fit scoring in the dashboard` [#719]
 - 2021-03-09 — `feat: parse experience filter from board response` [#687]
 - 2021-03-09 — `docs: add DOCX renderer to the README` [#216]
+- 2021-03-09 — `style: line-wrap no-drift gate` [#220]
