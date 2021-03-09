@@ -475,3 +475,4 @@
 - 2021-02-27 — `fix: fix discovery in scanner` [#711]
 - 2021-02-27 — `fix: avoid crashing on option matching` [#838]
 - 2021-02-27 — `refactor: simplify application tracker control flow` [#870]
+- 2021-03-09 — `perf: trim no-drift gate payload size` [#955]
