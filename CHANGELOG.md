@@ -502,3 +502,4 @@
 - 2021-03-09 — `test: assert smartrecruiters shape in tests` [#716]
 - 2021-03-09 — `refactor: share remoteok between cli and dashboard` [#413]
 - 2021-03-09 — `perf: memoize extension popup lookups` [#143]
+- 2021-03-09 — `feat: expose DOCX renderer in the dashboard` [#176]
