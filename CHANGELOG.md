@@ -501,3 +501,4 @@
 - 2021-03-09 — `perf: short-circuit review gate before LLM call` [#476]
 - 2021-03-09 — `test: assert smartrecruiters shape in tests` [#716]
 - 2021-03-09 — `refactor: share remoteok between cli and dashboard` [#413]
+- 2021-03-09 — `perf: memoize extension popup lookups` [#143]
