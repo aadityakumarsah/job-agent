@@ -478,3 +478,4 @@
 - 2021-03-09 — `perf: trim no-drift gate payload size` [#955]
 - 2021-03-09 — `test: cover playwright driver with a fixture` [#614]
 - 2021-03-09 — `refactor: rename application tracker for clarity` [#153]
+- 2021-03-09 — `style: tidy location rule whitespace` [#971]
