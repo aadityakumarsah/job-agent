@@ -483,3 +483,4 @@
 - 2021-03-09 — `chore: update fit scoring example profile` [#127]
 - 2021-03-09 — `feat: implement discovery interface` [#483]
 - 2021-03-09 — `chore: add error mapping to ignore rules` [#910]
+- 2021-03-09 — `fix: set sensible defaults for greenhouse` [#877]
