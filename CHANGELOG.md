@@ -494,3 +494,4 @@
 - 2021-03-09 — `feat: expose remotive in the dashboard` [#890]
 - 2021-03-09 — `style: line-wrap no-drift gate` [#446]
 - 2021-03-09 — `fix: respect lever in scoring` [#930]
+- 2021-03-09 — `feat: expose error mapping in the dashboard` [#910]
