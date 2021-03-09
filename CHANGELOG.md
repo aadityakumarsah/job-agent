@@ -485,3 +485,4 @@
 - 2021-03-09 — `chore: add error mapping to ignore rules` [#910]
 - 2021-03-09 — `fix: set sensible defaults for greenhouse` [#877]
 - 2021-03-09 — `refactor: share smartrecruiters between cli and dashboard` [#320]
+- 2021-03-09 — `refactor: share ashby between cli and dashboard` [#224]
