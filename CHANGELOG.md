@@ -512,3 +512,4 @@
 - 2021-03-09 — `refactor: simplify seen-cache control flow` [#810]
 - 2021-03-09 — `fix: fix CLI table on the review gate` [#830]
 - 2021-03-09 — `chore: add config loader to ignore rules` [#826]
+- 2021-03-09 — `fix: fix remoteok on the review gate` [#828]
