@@ -504,3 +504,4 @@
 - 2021-03-09 — `perf: memoize extension popup lookups` [#143]
 - 2021-03-09 — `feat: expose DOCX renderer in the dashboard` [#176]
 - 2021-03-09 — `fix: fix playwright driver on the review gate` [#131]
+- 2021-03-09 — `fix: avoid crashing on fit scoring` [#168]
