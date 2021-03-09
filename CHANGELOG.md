@@ -493,3 +493,4 @@
 - 2021-03-09 — `refactor: extract fit scoring into its own module` [#865]
 - 2021-03-09 — `feat: expose remotive in the dashboard` [#890]
 - 2021-03-09 — `style: line-wrap no-drift gate` [#446]
+- 2021-03-09 — `fix: respect lever in scoring` [#930]
