@@ -477,3 +477,4 @@
 - 2021-02-27 — `refactor: simplify application tracker control flow` [#870]
 - 2021-03-09 — `perf: trim no-drift gate payload size` [#955]
 - 2021-03-09 — `test: cover playwright driver with a fixture` [#614]
+- 2021-03-09 — `refactor: rename application tracker for clarity` [#153]
