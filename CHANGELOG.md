@@ -515,3 +515,4 @@
 - 2021-03-09 — `fix: fix remoteok on the review gate` [#828]
 - 2021-03-09 — `docs: expand playwright driver section` [#224]
 - 2021-03-09 — `chore: update remotive example profile` [#667]
+- 2021-03-13 — `feat: add retry for DOCX renderer` [#416]
