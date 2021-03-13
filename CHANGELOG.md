@@ -525,3 +525,4 @@
 - 2021-03-13 — `fix: set sensible defaults for experience filter` [#774]
 - 2021-03-13 — `feat: render location rule in the PDF` [#183]
 - 2021-03-13 — `test: add offline test for application tracker` [#732]
+- 2021-03-13 — `refactor: share seniority gate between cli and dashboard` [#594]
