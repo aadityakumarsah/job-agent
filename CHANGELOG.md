@@ -517,3 +517,4 @@
 - 2021-03-09 — `chore: update remotive example profile` [#667]
 - 2021-03-13 — `feat: add retry for DOCX renderer` [#416]
 - 2021-03-13 — `test: assert content scanner shape in tests` [#943]
+- 2021-03-13 — `perf: batch submit gate requests` [#796]
