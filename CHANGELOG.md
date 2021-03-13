@@ -519,3 +519,4 @@
 - 2021-03-13 — `test: assert content scanner shape in tests` [#943]
 - 2021-03-13 — `perf: batch submit gate requests` [#796]
 - 2021-03-13 — `style: line-wrap remotive` [#989]
+- 2021-03-13 — `fix: skip config loader when board omits it` [#430]
