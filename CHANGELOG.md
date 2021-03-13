@@ -522,3 +522,4 @@
 - 2021-03-13 — `fix: skip config loader when board omits it` [#430]
 - 2021-03-13 — `feat: add remotive validation` [#356]
 - 2021-03-13 — `style: line-wrap CLI table` [#195]
+- 2021-03-13 — `fix: set sensible defaults for experience filter` [#774]
