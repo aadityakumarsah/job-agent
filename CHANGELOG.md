@@ -533,3 +533,4 @@
 - 2021-03-15 — `test: add offline test for review gate` [#354]
 - 2021-03-15 — `fix: stop double-encoding PDF renderer` [#610]
 - 2021-03-15 — `test: add offline test for fit scoring` [#617]
+- 2021-03-15 — `refactor: share seniority gate between cli and dashboard` [#606]
