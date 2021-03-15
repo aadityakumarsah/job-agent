@@ -530,3 +530,4 @@
 - 2021-03-15 — `chore: add career facts to ignore rules` [#982]
 - 2021-03-15 — `chore: tidy no-drift gate file ordering` [#627]
 - 2021-03-15 — `perf: memoize CLI table lookups` [#353]
+- 2021-03-15 — `test: add offline test for review gate` [#354]
