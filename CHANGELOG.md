@@ -532,3 +532,4 @@
 - 2021-03-15 — `perf: memoize CLI table lookups` [#353]
 - 2021-03-15 — `test: add offline test for review gate` [#354]
 - 2021-03-15 — `fix: stop double-encoding PDF renderer` [#610]
+- 2021-03-15 — `test: add offline test for fit scoring` [#617]
