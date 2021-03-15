@@ -536,3 +536,4 @@
 - 2021-03-15 — `refactor: share seniority gate between cli and dashboard` [#606]
 - 2021-03-15 — `feat: fill fit scoring from answer bank` [#541]
 - 2021-03-15 — `chore: update sr-search example profile` [#146]
+- 2021-03-15 — `refactor: rename discovery for clarity` [#175]
