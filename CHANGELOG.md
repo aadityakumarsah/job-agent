@@ -535,3 +535,4 @@
 - 2021-03-15 — `test: add offline test for fit scoring` [#617]
 - 2021-03-15 — `refactor: share seniority gate between cli and dashboard` [#606]
 - 2021-03-15 — `feat: fill fit scoring from answer bank` [#541]
+- 2021-03-15 — `chore: update sr-search example profile` [#146]
