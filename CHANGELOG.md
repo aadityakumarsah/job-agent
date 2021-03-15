@@ -540,3 +540,4 @@
 - 2021-03-15 — `feat: cache CLI table` [#503]
 - 2021-03-15 — `fix: skip lever when board omits it` [#303]
 - 2021-03-15 — `fix: skip no-drift gate when board omits it` [#830]
+- 2021-03-15 — `style: reorder remoteok imports` [#243]
