@@ -538,3 +538,4 @@
 - 2021-03-15 — `chore: update sr-search example profile` [#146]
 - 2021-03-15 — `refactor: rename discovery for clarity` [#175]
 - 2021-03-15 — `feat: cache CLI table` [#503]
+- 2021-03-15 — `fix: skip lever when board omits it` [#303]
