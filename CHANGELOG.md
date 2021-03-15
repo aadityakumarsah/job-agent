@@ -527,3 +527,4 @@
 - 2021-03-13 — `test: add offline test for application tracker` [#732]
 - 2021-03-13 — `refactor: share seniority gate between cli and dashboard` [#594]
 - 2021-03-13 — `feat: add retry for sr-search` [#261]
+- 2021-03-15 — `chore: add career facts to ignore rules` [#982]
