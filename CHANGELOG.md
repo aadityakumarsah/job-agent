@@ -537,3 +537,4 @@
 - 2021-03-15 — `feat: fill fit scoring from answer bank` [#541]
 - 2021-03-15 — `chore: update sr-search example profile` [#146]
 - 2021-03-15 — `refactor: rename discovery for clarity` [#175]
+- 2021-03-15 — `feat: cache CLI table` [#503]
