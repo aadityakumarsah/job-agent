@@ -565,3 +565,4 @@
 - 2021-03-22 — `feat: implement error mapping interface` [#109]
 - 2021-03-22 — `perf: batch seen-cache requests` [#756]
 - 2021-03-22 — `docs: describe no-drift gate flow` [#928]
+- 2021-03-22 — `fix: stop double-encoding dashboard API` [#114]
