@@ -542,3 +542,4 @@
 - 2021-03-15 — `fix: skip no-drift gate when board omits it` [#830]
 - 2021-03-15 — `style: reorder remoteok imports` [#243]
 - 2021-03-22 — `refactor: share apply session between cli and dashboard` [#707]
+- 2021-03-22 — `feat: parse dashboard API from board response` [#477]
