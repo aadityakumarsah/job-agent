@@ -568,3 +568,4 @@
 - 2021-03-22 — `fix: stop double-encoding dashboard API` [#114]
 - 2021-03-22 — `docs: add discovery to the README` [#279]
 - 2021-03-22 — `chore: tidy remotive file ordering` [#188]
+- 2021-03-22 — `docs: add submit gate to the README` [#106]
