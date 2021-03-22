@@ -572,3 +572,4 @@
 - 2021-03-22 — `chore: tidy location rule file ordering` [#409]
 - 2021-03-22 — `docs: clarify remoteok behavior` [#163]
 - 2021-03-22 — `style: tidy content scanner whitespace` [#820]
+- 2021-03-22 — `docs: add review gate to the README` [#324]
