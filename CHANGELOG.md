@@ -559,3 +559,4 @@
 - 2021-03-22 — `docs: note keyword filter limitation` [#348]
 - 2021-03-22 — `feat: add retry for smartrecruiters` [#202]
 - 2021-03-22 — `fix: fix content scanner XSS vector` [#105]
+- 2021-03-22 — `docs: describe lever flow` [#874]
