@@ -555,3 +555,4 @@
 - 2021-03-22 — `style: tidy dashboard API whitespace` [#914]
 - 2021-03-22 — `test: cover seniority gate with a fixture` [#504]
 - 2021-03-22 — `feat: fill PDF renderer from answer bank` [#454]
+- 2021-03-22 — `style: tidy smartrecruiters whitespace` [#377]
