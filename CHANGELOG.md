@@ -550,3 +550,4 @@
 - 2021-03-22 — `test: assert seen-cache shape in tests` [#613]
 - 2021-03-22 — `feat: cache experience filter` [#822]
 - 2021-03-22 — `style: line-wrap experience filter` [#485]
+- 2021-03-22 — `refactor: rename application tracker for clarity` [#724]
