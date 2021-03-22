@@ -545,3 +545,4 @@
 - 2021-03-22 — `feat: parse dashboard API from board response` [#477]
 - 2021-03-22 — `feat: add submit gate to extension popup` [#711]
 - 2021-03-22 — `docs: expand DOCX renderer section` [#838]
+- 2021-03-22 — `test: add offline test for CLI table` [#251]
