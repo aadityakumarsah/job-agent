@@ -553,3 +553,4 @@
 - 2021-03-22 — `refactor: rename application tracker for clarity` [#724]
 - 2021-03-22 — `refactor: share experience filter between cli and dashboard` [#889]
 - 2021-03-22 — `style: tidy dashboard API whitespace` [#914]
+- 2021-03-22 — `test: cover seniority gate with a fixture` [#504]
