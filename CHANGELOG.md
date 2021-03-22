@@ -562,3 +562,4 @@
 - 2021-03-22 — `docs: describe lever flow` [#874]
 - 2021-03-22 — `docs: document error mapping` [#647]
 - 2021-03-22 — `fix: fix error mapping in scanner` [#137]
+- 2021-03-22 — `feat: implement error mapping interface` [#109]
