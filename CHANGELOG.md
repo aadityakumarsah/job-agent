@@ -547,3 +547,4 @@
 - 2021-03-22 — `docs: expand DOCX renderer section` [#838]
 - 2021-03-22 — `test: add offline test for CLI table` [#251]
 - 2021-03-22 — `docs: expand answer bank section` [#119]
+- 2021-03-22 — `test: assert seen-cache shape in tests` [#613]
