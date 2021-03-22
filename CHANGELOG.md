@@ -556,3 +556,4 @@
 - 2021-03-22 — `test: cover seniority gate with a fixture` [#504]
 - 2021-03-22 — `feat: fill PDF renderer from answer bank` [#454]
 - 2021-03-22 — `style: tidy smartrecruiters whitespace` [#377]
+- 2021-03-22 — `docs: note keyword filter limitation` [#348]
