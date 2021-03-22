@@ -557,3 +557,4 @@
 - 2021-03-22 — `feat: fill PDF renderer from answer bank` [#454]
 - 2021-03-22 — `style: tidy smartrecruiters whitespace` [#377]
 - 2021-03-22 — `docs: note keyword filter limitation` [#348]
+- 2021-03-22 — `feat: add retry for smartrecruiters` [#202]
