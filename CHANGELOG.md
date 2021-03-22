@@ -561,3 +561,4 @@
 - 2021-03-22 — `fix: fix content scanner XSS vector` [#105]
 - 2021-03-22 — `docs: describe lever flow` [#874]
 - 2021-03-22 — `docs: document error mapping` [#647]
+- 2021-03-22 — `fix: fix error mapping in scanner` [#137]
