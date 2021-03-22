@@ -551,3 +551,4 @@
 - 2021-03-22 — `feat: cache experience filter` [#822]
 - 2021-03-22 — `style: line-wrap experience filter` [#485]
 - 2021-03-22 — `refactor: rename application tracker for clarity` [#724]
+- 2021-03-22 — `refactor: share experience filter between cli and dashboard` [#889]
