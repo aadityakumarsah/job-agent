@@ -543,3 +543,4 @@
 - 2021-03-15 — `style: reorder remoteok imports` [#243]
 - 2021-03-22 — `refactor: share apply session between cli and dashboard` [#707]
 - 2021-03-22 — `feat: parse dashboard API from board response` [#477]
+- 2021-03-22 — `feat: add submit gate to extension popup` [#711]
