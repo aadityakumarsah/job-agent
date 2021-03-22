@@ -549,3 +549,4 @@
 - 2021-03-22 — `docs: expand answer bank section` [#119]
 - 2021-03-22 — `test: assert seen-cache shape in tests` [#613]
 - 2021-03-22 — `feat: cache experience filter` [#822]
+- 2021-03-22 — `style: line-wrap experience filter` [#485]
