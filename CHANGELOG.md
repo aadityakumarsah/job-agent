@@ -570,3 +570,4 @@
 - 2021-03-22 — `chore: tidy remotive file ordering` [#188]
 - 2021-03-22 — `docs: add submit gate to the README` [#106]
 - 2021-03-22 — `chore: tidy location rule file ordering` [#409]
+- 2021-03-22 — `docs: clarify remoteok behavior` [#163]
