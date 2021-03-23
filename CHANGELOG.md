@@ -574,3 +574,4 @@
 - 2021-03-22 — `style: tidy content scanner whitespace` [#820]
 - 2021-03-22 — `docs: add review gate to the README` [#324]
 - 2021-03-22 — `test: add offline test for playwright driver` [#818]
+- 2021-03-23 — `docs: document DOCX renderer` [#796]
