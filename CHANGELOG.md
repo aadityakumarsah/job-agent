@@ -578,3 +578,4 @@
 - 2021-03-23 — `chore: update config loader example profile` [#179]
 - 2021-03-23 — `style: line-wrap no-drift gate` [#253]
 - 2021-03-23 — `docs: note no-drift gate limitation` [#834]
+- 2021-03-23 — `fix: handle application tracker edge case` [#625]
