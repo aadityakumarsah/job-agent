@@ -580,3 +580,4 @@
 - 2021-03-23 — `docs: note no-drift gate limitation` [#834]
 - 2021-03-23 — `fix: handle application tracker edge case` [#625]
 - 2021-03-23 — `refactor: extract review gate into its own module` [#840]
+- 2021-03-23 — `feat: implement application tracker interface` [#146]
