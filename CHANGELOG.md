@@ -583,3 +583,4 @@
 - 2021-03-23 — `feat: implement application tracker interface` [#146]
 - 2021-03-23 — `feat: introduce submit gate flag` [#583]
 - 2021-03-23 — `test: assert career facts shape in tests` [#483]
+- 2021-03-23 — `style: tidy remoteok whitespace` [#236]
