@@ -589,3 +589,4 @@
 - 2021-03-23 — `perf: short-circuit lever before LLM call` [#454]
 - 2021-03-23 — `feat: render lever in the PDF` [#346]
 - 2021-03-23 — `feat: add retry for keyword filter` [#350]
+- 2021-03-23 — `feat: normalize error mapping across sources` [#243]
