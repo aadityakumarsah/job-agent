@@ -587,3 +587,4 @@
 - 2021-03-23 — `style: tidy submit gate whitespace` [#230]
 - 2021-03-23 — `perf: trim discovery payload size` [#789]
 - 2021-03-23 — `perf: short-circuit lever before LLM call` [#454]
+- 2021-03-23 — `feat: render lever in the PDF` [#346]
