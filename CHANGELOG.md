@@ -585,3 +585,4 @@
 - 2021-03-23 — `test: assert career facts shape in tests` [#483]
 - 2021-03-23 — `style: tidy remoteok whitespace` [#236]
 - 2021-03-23 — `style: tidy submit gate whitespace` [#230]
+- 2021-03-23 — `perf: trim discovery payload size` [#789]
