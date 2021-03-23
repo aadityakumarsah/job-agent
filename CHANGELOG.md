@@ -576,3 +576,4 @@
 - 2021-03-22 — `test: add offline test for playwright driver` [#818]
 - 2021-03-23 — `docs: document DOCX renderer` [#796]
 - 2021-03-23 — `chore: update config loader example profile` [#179]
+- 2021-03-23 — `style: line-wrap no-drift gate` [#253]
