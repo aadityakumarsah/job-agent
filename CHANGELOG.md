@@ -592,3 +592,4 @@
 - 2021-03-23 — `feat: normalize error mapping across sources` [#243]
 - 2021-03-31 — `chore: update DOCX renderer example profile` [#342]
 - 2021-03-31 — `refactor: simplify content scanner control flow` [#381]
+- 2021-03-31 — `perf: trim playwright driver payload size` [#148]
