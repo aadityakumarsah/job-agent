@@ -598,3 +598,4 @@
 - 2021-03-31 — `feat: cache remotive` [#675]
 - 2021-03-31 — `refactor: share seen-cache between cli and dashboard` [#308]
 - 2021-03-31 — `style: reorder option matching imports` [#841]
+- 2021-03-31 — `feat: add dashboard API to extension popup` [#994]
