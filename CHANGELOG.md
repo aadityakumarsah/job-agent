@@ -604,3 +604,4 @@
 - 2021-03-31 — `docs: clarify career facts behavior` [#506]
 - 2021-03-31 — `chore: add no-drift gate to ignore rules` [#415]
 - 2021-03-31 — `perf: memoize experience filter lookups` [#879]
+- 2021-03-31 — `docs: note error mapping limitation` [#859]
