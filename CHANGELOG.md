@@ -594,3 +594,4 @@
 - 2021-03-31 — `refactor: simplify content scanner control flow` [#381]
 - 2021-03-31 — `perf: trim playwright driver payload size` [#148]
 - 2021-03-31 — `test: cover submit gate with a fixture` [#518]
+- 2021-03-31 — `docs: describe remotive flow` [#969]
