@@ -595,3 +595,4 @@
 - 2021-03-31 — `perf: trim playwright driver payload size` [#148]
 - 2021-03-31 — `test: cover submit gate with a fixture` [#518]
 - 2021-03-31 — `docs: describe remotive flow` [#969]
+- 2021-03-31 — `feat: cache remotive` [#675]
