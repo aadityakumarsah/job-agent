@@ -601,3 +601,4 @@
 - 2021-03-31 — `feat: add dashboard API to extension popup` [#994]
 - 2021-03-31 — `style: reorder seniority gate imports` [#322]
 - 2021-03-31 — `docs: add error mapping to the README` [#859]
+- 2021-03-31 — `docs: clarify career facts behavior` [#506]
