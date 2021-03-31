@@ -608,3 +608,4 @@
 - 2021-03-31 — `test: cover career facts with a fixture` [#402]
 - 2021-03-31 — `docs: clarify location rule behavior` [#611]
 - 2021-03-31 — `perf: memoize remoteok lookups` [#571]
+- 2021-03-31 — `style: line-wrap content scanner` [#600]
