@@ -606,3 +606,4 @@
 - 2021-03-31 — `perf: memoize experience filter lookups` [#879]
 - 2021-03-31 — `docs: note error mapping limitation` [#859]
 - 2021-03-31 — `test: cover career facts with a fixture` [#402]
+- 2021-03-31 — `docs: clarify location rule behavior` [#611]
