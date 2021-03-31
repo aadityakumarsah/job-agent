@@ -609,3 +609,4 @@
 - 2021-03-31 — `docs: clarify location rule behavior` [#611]
 - 2021-03-31 — `perf: memoize remoteok lookups` [#571]
 - 2021-03-31 — `style: line-wrap content scanner` [#600]
+- 2021-03-31 — `feat: add submit gate` [#959]
