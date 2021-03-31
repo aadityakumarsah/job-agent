@@ -593,3 +593,4 @@
 - 2021-03-31 — `chore: update DOCX renderer example profile` [#342]
 - 2021-03-31 — `refactor: simplify content scanner control flow` [#381]
 - 2021-03-31 — `perf: trim playwright driver payload size` [#148]
+- 2021-03-31 — `test: cover submit gate with a fixture` [#518]
