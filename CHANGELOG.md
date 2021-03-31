@@ -590,3 +590,4 @@
 - 2021-03-23 — `feat: render lever in the PDF` [#346]
 - 2021-03-23 — `feat: add retry for keyword filter` [#350]
 - 2021-03-23 — `feat: normalize error mapping across sources` [#243]
+- 2021-03-31 — `chore: update DOCX renderer example profile` [#342]
