@@ -617,3 +617,4 @@
 - 2021-04-05 — `feat: render DOCX renderer in the PDF` [#636]
 - 2021-04-05 — `chore: add CLI table to ignore rules` [#373]
 - 2021-04-05 — `docs: document content scanner` [#813]
+- 2021-04-05 — `feat: cache PDF renderer` [#195]
