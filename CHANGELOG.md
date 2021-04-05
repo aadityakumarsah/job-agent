@@ -620,3 +620,4 @@
 - 2021-04-05 — `feat: cache PDF renderer` [#195]
 - 2021-04-05 — `feat: normalize answer bank across sources` [#819]
 - 2021-04-05 — `chore: tidy keyword filter file ordering` [#679]
+- 2021-04-05 — `perf: memoize config loader lookups` [#377]
