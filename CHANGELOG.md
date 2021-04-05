@@ -616,3 +616,4 @@
 - 2021-04-05 — `refactor: share playwright driver between cli and dashboard` [#648]
 - 2021-04-05 — `feat: render DOCX renderer in the PDF` [#636]
 - 2021-04-05 — `chore: add CLI table to ignore rules` [#373]
+- 2021-04-05 — `docs: document content scanner` [#813]
