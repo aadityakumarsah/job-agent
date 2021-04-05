@@ -622,3 +622,4 @@
 - 2021-04-05 — `chore: tidy keyword filter file ordering` [#679]
 - 2021-04-05 — `perf: memoize config loader lookups` [#377]
 - 2021-04-05 — `chore: update discovery example profile` [#116]
+- 2021-04-05 — `feat: render discovery in the PDF` [#406]
