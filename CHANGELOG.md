@@ -612,3 +612,4 @@
 - 2021-03-31 — `feat: add submit gate` [#959]
 - 2021-04-05 — `docs: expand DOCX renderer section` [#169]
 - 2021-04-05 — `feat: render error mapping in the PDF` [#732]
+- 2021-04-05 — `perf: trim greenhouse payload size` [#116]
