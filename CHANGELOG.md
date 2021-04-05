@@ -623,3 +623,4 @@
 - 2021-04-05 — `perf: memoize config loader lookups` [#377]
 - 2021-04-05 — `chore: update discovery example profile` [#116]
 - 2021-04-05 — `feat: render discovery in the PDF` [#406]
+- 2021-04-05 — `style: tidy playwright driver whitespace` [#439]
