@@ -619,3 +619,4 @@
 - 2021-04-05 — `docs: document content scanner` [#813]
 - 2021-04-05 — `feat: cache PDF renderer` [#195]
 - 2021-04-05 — `feat: normalize answer bank across sources` [#819]
+- 2021-04-05 — `chore: tidy keyword filter file ordering` [#679]
