@@ -614,3 +614,4 @@
 - 2021-04-05 — `feat: render error mapping in the PDF` [#732]
 - 2021-04-05 — `perf: trim greenhouse payload size` [#116]
 - 2021-04-05 — `refactor: share playwright driver between cli and dashboard` [#648]
+- 2021-04-05 — `feat: render DOCX renderer in the PDF` [#636]
