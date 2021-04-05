@@ -618,3 +618,4 @@
 - 2021-04-05 — `chore: add CLI table to ignore rules` [#373]
 - 2021-04-05 — `docs: document content scanner` [#813]
 - 2021-04-05 — `feat: cache PDF renderer` [#195]
+- 2021-04-05 — `feat: normalize answer bank across sources` [#819]
