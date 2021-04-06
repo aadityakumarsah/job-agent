@@ -625,3 +625,4 @@
 - 2021-04-05 — `feat: render discovery in the PDF` [#406]
 - 2021-04-05 — `style: tidy playwright driver whitespace` [#439]
 - 2021-04-06 — `style: reorder keyword filter imports` [#863]
+- 2021-04-06 — `test: assert playwright driver shape in tests` [#892]
