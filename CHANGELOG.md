@@ -630,3 +630,4 @@
 - 2021-04-06 — `test: cover apply session with a fixture` [#187]
 - 2021-04-06 — `refactor: simplify review gate control flow` [#257]
 - 2021-04-06 — `chore: add fit scoring to ignore rules` [#209]
+- 2021-04-06 — `fix: skip application tracker when board omits it` [#189]
