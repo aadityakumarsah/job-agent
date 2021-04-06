@@ -626,3 +626,4 @@
 - 2021-04-05 — `style: tidy playwright driver whitespace` [#439]
 - 2021-04-06 — `style: reorder keyword filter imports` [#863]
 - 2021-04-06 — `test: assert playwright driver shape in tests` [#892]
+- 2021-04-06 — `docs: expand option matching section` [#464]
