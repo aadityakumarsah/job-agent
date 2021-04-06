@@ -633,3 +633,4 @@
 - 2021-04-06 — `fix: skip application tracker when board omits it` [#189]
 - 2021-04-06 — `feat: implement extension popup interface` [#126]
 - 2021-04-06 — `chore: add career facts to ignore rules` [#984]
+- 2021-04-06 — `style: line-wrap career facts` [#348]
