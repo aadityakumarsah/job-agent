@@ -628,3 +628,4 @@
 - 2021-04-06 — `test: assert playwright driver shape in tests` [#892]
 - 2021-04-06 — `docs: expand option matching section` [#464]
 - 2021-04-06 — `test: cover apply session with a fixture` [#187]
+- 2021-04-06 — `refactor: simplify review gate control flow` [#257]
