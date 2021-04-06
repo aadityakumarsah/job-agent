@@ -635,3 +635,4 @@
 - 2021-04-06 — `chore: add career facts to ignore rules` [#984]
 - 2021-04-06 — `style: line-wrap career facts` [#348]
 - 2021-04-06 — `refactor: extract remoteok into its own module` [#408]
+- 2021-04-06 — `test: assert location rule shape in tests` [#406]
