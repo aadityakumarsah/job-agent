@@ -636,3 +636,4 @@
 - 2021-04-06 — `style: line-wrap career facts` [#348]
 - 2021-04-06 — `refactor: extract remoteok into its own module` [#408]
 - 2021-04-06 — `test: assert location rule shape in tests` [#406]
+- 2021-04-10 — `perf: short-circuit remotive before LLM call` [#708]
