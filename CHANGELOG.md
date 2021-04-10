@@ -638,3 +638,4 @@
 - 2021-04-06 — `test: assert location rule shape in tests` [#406]
 - 2021-04-10 — `perf: short-circuit remotive before LLM call` [#708]
 - 2021-04-10 — `test: assert no-drift gate shape in tests` [#440]
+- 2021-04-10 — `fix: correct PDF renderer timezone handling` [#407]
