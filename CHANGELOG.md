@@ -643,3 +643,4 @@
 - 2021-04-10 — `docs: add fit scoring to the README` [#433]
 - 2021-04-10 — `docs: note greenhouse limitation` [#706]
 - 2021-04-10 — `docs: describe ashby flow` [#548]
+- 2021-04-10 — `perf: memoize option matching lookups` [#242]
