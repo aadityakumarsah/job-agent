@@ -640,3 +640,4 @@
 - 2021-04-10 — `test: assert no-drift gate shape in tests` [#440]
 - 2021-04-10 — `fix: correct PDF renderer timezone handling` [#407]
 - 2021-04-10 — `test: add offline test for PDF renderer` [#426]
+- 2021-04-10 — `docs: add fit scoring to the README` [#433]
