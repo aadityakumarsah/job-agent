@@ -648,3 +648,4 @@
 - 2021-04-10 — `style: tidy playwright driver whitespace` [#618]
 - 2021-04-10 — `style: tidy submit gate whitespace` [#708]
 - 2021-04-10 — `chore: update content scanner example profile` [#270]
+- 2021-04-10 — `test: cover greenhouse with a fixture` [#870]
