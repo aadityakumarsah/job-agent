@@ -651,3 +651,4 @@
 - 2021-04-10 — `test: cover greenhouse with a fixture` [#870]
 - 2021-04-10 — `docs: note apply session limitation` [#622]
 - 2021-04-10 — `perf: batch fit scoring requests` [#483]
+- 2021-04-10 — `feat: implement discovery interface` [#402]
