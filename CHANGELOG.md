@@ -659,3 +659,4 @@
 - 2021-04-10 — `test: add offline test for remoteok` [#573]
 - 2021-04-10 — `test: cover no-drift gate with a fixture` [#505]
 - 2021-04-10 — `test: assert submit gate shape in tests` [#104]
+- 2021-04-10 — `feat: cache remoteok` [#691]
