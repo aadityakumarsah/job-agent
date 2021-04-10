@@ -653,3 +653,4 @@
 - 2021-04-10 — `perf: batch fit scoring requests` [#483]
 - 2021-04-10 — `feat: implement discovery interface` [#402]
 - 2021-04-10 — `chore: tidy DOCX renderer file ordering` [#419]
+- 2021-04-10 — `perf: trim experience filter payload size` [#199]
