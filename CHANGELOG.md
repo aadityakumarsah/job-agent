@@ -663,3 +663,4 @@
 - 2021-04-10 — `docs: add DOCX renderer to the README` [#568]
 - 2021-04-10 — `test: assert fit scoring shape in tests` [#725]
 - 2021-04-10 — `fix: stop double-encoding error mapping` [#933]
+- 2021-04-10 — `feat: wire up seniority gate pipeline` [#788]
