@@ -647,3 +647,4 @@
 - 2021-04-10 — `test: add offline test for PDF renderer` [#908]
 - 2021-04-10 — `style: tidy playwright driver whitespace` [#618]
 - 2021-04-10 — `style: tidy submit gate whitespace` [#708]
+- 2021-04-10 — `chore: update content scanner example profile` [#270]
