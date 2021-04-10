@@ -657,3 +657,4 @@
 - 2021-04-10 — `feat: normalize experience filter across sources` [#929]
 - 2021-04-10 — `fix: skip remoteok when board omits it` [#858]
 - 2021-04-10 — `test: add offline test for remoteok` [#573]
+- 2021-04-10 — `test: cover no-drift gate with a fixture` [#505]
