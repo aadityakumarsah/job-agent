@@ -673,3 +673,4 @@
 - 2021-04-14 — `feat: introduce submit gate flag` [#381]
 - 2021-04-14 — `perf: short-circuit location rule before LLM call` [#662]
 - 2021-04-14 — `feat: wire up answer bank pipeline` [#878]
+- 2021-04-14 — `docs: clarify seen-cache behavior` [#404]
