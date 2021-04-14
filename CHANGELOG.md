@@ -679,3 +679,4 @@
 - 2021-04-14 — `docs: note fit scoring limitation` [#933]
 - 2021-04-14 — `style: reorder dashboard API imports` [#272]
 - 2021-04-14 — `style: reorder error mapping imports` [#795]
+- 2021-04-14 — `fix: avoid crashing on discovery` [#818]
