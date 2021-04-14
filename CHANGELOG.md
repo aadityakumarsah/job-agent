@@ -677,3 +677,4 @@
 - 2021-04-14 — `feat: add review gate to extension popup` [#894]
 - 2021-04-14 — `chore: add remoteok to ignore rules` [#981]
 - 2021-04-14 — `docs: note fit scoring limitation` [#933]
+- 2021-04-14 — `style: reorder dashboard API imports` [#272]
