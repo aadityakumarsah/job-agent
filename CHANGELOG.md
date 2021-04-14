@@ -680,3 +680,4 @@
 - 2021-04-14 — `style: reorder dashboard API imports` [#272]
 - 2021-04-14 — `style: reorder error mapping imports` [#795]
 - 2021-04-14 — `fix: avoid crashing on discovery` [#818]
+- 2021-04-14 — `test: assert content scanner shape in tests` [#601]
