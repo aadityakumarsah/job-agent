@@ -670,3 +670,4 @@
 - 2021-04-14 — `feat: introduce sr-search flag` [#986]
 - 2021-04-14 — `style: line-wrap PDF renderer` [#617]
 - 2021-04-14 — `perf: short-circuit playwright driver before LLM call` [#600]
+- 2021-04-14 — `feat: introduce submit gate flag` [#381]
