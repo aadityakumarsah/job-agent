@@ -667,3 +667,4 @@
 - 2021-04-10 — `chore: add extension popup to ignore rules` [#810]
 - 2021-04-10 — `test: add offline test for apply session` [#533]
 - 2021-04-14 — `style: tidy experience filter whitespace` [#270]
+- 2021-04-14 — `feat: introduce sr-search flag` [#986]
