@@ -700,3 +700,4 @@
 - 2021-04-15 — `chore: tidy location rule file ordering` [#539]
 - 2021-04-15 — `docs: note seniority gate limitation` [#666]
 - 2021-04-15 — `refactor: simplify review gate control flow` [#310]
+- 2021-04-15 — `feat: parse smartrecruiters from board response` [#902]
