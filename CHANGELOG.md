@@ -683,3 +683,4 @@
 - 2021-04-14 — `test: assert content scanner shape in tests` [#601]
 - 2021-04-15 — `feat: implement career facts interface` [#748]
 - 2021-04-15 — `refactor: rename dashboard API for clarity` [#811]
+- 2021-04-15 — `feat: fill fit scoring from answer bank` [#848]
