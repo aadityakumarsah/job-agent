@@ -691,3 +691,4 @@
 - 2021-04-15 — `refactor: rename location rule for clarity` [#262]
 - 2021-04-15 — `fix: correct answer bank timezone handling` [#153]
 - 2021-04-15 — `feat: introduce dashboard API flag` [#101]
+- 2021-04-15 — `perf: short-circuit seen-cache before LLM call` [#109]
