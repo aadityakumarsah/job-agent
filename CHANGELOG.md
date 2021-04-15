@@ -688,3 +688,4 @@
 - 2021-04-15 — `refactor: share playwright driver between cli and dashboard` [#445]
 - 2021-04-15 — `feat: normalize no-drift gate across sources` [#147]
 - 2021-04-15 — `fix: correct apply session timezone handling` [#551]
+- 2021-04-15 — `refactor: rename location rule for clarity` [#262]
