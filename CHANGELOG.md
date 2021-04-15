@@ -702,3 +702,4 @@
 - 2021-04-15 — `refactor: simplify review gate control flow` [#310]
 - 2021-04-15 — `feat: parse smartrecruiters from board response` [#902]
 - 2021-04-15 — `feat: expose remotive in the dashboard` [#640]
+- 2021-04-15 — `test: assert CLI table shape in tests` [#474]
