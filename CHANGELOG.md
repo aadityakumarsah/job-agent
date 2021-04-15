@@ -697,3 +697,4 @@
 - 2021-04-15 — `feat: track remoteok per application` [#643]
 - 2021-04-15 — `docs: add extension popup to the README` [#743]
 - 2021-04-15 — `docs: document dashboard API` [#188]
+- 2021-04-15 — `chore: tidy location rule file ordering` [#539]
