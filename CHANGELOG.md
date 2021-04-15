@@ -686,3 +686,4 @@
 - 2021-04-15 — `feat: fill fit scoring from answer bank` [#848]
 - 2021-04-15 — `style: tidy PDF renderer whitespace` [#507]
 - 2021-04-15 — `refactor: share playwright driver between cli and dashboard` [#445]
+- 2021-04-15 — `feat: normalize no-drift gate across sources` [#147]
