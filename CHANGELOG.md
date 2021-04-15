@@ -699,3 +699,4 @@
 - 2021-04-15 — `docs: document dashboard API` [#188]
 - 2021-04-15 — `chore: tidy location rule file ordering` [#539]
 - 2021-04-15 — `docs: note seniority gate limitation` [#666]
+- 2021-04-15 — `refactor: simplify review gate control flow` [#310]
