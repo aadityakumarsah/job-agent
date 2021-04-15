@@ -694,3 +694,4 @@
 - 2021-04-15 — `perf: short-circuit seen-cache before LLM call` [#109]
 - 2021-04-15 — `fix: guard against missing review gate` [#589]
 - 2021-04-15 — `chore: tidy content scanner file ordering` [#476]
+- 2021-04-15 — `feat: track remoteok per application` [#643]
