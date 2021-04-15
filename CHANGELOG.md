@@ -682,3 +682,4 @@
 - 2021-04-14 — `fix: avoid crashing on discovery` [#818]
 - 2021-04-14 — `test: assert content scanner shape in tests` [#601]
 - 2021-04-15 — `feat: implement career facts interface` [#748]
+- 2021-04-15 — `refactor: rename dashboard API for clarity` [#811]
