@@ -704,3 +704,4 @@
 - 2021-04-15 — `feat: expose remotive in the dashboard` [#640]
 - 2021-04-15 — `test: assert CLI table shape in tests` [#474]
 - 2021-04-15 — `feat: add CLI table` [#114]
+- 2021-04-15 — `style: reorder answer bank imports` [#393]
