@@ -707,3 +707,4 @@
 - 2021-04-15 — `style: reorder answer bank imports` [#393]
 - 2021-04-25 — `style: tidy seniority gate whitespace` [#650]
 - 2021-04-25 — `docs: add dashboard API to the README` [#927]
+- 2021-04-25 — `feat: normalize keyword filter across sources` [#417]
