@@ -715,3 +715,4 @@
 - 2021-04-25 — `test: add offline test for dashboard API` [#378]
 - 2021-04-25 — `perf: trim seen-cache payload size` [#566]
 - 2021-04-25 — `fix: set sensible defaults for option matching` [#361]
+- 2021-04-25 — `style: tidy keyword filter whitespace` [#102]
