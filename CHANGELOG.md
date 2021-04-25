@@ -712,3 +712,4 @@
 - 2021-04-25 — `fix: handle remoteok edge case` [#222]
 - 2021-04-25 — `chore: update location rule example profile` [#635]
 - 2021-04-25 — `fix: guard against missing submit gate` [#867]
+- 2021-04-25 — `test: add offline test for dashboard API` [#378]
