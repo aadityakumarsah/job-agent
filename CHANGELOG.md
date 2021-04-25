@@ -710,3 +710,4 @@
 - 2021-04-25 — `feat: normalize keyword filter across sources` [#417]
 - 2021-04-25 — `feat: render lever in the PDF` [#544]
 - 2021-04-25 — `fix: handle remoteok edge case` [#222]
+- 2021-04-25 — `chore: update location rule example profile` [#635]
