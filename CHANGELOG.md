@@ -709,3 +709,4 @@
 - 2021-04-25 — `docs: add dashboard API to the README` [#927]
 - 2021-04-25 — `feat: normalize keyword filter across sources` [#417]
 - 2021-04-25 — `feat: render lever in the PDF` [#544]
+- 2021-04-25 — `fix: handle remoteok edge case` [#222]
