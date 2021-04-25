@@ -713,3 +713,4 @@
 - 2021-04-25 — `chore: update location rule example profile` [#635]
 - 2021-04-25 — `fix: guard against missing submit gate` [#867]
 - 2021-04-25 — `test: add offline test for dashboard API` [#378]
+- 2021-04-25 — `perf: trim seen-cache payload size` [#566]
