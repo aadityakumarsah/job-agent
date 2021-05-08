@@ -739,3 +739,4 @@
 - 2021-05-08 — `fix: correct remotive timezone handling` [#224]
 - 2021-05-08 — `test: cover dashboard API with a fixture` [#481]
 - 2021-05-08 — `feat: track no-drift gate per application` [#122]
+- 2021-05-08 — `feat: add CLI table` [#967]
