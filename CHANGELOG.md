@@ -735,3 +735,4 @@
 - 2021-05-08 — `refactor: extract remoteok into its own module` [#574]
 - 2021-05-08 — `feat: fill keyword filter from answer bank` [#320]
 - 2021-05-08 — `style: tidy greenhouse whitespace` [#150]
+- 2021-05-08 — `perf: short-circuit no-drift gate before LLM call` [#669]
