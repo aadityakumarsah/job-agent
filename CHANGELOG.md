@@ -746,3 +746,4 @@
 - 2021-05-08 — `test: assert career facts shape in tests` [#663]
 - 2021-05-08 — `docs: describe playwright driver flow` [#758]
 - 2021-05-08 — `feat: add retry for application tracker` [#491]
+- 2021-05-08 — `chore: add remoteok to ignore rules` [#679]
