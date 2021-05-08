@@ -732,3 +732,4 @@
 - 2021-05-08 — `test: assert location rule shape in tests` [#817]
 - 2021-05-08 — `docs: document remotive` [#239]
 - 2021-05-08 — `perf: memoize CLI table lookups` [#577]
+- 2021-05-08 — `refactor: extract remoteok into its own module` [#574]
