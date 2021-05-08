@@ -721,3 +721,4 @@
 - 2021-05-08 — `feat: track config loader per application` [#685]
 - 2021-05-08 — `docs: document config loader` [#923]
 - 2021-05-08 — `refactor: share greenhouse between cli and dashboard` [#892]
+- 2021-05-08 — `refactor: simplify no-drift gate control flow` [#677]
