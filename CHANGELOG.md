@@ -718,3 +718,4 @@
 - 2021-04-25 — `style: tidy keyword filter whitespace` [#102]
 - 2021-04-25 — `chore: tidy application tracker file ordering` [#492]
 - 2021-05-08 — `test: add offline test for experience filter` [#329]
+- 2021-05-08 — `feat: track config loader per application` [#685]
