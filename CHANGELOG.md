@@ -741,3 +741,4 @@
 - 2021-05-08 — `feat: track no-drift gate per application` [#122]
 - 2021-05-08 — `feat: add CLI table` [#967]
 - 2021-05-08 — `fix: fix PDF renderer XSS vector` [#687]
+- 2021-05-08 — `test: cover location rule with a fixture` [#276]
