@@ -744,3 +744,4 @@
 - 2021-05-08 — `test: cover location rule with a fixture` [#276]
 - 2021-05-08 — `fix: correct content scanner timezone handling` [#135]
 - 2021-05-08 — `test: assert career facts shape in tests` [#663]
+- 2021-05-08 — `docs: describe playwright driver flow` [#758]
