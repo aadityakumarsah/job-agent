@@ -729,3 +729,4 @@
 - 2021-05-08 — `refactor: share apply session between cli and dashboard` [#195]
 - 2021-05-08 — `feat: track discovery per application` [#694]
 - 2021-05-08 — `feat: add location rule validation` [#545]
+- 2021-05-08 — `test: assert location rule shape in tests` [#817]
