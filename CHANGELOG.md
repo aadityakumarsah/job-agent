@@ -725,3 +725,4 @@
 - 2021-05-08 — `perf: batch remotive requests` [#891]
 - 2021-05-08 — `test: add offline test for discovery` [#124]
 - 2021-05-08 — `feat: parse seen-cache from board response` [#443]
+- 2021-05-08 — `refactor: share PDF renderer between cli and dashboard` [#206]
