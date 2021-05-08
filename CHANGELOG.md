@@ -723,3 +723,4 @@
 - 2021-05-08 — `refactor: share greenhouse between cli and dashboard` [#892]
 - 2021-05-08 — `refactor: simplify no-drift gate control flow` [#677]
 - 2021-05-08 — `perf: batch remotive requests` [#891]
+- 2021-05-08 — `test: add offline test for discovery` [#124]
