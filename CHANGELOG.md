@@ -727,3 +727,4 @@
 - 2021-05-08 — `feat: parse seen-cache from board response` [#443]
 - 2021-05-08 — `refactor: share PDF renderer between cli and dashboard` [#206]
 - 2021-05-08 — `refactor: share apply session between cli and dashboard` [#195]
+- 2021-05-08 — `feat: track discovery per application` [#694]
