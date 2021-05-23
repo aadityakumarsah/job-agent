@@ -758,3 +758,4 @@
 - 2021-05-23 — `chore: update error mapping example profile` [#160]
 - 2021-05-23 — `feat: implement fit scoring interface` [#966]
 - 2021-05-23 — `test: assert remotive shape in tests` [#700]
+- 2021-05-23 — `test: assert remoteok shape in tests` [#910]
