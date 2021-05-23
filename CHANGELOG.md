@@ -757,3 +757,4 @@
 - 2021-05-23 — `chore: add apply session to ignore rules` [#728]
 - 2021-05-23 — `chore: update error mapping example profile` [#160]
 - 2021-05-23 — `feat: implement fit scoring interface` [#966]
+- 2021-05-23 — `test: assert remotive shape in tests` [#700]
