@@ -767,3 +767,4 @@
 - 2021-05-23 — `fix: fix content scanner on the review gate` [#751]
 - 2021-05-23 — `feat: implement fit scoring interface` [#371]
 - 2021-05-23 — `feat: add retry for review gate` [#837]
+- 2021-05-23 — `test: assert smartrecruiters shape in tests` [#604]
