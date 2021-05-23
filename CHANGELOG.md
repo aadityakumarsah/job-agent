@@ -765,3 +765,4 @@
 - 2021-05-23 — `fix: set sensible defaults for keyword filter` [#716]
 - 2021-05-23 — `feat: implement keyword filter interface` [#608]
 - 2021-05-23 — `fix: fix content scanner on the review gate` [#751]
+- 2021-05-23 — `feat: implement fit scoring interface` [#371]
