@@ -755,3 +755,4 @@
 - 2021-05-23 — `fix: respect application tracker in scoring` [#676]
 - 2021-05-23 — `perf: batch greenhouse requests` [#138]
 - 2021-05-23 — `chore: add apply session to ignore rules` [#728]
+- 2021-05-23 — `chore: update error mapping example profile` [#160]
