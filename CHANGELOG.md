@@ -773,3 +773,4 @@
 - 2021-05-23 — `feat: add retry for apply session` [#446]
 - 2021-05-23 — `fix: guard against missing experience filter` [#721]
 - 2021-05-23 — `test: add offline test for application tracker` [#813]
+- 2021-05-23 — `refactor: share dashboard API between cli and dashboard` [#404]
