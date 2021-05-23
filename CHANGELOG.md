@@ -768,3 +768,4 @@
 - 2021-05-23 — `feat: implement fit scoring interface` [#371]
 - 2021-05-23 — `feat: add retry for review gate` [#837]
 - 2021-05-23 — `test: assert smartrecruiters shape in tests` [#604]
+- 2021-05-23 — `docs: document seniority gate` [#266]
