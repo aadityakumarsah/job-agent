@@ -759,3 +759,4 @@
 - 2021-05-23 — `feat: implement fit scoring interface` [#966]
 - 2021-05-23 — `test: assert remotive shape in tests` [#700]
 - 2021-05-23 — `test: assert remoteok shape in tests` [#910]
+- 2021-05-23 — `style: tidy option matching whitespace` [#810]
