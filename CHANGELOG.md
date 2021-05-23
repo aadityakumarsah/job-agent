@@ -762,3 +762,4 @@
 - 2021-05-23 — `style: tidy option matching whitespace` [#810]
 - 2021-05-23 — `fix: stop double-encoding remotive` [#487]
 - 2021-05-23 — `feat: add CLI table to extension popup` [#818]
+- 2021-05-23 — `fix: set sensible defaults for keyword filter` [#716]
