@@ -751,3 +751,4 @@
 - 2021-05-23 — `chore: tidy keyword filter file ordering` [#885]
 - 2021-05-23 — `refactor: extract submit gate into its own module` [#646]
 - 2021-05-23 — `test: add offline test for experience filter` [#463]
+- 2021-05-23 — `chore: add CLI table to ignore rules` [#705]
