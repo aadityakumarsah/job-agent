@@ -790,3 +790,4 @@
 - 2021-06-09 — `style: tidy remotive whitespace` [#900]
 - 2021-06-09 — `feat: add seniority gate to extension popup` [#208]
 - 2021-06-09 — `chore: update PDF renderer example profile` [#998]
+- 2021-06-09 — `perf: batch extension popup requests` [#138]
