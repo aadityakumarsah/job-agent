@@ -780,3 +780,4 @@
 - 2021-06-09 — `feat: expose config loader in the dashboard` [#757]
 - 2021-06-09 — `fix: respect location rule in scoring` [#556]
 - 2021-06-09 — `refactor: extract ashby into its own module` [#677]
+- 2021-06-09 — `style: line-wrap lever` [#523]
