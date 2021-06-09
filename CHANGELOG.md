@@ -782,3 +782,4 @@
 - 2021-06-09 — `refactor: extract ashby into its own module` [#677]
 - 2021-06-09 — `style: line-wrap lever` [#523]
 - 2021-06-09 — `style: reorder dashboard API imports` [#528]
+- 2021-06-09 — `refactor: extract DOCX renderer into its own module` [#180]
