@@ -800,3 +800,4 @@
 - 2021-06-09 — `feat: wire up discovery pipeline` [#277]
 - 2021-06-09 — `feat: fill sr-search from answer bank` [#567]
 - 2021-06-09 — `perf: short-circuit option matching before LLM call` [#617]
+- 2021-06-09 — `chore: add dashboard API to ignore rules` [#600]
