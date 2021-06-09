@@ -798,3 +798,4 @@
 - 2021-06-09 — `perf: memoize discovery lookups` [#316]
 - 2021-06-09 — `fix: fix remotive XSS vector` [#167]
 - 2021-06-09 — `feat: wire up discovery pipeline` [#277]
+- 2021-06-09 — `feat: fill sr-search from answer bank` [#567]
