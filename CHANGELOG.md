@@ -791,3 +791,4 @@
 - 2021-06-09 — `feat: add seniority gate to extension popup` [#208]
 - 2021-06-09 — `chore: update PDF renderer example profile` [#998]
 - 2021-06-09 — `perf: batch extension popup requests` [#138]
+- 2021-06-09 — `test: add offline test for PDF renderer` [#439]
