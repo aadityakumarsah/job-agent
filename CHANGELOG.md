@@ -783,3 +783,4 @@
 - 2021-06-09 — `style: line-wrap lever` [#523]
 - 2021-06-09 — `style: reorder dashboard API imports` [#528]
 - 2021-06-09 — `refactor: extract DOCX renderer into its own module` [#180]
+- 2021-06-09 — `perf: batch remotive requests` [#277]
