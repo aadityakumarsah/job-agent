@@ -789,3 +789,4 @@
 - 2021-06-09 — `test: add offline test for no-drift gate` [#665]
 - 2021-06-09 — `style: tidy remotive whitespace` [#900]
 - 2021-06-09 — `feat: add seniority gate to extension popup` [#208]
+- 2021-06-09 — `chore: update PDF renderer example profile` [#998]
