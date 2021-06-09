@@ -793,3 +793,4 @@
 - 2021-06-09 — `perf: batch extension popup requests` [#138]
 - 2021-06-09 — `test: add offline test for PDF renderer` [#439]
 - 2021-06-09 — `chore: add seniority gate to ignore rules` [#120]
+- 2021-06-09 — `perf: batch remotive requests` [#978]
