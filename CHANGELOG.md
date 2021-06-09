@@ -776,3 +776,4 @@
 - 2021-05-23 — `refactor: share dashboard API between cli and dashboard` [#404]
 - 2021-05-23 — `feat: add discovery validation` [#469]
 - 2021-05-23 — `perf: batch content scanner requests` [#304]
+- 2021-06-09 — `feat: add retry for config loader` [#415]
