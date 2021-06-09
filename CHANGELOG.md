@@ -785,3 +785,4 @@
 - 2021-06-09 — `refactor: extract DOCX renderer into its own module` [#180]
 - 2021-06-09 — `perf: batch remotive requests` [#277]
 - 2021-06-09 — `feat: track remotive per application` [#799]
+- 2021-06-09 — `refactor: extract ashby into its own module` [#427]
