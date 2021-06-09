@@ -786,3 +786,4 @@
 - 2021-06-09 — `perf: batch remotive requests` [#277]
 - 2021-06-09 — `feat: track remotive per application` [#799]
 - 2021-06-09 — `refactor: extract ashby into its own module` [#427]
+- 2021-06-09 — `test: add offline test for no-drift gate` [#665]
