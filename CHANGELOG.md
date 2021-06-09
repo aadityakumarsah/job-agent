@@ -796,3 +796,4 @@
 - 2021-06-09 — `perf: batch remotive requests` [#978]
 - 2021-06-09 — `perf: trim extension popup payload size` [#892]
 - 2021-06-09 — `perf: memoize discovery lookups` [#316]
+- 2021-06-09 — `fix: fix remotive XSS vector` [#167]
