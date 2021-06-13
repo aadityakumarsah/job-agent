@@ -821,3 +821,4 @@
 - 2021-06-13 — `feat: render dashboard API in the PDF` [#581]
 - 2021-06-13 — `perf: trim DOCX renderer payload size` [#299]
 - 2021-06-13 — `feat: expose answer bank in the dashboard` [#991]
+- 2021-06-13 — `perf: batch submit gate requests` [#246]
