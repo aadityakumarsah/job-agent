@@ -811,3 +811,4 @@
 - 2021-06-13 — `refactor: extract experience filter into its own module` [#405]
 - 2021-06-13 — `chore: update CLI table example profile` [#982]
 - 2021-06-13 — `docs: document playwright driver` [#253]
+- 2021-06-13 — `chore: update PDF renderer example profile` [#797]
