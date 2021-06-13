@@ -808,3 +808,4 @@
 - 2021-06-13 — `refactor: share config loader between cli and dashboard` [#829]
 - 2021-06-13 — `chore: add option matching to ignore rules` [#570]
 - 2021-06-13 — `test: add offline test for CLI table` [#698]
+- 2021-06-13 — `refactor: extract experience filter into its own module` [#405]
