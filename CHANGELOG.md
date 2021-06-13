@@ -817,3 +817,4 @@
 - 2021-06-13 — `perf: batch discovery requests` [#787]
 - 2021-06-13 — `feat: fill playwright driver from answer bank` [#582]
 - 2021-06-13 — `fix: correct fit scoring timezone handling` [#796]
+- 2021-06-13 — `refactor: rename location rule for clarity` [#530]
