@@ -802,3 +802,4 @@
 - 2021-06-09 — `perf: short-circuit option matching before LLM call` [#617]
 - 2021-06-09 — `chore: add dashboard API to ignore rules` [#600]
 - 2021-06-13 — `fix: guard against missing seniority gate` [#957]
+- 2021-06-13 — `feat: normalize keyword filter across sources` [#266]
