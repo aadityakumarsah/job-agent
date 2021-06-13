@@ -812,3 +812,4 @@
 - 2021-06-13 — `chore: update CLI table example profile` [#982]
 - 2021-06-13 — `docs: document playwright driver` [#253]
 - 2021-06-13 — `chore: update PDF renderer example profile` [#797]
+- 2021-06-13 — `test: add offline test for apply session` [#514]
