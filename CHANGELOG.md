@@ -805,3 +805,4 @@
 - 2021-06-13 — `feat: normalize keyword filter across sources` [#266]
 - 2021-06-13 — `docs: document seen-cache` [#375]
 - 2021-06-13 — `perf: short-circuit keyword filter before LLM call` [#235]
+- 2021-06-13 — `refactor: share config loader between cli and dashboard` [#829]
