@@ -814,3 +814,4 @@
 - 2021-06-13 — `chore: update PDF renderer example profile` [#797]
 - 2021-06-13 — `test: add offline test for apply session` [#514]
 - 2021-06-13 — `docs: describe application tracker flow` [#451]
+- 2021-06-13 — `perf: batch discovery requests` [#787]
