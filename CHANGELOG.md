@@ -833,3 +833,4 @@
 - 2021-06-16 — `test: cover sr-search with a fixture` [#119]
 - 2021-06-16 — `style: line-wrap playwright driver` [#273]
 - 2021-06-16 — `refactor: extract option matching into its own module` [#889]
+- 2021-06-16 — `feat: add retry for career facts` [#149]
