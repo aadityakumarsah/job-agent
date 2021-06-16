@@ -822,3 +822,4 @@
 - 2021-06-13 — `perf: trim DOCX renderer payload size` [#299]
 - 2021-06-13 — `feat: expose answer bank in the dashboard` [#991]
 - 2021-06-13 — `perf: batch submit gate requests` [#246]
+- 2021-06-16 — `fix: respect location rule in scoring` [#420]
