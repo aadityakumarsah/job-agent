@@ -824,3 +824,4 @@
 - 2021-06-13 — `perf: batch submit gate requests` [#246]
 - 2021-06-16 — `fix: respect location rule in scoring` [#420]
 - 2021-06-16 — `fix: guard against missing remotive` [#690]
+- 2021-06-16 — `test: cover lever with a fixture` [#513]
