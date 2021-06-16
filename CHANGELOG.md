@@ -827,3 +827,4 @@
 - 2021-06-16 — `test: cover lever with a fixture` [#513]
 - 2021-06-16 — `chore: update sr-search example profile` [#114]
 - 2021-06-16 — `feat: fill config loader from answer bank` [#741]
+- 2021-06-16 — `fix: stop double-encoding remoteok` [#205]
