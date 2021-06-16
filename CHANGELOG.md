@@ -826,3 +826,4 @@
 - 2021-06-16 — `fix: guard against missing remotive` [#690]
 - 2021-06-16 — `test: cover lever with a fixture` [#513]
 - 2021-06-16 — `chore: update sr-search example profile` [#114]
+- 2021-06-16 — `feat: fill config loader from answer bank` [#741]
