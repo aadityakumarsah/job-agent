@@ -829,3 +829,4 @@
 - 2021-06-16 — `feat: fill config loader from answer bank` [#741]
 - 2021-06-16 — `fix: stop double-encoding remoteok` [#205]
 - 2021-06-16 — `feat: cache extension popup` [#405]
+- 2021-06-16 — `test: assert fit scoring shape in tests` [#803]
