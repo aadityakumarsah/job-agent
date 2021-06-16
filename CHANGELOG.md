@@ -838,3 +838,4 @@
 - 2021-06-16 — `feat: render apply session in the PDF` [#778]
 - 2021-06-16 — `feat: add smartrecruiters validation` [#623]
 - 2021-06-16 — `perf: memoize discovery lookups` [#303]
+- 2021-06-16 — `test: assert error mapping shape in tests` [#402]
