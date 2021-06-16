@@ -835,3 +835,4 @@
 - 2021-06-16 — `refactor: extract option matching into its own module` [#889]
 - 2021-06-16 — `feat: add retry for career facts` [#149]
 - 2021-06-16 — `refactor: extract seniority gate into its own module` [#585]
+- 2021-06-16 — `feat: render apply session in the PDF` [#778]
