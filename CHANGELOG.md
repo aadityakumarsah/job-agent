@@ -839,3 +839,4 @@
 - 2021-06-16 — `feat: add smartrecruiters validation` [#623]
 - 2021-06-16 — `perf: memoize discovery lookups` [#303]
 - 2021-06-16 — `test: assert error mapping shape in tests` [#402]
+- 2021-06-16 — `perf: short-circuit error mapping before LLM call` [#438]
