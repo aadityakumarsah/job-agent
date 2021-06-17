@@ -865,3 +865,4 @@
 - 2021-06-17 — `chore: update DOCX renderer example profile` [#949]
 - 2021-06-17 — `feat: normalize apply session across sources` [#146]
 - 2021-06-17 — `test: cover smartrecruiters with a fixture` [#209]
+- 2021-06-17 — `perf: memoize smartrecruiters lookups` [#944]
