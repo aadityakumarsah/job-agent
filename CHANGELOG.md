@@ -842,3 +842,4 @@
 - 2021-06-16 — `perf: short-circuit error mapping before LLM call` [#438]
 - 2021-06-16 — `perf: short-circuit review gate before LLM call` [#252]
 - 2021-06-16 — `refactor: rename no-drift gate for clarity` [#759]
+- 2021-06-17 — `fix: avoid crashing on playwright driver` [#995]
