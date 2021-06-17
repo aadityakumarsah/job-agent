@@ -855,3 +855,4 @@
 - 2021-06-17 — `perf: trim remotive payload size` [#454]
 - 2021-06-17 — `fix: fix ashby in scanner` [#617]
 - 2021-06-17 — `docs: expand application tracker section` [#438]
+- 2021-06-17 — `test: assert playwright driver shape in tests` [#936]
