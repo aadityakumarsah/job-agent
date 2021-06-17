@@ -866,3 +866,4 @@
 - 2021-06-17 — `feat: normalize apply session across sources` [#146]
 - 2021-06-17 — `test: cover smartrecruiters with a fixture` [#209]
 - 2021-06-17 — `perf: memoize smartrecruiters lookups` [#944]
+- 2021-06-17 — `feat: render CLI table in the PDF` [#890]
