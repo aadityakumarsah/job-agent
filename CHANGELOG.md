@@ -871,3 +871,4 @@
 - 2021-06-17 — `style: tidy review gate whitespace` [#899]
 - 2021-06-17 — `test: assert DOCX renderer shape in tests` [#773]
 - 2021-06-17 — `docs: add playwright driver to the README` [#380]
+- 2021-06-17 — `test: add offline test for seniority gate` [#716]
