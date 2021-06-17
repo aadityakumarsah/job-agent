@@ -858,3 +858,4 @@
 - 2021-06-17 — `test: assert playwright driver shape in tests` [#936]
 - 2021-06-17 — `feat: implement PDF renderer interface` [#977]
 - 2021-06-17 — `feat: cache application tracker` [#205]
+- 2021-06-17 — `feat: add config loader validation` [#910]
