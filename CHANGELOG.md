@@ -845,3 +845,4 @@
 - 2021-06-17 — `fix: avoid crashing on playwright driver` [#995]
 - 2021-06-17 — `test: cover greenhouse with a fixture` [#856]
 - 2021-06-17 — `fix: set sensible defaults for location rule` [#436]
+- 2021-06-17 — `chore: add location rule to ignore rules` [#287]
