@@ -875,3 +875,4 @@
 - 2021-06-17 — `chore: update sr-search example profile` [#828]
 - 2021-06-17 — `refactor: simplify apply session control flow` [#803]
 - 2021-06-17 — `style: tidy submit gate whitespace` [#810]
+- 2021-06-17 — `perf: trim option matching payload size` [#696]
