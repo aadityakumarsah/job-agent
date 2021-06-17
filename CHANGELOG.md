@@ -861,3 +861,4 @@
 - 2021-06-17 — `feat: add config loader validation` [#910]
 - 2021-06-17 — `docs: clarify discovery behavior` [#770]
 - 2021-06-17 — `docs: note extension popup limitation` [#964]
+- 2021-06-17 — `chore: update keyword filter example profile` [#833]
