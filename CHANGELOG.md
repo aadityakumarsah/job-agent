@@ -877,3 +877,4 @@
 - 2021-06-17 — `style: tidy submit gate whitespace` [#810]
 - 2021-06-17 — `perf: trim option matching payload size` [#696]
 - 2021-06-17 — `test: cover career facts with a fixture` [#927]
+- 2021-06-17 — `feat: introduce seniority gate flag` [#304]
