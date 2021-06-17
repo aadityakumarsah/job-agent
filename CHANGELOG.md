@@ -843,3 +843,4 @@
 - 2021-06-16 — `perf: short-circuit review gate before LLM call` [#252]
 - 2021-06-16 — `refactor: rename no-drift gate for clarity` [#759]
 - 2021-06-17 — `fix: avoid crashing on playwright driver` [#995]
+- 2021-06-17 — `test: cover greenhouse with a fixture` [#856]
