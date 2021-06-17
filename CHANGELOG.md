@@ -849,3 +849,4 @@
 - 2021-06-17 — `perf: batch smartrecruiters requests` [#919]
 - 2021-06-17 — `feat: render PDF renderer in the PDF` [#964]
 - 2021-06-17 — `perf: memoize extension popup lookups` [#285]
+- 2021-06-17 — `fix: fix no-drift gate XSS vector` [#594]
