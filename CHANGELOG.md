@@ -867,3 +867,4 @@
 - 2021-06-17 — `test: cover smartrecruiters with a fixture` [#209]
 - 2021-06-17 — `perf: memoize smartrecruiters lookups` [#944]
 - 2021-06-17 — `feat: render CLI table in the PDF` [#890]
+- 2021-06-17 — `perf: trim discovery payload size` [#104]
