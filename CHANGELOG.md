@@ -869,3 +869,4 @@
 - 2021-06-17 — `feat: render CLI table in the PDF` [#890]
 - 2021-06-17 — `perf: trim discovery payload size` [#104]
 - 2021-06-17 — `style: tidy review gate whitespace` [#899]
+- 2021-06-17 — `test: assert DOCX renderer shape in tests` [#773]
