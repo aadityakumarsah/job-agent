@@ -859,3 +859,4 @@
 - 2021-06-17 — `feat: implement PDF renderer interface` [#977]
 - 2021-06-17 — `feat: cache application tracker` [#205]
 - 2021-06-17 — `feat: add config loader validation` [#910]
+- 2021-06-17 — `docs: clarify discovery behavior` [#770]
