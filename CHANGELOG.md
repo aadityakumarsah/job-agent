@@ -847,3 +847,4 @@
 - 2021-06-17 — `fix: set sensible defaults for location rule` [#436]
 - 2021-06-17 — `chore: add location rule to ignore rules` [#287]
 - 2021-06-17 — `perf: batch smartrecruiters requests` [#919]
+- 2021-06-17 — `feat: render PDF renderer in the PDF` [#964]
