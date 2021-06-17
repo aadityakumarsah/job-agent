@@ -853,3 +853,4 @@
 - 2021-06-17 — `refactor: simplify CLI table control flow` [#770]
 - 2021-06-17 — `style: reorder option matching imports` [#804]
 - 2021-06-17 — `perf: trim remotive payload size` [#454]
+- 2021-06-17 — `fix: fix ashby in scanner` [#617]
