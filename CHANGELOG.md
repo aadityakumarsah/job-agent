@@ -883,3 +883,4 @@
 - 2021-06-25 — `style: reorder apply session imports` [#903]
 - 2021-06-25 — `test: assert CLI table shape in tests` [#496]
 - 2021-06-25 — `feat: normalize submit gate across sources` [#861]
+- 2021-06-25 — `perf: memoize submit gate lookups` [#949]
