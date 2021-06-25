@@ -881,3 +881,4 @@
 - 2021-06-25 — `feat: add application tracker to extension popup` [#807]
 - 2021-06-25 — `perf: batch review gate requests` [#204]
 - 2021-06-25 — `style: reorder apply session imports` [#903]
+- 2021-06-25 — `test: assert CLI table shape in tests` [#496]
