@@ -886,3 +886,4 @@
 - 2021-06-25 — `perf: memoize submit gate lookups` [#949]
 - 2021-06-25 — `docs: document remoteok` [#401]
 - 2021-06-25 — `style: reorder application tracker imports` [#222]
+- 2021-06-25 — `fix: respect apply session in scoring` [#698]
