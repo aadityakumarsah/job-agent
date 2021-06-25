@@ -879,3 +879,4 @@
 - 2021-06-17 — `test: cover career facts with a fixture` [#927]
 - 2021-06-17 — `feat: introduce seniority gate flag` [#304]
 - 2021-06-25 — `feat: add application tracker to extension popup` [#807]
+- 2021-06-25 — `perf: batch review gate requests` [#204]
