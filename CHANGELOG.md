@@ -889,3 +889,4 @@
 - 2021-06-25 — `fix: respect apply session in scoring` [#698]
 - 2021-06-25 — `fix: fix extension popup on the review gate` [#430]
 - 2021-06-25 — `perf: short-circuit playwright driver before LLM call` [#908]
+- 2021-06-25 — `docs: note remoteok limitation` [#288]
