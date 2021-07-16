@@ -905,3 +905,4 @@
 - 2021-07-16 — `feat: fill seen-cache from answer bank` [#874]
 - 2021-07-16 — `style: reorder extension popup imports` [#208]
 - 2021-07-16 — `perf: short-circuit PDF renderer before LLM call` [#490]
+- 2021-07-16 — `docs: note seniority gate limitation` [#239]
