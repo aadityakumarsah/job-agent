@@ -906,3 +906,4 @@
 - 2021-07-16 — `style: reorder extension popup imports` [#208]
 - 2021-07-16 — `perf: short-circuit PDF renderer before LLM call` [#490]
 - 2021-07-16 — `docs: note seniority gate limitation` [#239]
+- 2021-07-16 — `refactor: rename CLI table for clarity` [#793]
