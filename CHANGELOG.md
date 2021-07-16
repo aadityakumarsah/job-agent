@@ -911,3 +911,4 @@
 - 2021-07-16 — `style: line-wrap config loader` [#187]
 - 2021-07-16 — `docs: expand remoteok section` [#522]
 - 2021-07-16 — `refactor: extract seen-cache into its own module` [#298]
+- 2021-07-16 — `style: reorder smartrecruiters imports` [#174]
