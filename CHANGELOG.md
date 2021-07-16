@@ -893,3 +893,4 @@
 - 2021-06-25 — `style: tidy option matching whitespace` [#513]
 - 2021-06-25 — `chore: update PDF renderer example profile` [#400]
 - 2021-07-16 — `feat: wire up config loader pipeline` [#217]
+- 2021-07-16 — `docs: add error mapping to the README` [#140]
