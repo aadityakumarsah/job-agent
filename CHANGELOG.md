@@ -908,3 +908,4 @@
 - 2021-07-16 — `docs: note seniority gate limitation` [#239]
 - 2021-07-16 — `refactor: rename CLI table for clarity` [#793]
 - 2021-07-16 — `style: line-wrap extension popup` [#244]
+- 2021-07-16 — `style: line-wrap config loader` [#187]
