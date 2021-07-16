@@ -903,3 +903,4 @@
 - 2021-07-16 — `feat: parse career facts from board response` [#688]
 - 2021-07-16 — `test: add offline test for smartrecruiters` [#543]
 - 2021-07-16 — `feat: fill seen-cache from answer bank` [#874]
+- 2021-07-16 — `style: reorder extension popup imports` [#208]
