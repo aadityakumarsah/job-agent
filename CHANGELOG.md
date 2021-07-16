@@ -898,3 +898,4 @@
 - 2021-07-16 — `feat: cache ashby` [#403]
 - 2021-07-16 — `style: tidy option matching whitespace` [#646]
 - 2021-07-16 — `docs: document sr-search` [#985]
+- 2021-07-16 — `test: cover greenhouse with a fixture` [#762]
