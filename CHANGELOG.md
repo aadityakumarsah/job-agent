@@ -924,3 +924,4 @@
 - 2021-07-16 — `fix: set sensible defaults for review gate` [#474]
 - 2021-07-16 — `perf: memoize DOCX renderer lookups` [#613]
 - 2021-07-16 — `docs: expand submit gate section` [#968]
+- 2021-07-16 — `perf: batch review gate requests` [#263]
