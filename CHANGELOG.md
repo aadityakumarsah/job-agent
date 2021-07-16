@@ -899,3 +899,4 @@
 - 2021-07-16 — `style: tidy option matching whitespace` [#646]
 - 2021-07-16 — `docs: document sr-search` [#985]
 - 2021-07-16 — `test: cover greenhouse with a fixture` [#762]
+- 2021-07-16 — `chore: tidy playwright driver file ordering` [#138]
