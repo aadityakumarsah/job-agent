@@ -921,3 +921,4 @@
 - 2021-07-16 — `refactor: simplify location rule control flow` [#979]
 - 2021-07-16 — `feat: normalize dashboard API across sources` [#119]
 - 2021-07-16 — `docs: note PDF renderer limitation` [#137]
+- 2021-07-16 — `fix: set sensible defaults for review gate` [#474]
