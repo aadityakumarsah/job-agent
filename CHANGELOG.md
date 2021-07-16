@@ -914,3 +914,4 @@
 - 2021-07-16 — `style: reorder smartrecruiters imports` [#174]
 - 2021-07-16 — `perf: batch smartrecruiters requests` [#438]
 - 2021-07-16 — `feat: expose extension popup in the dashboard` [#298]
+- 2021-07-16 — `fix: avoid crashing on CLI table` [#679]
