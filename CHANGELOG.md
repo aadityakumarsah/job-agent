@@ -913,3 +913,4 @@
 - 2021-07-16 — `refactor: extract seen-cache into its own module` [#298]
 - 2021-07-16 — `style: reorder smartrecruiters imports` [#174]
 - 2021-07-16 — `perf: batch smartrecruiters requests` [#438]
+- 2021-07-16 — `feat: expose extension popup in the dashboard` [#298]
