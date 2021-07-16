@@ -892,3 +892,4 @@
 - 2021-06-25 — `docs: note remoteok limitation` [#288]
 - 2021-06-25 — `style: tidy option matching whitespace` [#513]
 - 2021-06-25 — `chore: update PDF renderer example profile` [#400]
+- 2021-07-16 — `feat: wire up config loader pipeline` [#217]
