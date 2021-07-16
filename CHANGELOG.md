@@ -896,3 +896,4 @@
 - 2021-07-16 — `docs: add error mapping to the README` [#140]
 - 2021-07-16 — `refactor: rename DOCX renderer for clarity` [#653]
 - 2021-07-16 — `feat: cache ashby` [#403]
+- 2021-07-16 — `style: tidy option matching whitespace` [#646]
