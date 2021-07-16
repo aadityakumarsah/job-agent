@@ -901,3 +901,4 @@
 - 2021-07-16 — `test: cover greenhouse with a fixture` [#762]
 - 2021-07-16 — `chore: tidy playwright driver file ordering` [#138]
 - 2021-07-16 — `feat: parse career facts from board response` [#688]
+- 2021-07-16 — `test: add offline test for smartrecruiters` [#543]
