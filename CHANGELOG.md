@@ -930,3 +930,4 @@
 - 2021-07-23 — `perf: short-circuit apply session before LLM call` [#147]
 - 2021-07-23 — `refactor: share content scanner between cli and dashboard` [#692]
 - 2021-07-23 — `feat: wire up DOCX renderer pipeline` [#629]
+- 2021-07-23 — `chore: update greenhouse example profile` [#598]
