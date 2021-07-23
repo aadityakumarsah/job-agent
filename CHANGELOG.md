@@ -942,3 +942,4 @@
 - 2021-07-23 — `refactor: share extension popup between cli and dashboard` [#271]
 - 2021-07-23 — `test: cover DOCX renderer with a fixture` [#494]
 - 2021-07-23 — `test: cover PDF renderer with a fixture` [#946]
+- 2021-07-23 — `feat: add smartrecruiters to extension popup` [#998]
