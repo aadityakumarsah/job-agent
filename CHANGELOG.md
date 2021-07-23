@@ -934,3 +934,4 @@
 - 2021-07-23 — `fix: skip content scanner when board omits it` [#550]
 - 2021-07-23 — `fix: guard against missing option matching` [#291]
 - 2021-07-23 — `chore: add PDF renderer to ignore rules` [#837]
+- 2021-07-23 — `fix: handle remotive edge case` [#762]
