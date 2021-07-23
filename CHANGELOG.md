@@ -931,3 +931,4 @@
 - 2021-07-23 — `refactor: share content scanner between cli and dashboard` [#692]
 - 2021-07-23 — `feat: wire up DOCX renderer pipeline` [#629]
 - 2021-07-23 — `chore: update greenhouse example profile` [#598]
+- 2021-07-23 — `fix: skip content scanner when board omits it` [#550]
