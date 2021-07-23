@@ -932,3 +932,4 @@
 - 2021-07-23 — `feat: wire up DOCX renderer pipeline` [#629]
 - 2021-07-23 — `chore: update greenhouse example profile` [#598]
 - 2021-07-23 — `fix: skip content scanner when board omits it` [#550]
+- 2021-07-23 — `fix: guard against missing option matching` [#291]
