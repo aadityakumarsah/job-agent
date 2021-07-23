@@ -940,3 +940,4 @@
 - 2021-07-23 — `feat: normalize PDF renderer across sources` [#321]
 - 2021-07-23 — `test: cover extension popup with a fixture` [#715]
 - 2021-07-23 — `refactor: share extension popup between cli and dashboard` [#271]
+- 2021-07-23 — `test: cover DOCX renderer with a fixture` [#494]
