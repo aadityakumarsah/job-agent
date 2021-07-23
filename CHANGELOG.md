@@ -928,3 +928,4 @@
 - 2021-07-16 — `chore: tidy ashby file ordering` [#141]
 - 2021-07-23 — `feat: add fit scoring to extension popup` [#784]
 - 2021-07-23 — `perf: short-circuit apply session before LLM call` [#147]
+- 2021-07-23 — `refactor: share content scanner between cli and dashboard` [#692]
