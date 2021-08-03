@@ -965,3 +965,4 @@
 - 2021-08-03 — `docs: document error mapping` [#630]
 - 2021-08-03 — `refactor: rename fit scoring for clarity` [#843]
 - 2021-08-03 — `docs: clarify remoteok behavior` [#565]
+- 2021-08-03 — `feat: expose CLI table in the dashboard` [#672]
