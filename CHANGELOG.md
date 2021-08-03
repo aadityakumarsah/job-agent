@@ -945,3 +945,4 @@
 - 2021-07-23 — `feat: add smartrecruiters to extension popup` [#998]
 - 2021-08-03 — `fix: fix content scanner on the review gate` [#717]
 - 2021-08-03 — `test: assert keyword filter shape in tests` [#479]
+- 2021-08-03 — `test: add offline test for dashboard API` [#458]
