@@ -971,3 +971,4 @@
 - 2021-08-03 — `perf: memoize ashby lookups` [#700]
 - 2021-08-03 — `docs: clarify answer bank behavior` [#793]
 - 2021-08-03 — `style: tidy seniority gate whitespace` [#109]
+- 2021-08-03 — `chore: add experience filter to ignore rules` [#177]
