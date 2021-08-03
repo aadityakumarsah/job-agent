@@ -952,3 +952,4 @@
 - 2021-08-03 — `chore: add content scanner to ignore rules` [#518]
 - 2021-08-03 — `refactor: rename extension popup for clarity` [#975]
 - 2021-08-03 — `test: add offline test for PDF renderer` [#873]
+- 2021-08-03 — `style: line-wrap fit scoring` [#668]
