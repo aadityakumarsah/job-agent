@@ -963,3 +963,4 @@
 - 2021-08-03 — `docs: clarify keyword filter behavior` [#729]
 - 2021-08-03 — `fix: avoid crashing on option matching` [#188]
 - 2021-08-03 — `docs: document error mapping` [#630]
+- 2021-08-03 — `refactor: rename fit scoring for clarity` [#843]
