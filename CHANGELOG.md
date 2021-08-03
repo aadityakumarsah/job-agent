@@ -946,3 +946,4 @@
 - 2021-08-03 — `fix: fix content scanner on the review gate` [#717]
 - 2021-08-03 — `test: assert keyword filter shape in tests` [#479]
 - 2021-08-03 — `test: add offline test for dashboard API` [#458]
+- 2021-08-03 — `fix: guard against missing seniority gate` [#360]
