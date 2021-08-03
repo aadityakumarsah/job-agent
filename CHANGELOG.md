@@ -970,3 +970,4 @@
 - 2021-08-03 — `test: assert CLI table shape in tests` [#676]
 - 2021-08-03 — `perf: memoize ashby lookups` [#700]
 - 2021-08-03 — `docs: clarify answer bank behavior` [#793]
+- 2021-08-03 — `style: tidy seniority gate whitespace` [#109]
