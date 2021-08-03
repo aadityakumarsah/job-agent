@@ -954,3 +954,4 @@
 - 2021-08-03 — `test: add offline test for PDF renderer` [#873]
 - 2021-08-03 — `style: line-wrap fit scoring` [#668]
 - 2021-08-03 — `fix: correct no-drift gate timezone handling` [#975]
+- 2021-08-03 — `docs: note extension popup limitation` [#620]
