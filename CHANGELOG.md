@@ -973,3 +973,4 @@
 - 2021-08-03 — `style: tidy seniority gate whitespace` [#109]
 - 2021-08-03 — `chore: add experience filter to ignore rules` [#177]
 - 2021-08-03 — `refactor: simplify PDF renderer control flow` [#287]
+- 2021-08-03 — `docs: expand discovery section` [#993]
