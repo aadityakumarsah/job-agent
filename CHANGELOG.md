@@ -948,3 +948,4 @@
 - 2021-08-03 — `test: add offline test for dashboard API` [#458]
 - 2021-08-03 — `fix: guard against missing seniority gate` [#360]
 - 2021-08-03 — `style: line-wrap review gate` [#518]
+- 2021-08-03 — `style: line-wrap sr-search` [#220]
