@@ -943,3 +943,4 @@
 - 2021-07-23 — `test: cover DOCX renderer with a fixture` [#494]
 - 2021-07-23 — `test: cover PDF renderer with a fixture` [#946]
 - 2021-07-23 — `feat: add smartrecruiters to extension popup` [#998]
+- 2021-08-03 — `fix: fix content scanner on the review gate` [#717]
