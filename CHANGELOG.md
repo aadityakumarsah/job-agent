@@ -959,3 +959,4 @@
 - 2021-08-03 — `perf: memoize keyword filter lookups` [#714]
 - 2021-08-03 — `feat: render content scanner in the PDF` [#841]
 - 2021-08-03 — `feat: add retry for greenhouse` [#892]
+- 2021-08-03 — `style: line-wrap DOCX renderer` [#392]
