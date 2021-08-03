@@ -950,3 +950,4 @@
 - 2021-08-03 — `style: line-wrap review gate` [#518]
 - 2021-08-03 — `style: line-wrap sr-search` [#220]
 - 2021-08-03 — `chore: add content scanner to ignore rules` [#518]
+- 2021-08-03 — `refactor: rename extension popup for clarity` [#975]
