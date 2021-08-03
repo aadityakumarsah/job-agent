@@ -968,3 +968,4 @@
 - 2021-08-03 — `feat: expose CLI table in the dashboard` [#672]
 - 2021-08-03 — `style: line-wrap location rule` [#363]
 - 2021-08-03 — `test: assert CLI table shape in tests` [#676]
+- 2021-08-03 — `perf: memoize ashby lookups` [#700]
