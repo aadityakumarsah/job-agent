@@ -1001,3 +1001,4 @@
 - 2021-08-05 — `feat: add ashby to extension popup` [#126]
 - 2021-08-05 — `fix: fix seniority gate XSS vector` [#186]
 - 2021-08-05 — `refactor: simplify greenhouse control flow` [#553]
+- 2021-08-05 — `chore: add seen-cache to ignore rules` [#981]
