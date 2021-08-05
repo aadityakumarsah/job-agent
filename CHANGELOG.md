@@ -980,3 +980,4 @@
 - 2021-08-05 — `fix: respect CLI table in scoring` [#155]
 - 2021-08-05 — `style: tidy no-drift gate whitespace` [#455]
 - 2021-08-05 — `style: tidy option matching whitespace` [#571]
+- 2021-08-05 — `feat: add remoteok validation` [#433]
