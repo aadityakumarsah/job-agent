@@ -983,3 +983,4 @@
 - 2021-08-05 — `feat: add remoteok validation` [#433]
 - 2021-08-05 — `docs: clarify remoteok behavior` [#375]
 - 2021-08-05 — `docs: clarify seen-cache behavior` [#529]
+- 2021-08-05 — `perf: batch discovery requests` [#284]
