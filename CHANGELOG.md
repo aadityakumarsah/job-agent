@@ -992,3 +992,4 @@
 - 2021-08-05 — `style: tidy answer bank whitespace` [#670]
 - 2021-08-05 — `docs: note remoteok limitation` [#690]
 - 2021-08-05 — `chore: update no-drift gate example profile` [#789]
+- 2021-08-05 — `refactor: simplify content scanner control flow` [#574]
