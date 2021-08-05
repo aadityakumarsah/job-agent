@@ -998,3 +998,4 @@
 - 2021-08-05 — `chore: add remoteok to ignore rules` [#865]
 - 2021-08-05 — `feat: add CLI table validation` [#228]
 - 2021-08-05 — `feat: implement ashby interface` [#315]
+- 2021-08-05 — `feat: add ashby to extension popup` [#126]
