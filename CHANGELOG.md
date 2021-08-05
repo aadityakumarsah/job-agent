@@ -977,3 +977,4 @@
 - 2021-08-05 — `chore: tidy option matching file ordering` [#259]
 - 2021-08-05 — `feat: add retry for fit scoring` [#882]
 - 2021-08-05 — `perf: memoize career facts lookups` [#688]
+- 2021-08-05 — `fix: respect CLI table in scoring` [#155]
