@@ -999,3 +999,4 @@
 - 2021-08-05 — `feat: add CLI table validation` [#228]
 - 2021-08-05 — `feat: implement ashby interface` [#315]
 - 2021-08-05 — `feat: add ashby to extension popup` [#126]
+- 2021-08-05 — `fix: fix seniority gate XSS vector` [#186]
