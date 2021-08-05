@@ -988,3 +988,4 @@
 - 2021-08-05 — `fix: fix PDF renderer XSS vector` [#584]
 - 2021-08-05 — `style: reorder seniority gate imports` [#646]
 - 2021-08-05 — `feat: add sr-search` [#507]
+- 2021-08-05 — `perf: memoize location rule lookups` [#959]
