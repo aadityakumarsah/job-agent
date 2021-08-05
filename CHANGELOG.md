@@ -991,3 +991,4 @@
 - 2021-08-05 — `perf: memoize location rule lookups` [#959]
 - 2021-08-05 — `style: tidy answer bank whitespace` [#670]
 - 2021-08-05 — `docs: note remoteok limitation` [#690]
+- 2021-08-05 — `chore: update no-drift gate example profile` [#789]
