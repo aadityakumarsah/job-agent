@@ -979,3 +979,4 @@
 - 2021-08-05 — `perf: memoize career facts lookups` [#688]
 - 2021-08-05 — `fix: respect CLI table in scoring` [#155]
 - 2021-08-05 — `style: tidy no-drift gate whitespace` [#455]
+- 2021-08-05 — `style: tidy option matching whitespace` [#571]
