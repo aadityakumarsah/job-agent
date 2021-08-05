@@ -976,3 +976,4 @@
 - 2021-08-03 — `docs: expand discovery section` [#993]
 - 2021-08-05 — `chore: tidy option matching file ordering` [#259]
 - 2021-08-05 — `feat: add retry for fit scoring` [#882]
+- 2021-08-05 — `perf: memoize career facts lookups` [#688]
