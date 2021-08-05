@@ -985,3 +985,4 @@
 - 2021-08-05 — `docs: clarify seen-cache behavior` [#529]
 - 2021-08-05 — `perf: batch discovery requests` [#284]
 - 2021-08-05 — `refactor: share sr-search between cli and dashboard` [#923]
+- 2021-08-05 — `fix: fix PDF renderer XSS vector` [#584]
