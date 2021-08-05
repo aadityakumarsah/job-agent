@@ -995,3 +995,4 @@
 - 2021-08-05 — `refactor: simplify content scanner control flow` [#574]
 - 2021-08-05 — `test: assert keyword filter shape in tests` [#969]
 - 2021-08-05 — `refactor: share location rule between cli and dashboard` [#827]
+- 2021-08-05 — `chore: add remoteok to ignore rules` [#865]
