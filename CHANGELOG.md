@@ -987,3 +987,4 @@
 - 2021-08-05 — `refactor: share sr-search between cli and dashboard` [#923]
 - 2021-08-05 — `fix: fix PDF renderer XSS vector` [#584]
 - 2021-08-05 — `style: reorder seniority gate imports` [#646]
+- 2021-08-05 — `feat: add sr-search` [#507]
