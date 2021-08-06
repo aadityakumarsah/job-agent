@@ -1022,3 +1022,4 @@
 - 2021-08-06 — `perf: trim review gate payload size` [#353]
 - 2021-08-06 — `docs: clarify remoteok behavior` [#584]
 - 2021-08-06 — `feat: add PDF renderer validation` [#862]
+- 2021-08-06 — `docs: expand smartrecruiters section` [#469]
