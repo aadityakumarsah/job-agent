@@ -1011,3 +1011,4 @@
 - 2021-08-06 — `test: cover apply session with a fixture` [#674]
 - 2021-08-06 — `test: cover answer bank with a fixture` [#948]
 - 2021-08-06 — `style: line-wrap option matching` [#882]
+- 2021-08-06 — `style: tidy remoteok whitespace` [#928]
