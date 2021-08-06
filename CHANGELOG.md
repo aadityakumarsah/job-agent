@@ -1009,3 +1009,4 @@
 - 2021-08-06 — `style: reorder seniority gate imports` [#108]
 - 2021-08-06 — `test: cover application tracker with a fixture` [#917]
 - 2021-08-06 — `test: cover apply session with a fixture` [#674]
+- 2021-08-06 — `test: cover answer bank with a fixture` [#948]
