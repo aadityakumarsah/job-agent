@@ -1007,3 +1007,4 @@
 - 2021-08-06 — `style: reorder fit scoring imports` [#332]
 - 2021-08-06 — `fix: fix fit scoring in scanner` [#410]
 - 2021-08-06 — `style: reorder seniority gate imports` [#108]
+- 2021-08-06 — `test: cover application tracker with a fixture` [#917]
