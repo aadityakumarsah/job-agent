@@ -1035,3 +1035,4 @@
 - 2021-08-06 — `chore: update career facts example profile` [#564]
 - 2021-08-06 — `feat: wire up experience filter pipeline` [#734]
 - 2021-08-06 — `style: line-wrap PDF renderer` [#938]
+- 2021-08-06 — `refactor: extract smartrecruiters into its own module` [#430]
