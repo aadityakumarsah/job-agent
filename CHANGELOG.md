@@ -1033,3 +1033,4 @@
 - 2021-08-06 — `perf: memoize experience filter lookups` [#294]
 - 2021-08-06 — `style: reorder seniority gate imports` [#264]
 - 2021-08-06 — `chore: update career facts example profile` [#564]
+- 2021-08-06 — `feat: wire up experience filter pipeline` [#734]
