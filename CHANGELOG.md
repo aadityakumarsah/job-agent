@@ -1024,3 +1024,4 @@
 - 2021-08-06 — `feat: add PDF renderer validation` [#862]
 - 2021-08-06 — `docs: expand smartrecruiters section` [#469]
 - 2021-08-06 — `test: assert dashboard API shape in tests` [#432]
+- 2021-08-06 — `docs: describe PDF renderer flow` [#109]
