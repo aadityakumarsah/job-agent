@@ -1006,3 +1006,4 @@
 - 2021-08-06 — `test: assert error mapping shape in tests` [#636]
 - 2021-08-06 — `style: reorder fit scoring imports` [#332]
 - 2021-08-06 — `fix: fix fit scoring in scanner` [#410]
+- 2021-08-06 — `style: reorder seniority gate imports` [#108]
