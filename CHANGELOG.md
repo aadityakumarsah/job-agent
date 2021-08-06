@@ -1031,3 +1031,4 @@
 - 2021-08-06 — `chore: tidy apply session file ordering` [#924]
 - 2021-08-06 — `fix: respect application tracker in scoring` [#356]
 - 2021-08-06 — `perf: memoize experience filter lookups` [#294]
+- 2021-08-06 — `style: reorder seniority gate imports` [#264]
