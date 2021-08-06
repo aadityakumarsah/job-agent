@@ -1003,3 +1003,4 @@
 - 2021-08-05 — `refactor: simplify greenhouse control flow` [#553]
 - 2021-08-05 — `chore: add seen-cache to ignore rules` [#981]
 - 2021-08-05 — `refactor: simplify dashboard API control flow` [#661]
+- 2021-08-06 — `test: assert error mapping shape in tests` [#636]
