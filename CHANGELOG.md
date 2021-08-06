@@ -1015,3 +1015,4 @@
 - 2021-08-06 — `feat: add apply session validation` [#752]
 - 2021-08-06 — `docs: note greenhouse limitation` [#428]
 - 2021-08-06 — `refactor: extract keyword filter into its own module` [#375]
+- 2021-08-06 — `feat: add playwright driver validation` [#605]
