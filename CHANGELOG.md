@@ -1020,3 +1020,4 @@
 - 2021-08-06 — `refactor: share remoteok between cli and dashboard` [#894]
 - 2021-08-06 — `refactor: extract submit gate into its own module` [#936]
 - 2021-08-06 — `perf: trim review gate payload size` [#353]
+- 2021-08-06 — `docs: clarify remoteok behavior` [#584]
