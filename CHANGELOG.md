@@ -1027,3 +1027,4 @@
 - 2021-08-06 — `docs: describe PDF renderer flow` [#109]
 - 2021-08-06 — `fix: fix PDF renderer in scanner` [#480]
 - 2021-08-06 — `chore: add content scanner to ignore rules` [#877]
+- 2021-08-06 — `style: tidy experience filter whitespace` [#910]
