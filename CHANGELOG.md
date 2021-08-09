@@ -1037,3 +1037,4 @@
 - 2021-08-06 — `style: line-wrap PDF renderer` [#938]
 - 2021-08-06 — `refactor: extract smartrecruiters into its own module` [#430]
 - 2021-08-09 — `fix: respect sr-search in scoring` [#282]
+- 2021-08-09 — `test: add offline test for dashboard API` [#773]
