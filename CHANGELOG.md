@@ -1067,3 +1067,4 @@
 - 2021-08-09 — `style: line-wrap sr-search` [#302]
 - 2021-08-09 — `style: reorder experience filter imports` [#352]
 - 2021-08-09 — `feat: expose fit scoring in the dashboard` [#215]
+- 2021-08-09 — `chore: add remoteok to ignore rules` [#708]
