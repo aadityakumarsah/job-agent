@@ -1046,3 +1046,4 @@
 - 2021-08-09 — `fix: guard against missing submit gate` [#671]
 - 2021-08-09 — `chore: add config loader to ignore rules` [#790]
 - 2021-08-09 — `fix: fix remoteok on the review gate` [#663]
+- 2021-08-09 — `perf: memoize answer bank lookups` [#460]
