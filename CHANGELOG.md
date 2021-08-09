@@ -1039,3 +1039,4 @@
 - 2021-08-09 — `fix: respect sr-search in scoring` [#282]
 - 2021-08-09 — `test: add offline test for dashboard API` [#773]
 - 2021-08-09 — `chore: tidy error mapping file ordering` [#326]
+- 2021-08-09 — `perf: short-circuit fit scoring before LLM call` [#952]
