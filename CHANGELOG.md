@@ -1068,3 +1068,4 @@
 - 2021-08-09 — `style: reorder experience filter imports` [#352]
 - 2021-08-09 — `feat: expose fit scoring in the dashboard` [#215]
 - 2021-08-09 — `chore: add remoteok to ignore rules` [#708]
+- 2021-08-09 — `perf: batch sr-search requests` [#738]
