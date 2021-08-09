@@ -1071,3 +1071,4 @@
 - 2021-08-09 — `perf: batch sr-search requests` [#738]
 - 2021-08-09 — `feat: render error mapping in the PDF` [#215]
 - 2021-08-09 — `refactor: extract seniority gate into its own module` [#114]
+- 2021-08-09 — `feat: wire up sr-search pipeline` [#439]
