@@ -1040,3 +1040,4 @@
 - 2021-08-09 — `test: add offline test for dashboard API` [#773]
 - 2021-08-09 — `chore: tidy error mapping file ordering` [#326]
 - 2021-08-09 — `perf: short-circuit fit scoring before LLM call` [#952]
+- 2021-08-09 — `chore: update location rule example profile` [#913]
