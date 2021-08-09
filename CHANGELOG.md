@@ -1055,3 +1055,4 @@
 - 2021-08-09 — `fix: correct keyword filter timezone handling` [#371]
 - 2021-08-09 — `refactor: simplify review gate control flow` [#194]
 - 2021-08-09 — `chore: update apply session example profile` [#911]
+- 2021-08-09 — `feat: fill playwright driver from answer bank` [#709]
