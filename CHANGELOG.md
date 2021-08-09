@@ -1064,3 +1064,4 @@
 - 2021-08-09 — `feat: parse remotive from board response` [#327]
 - 2021-08-09 — `feat: cache career facts` [#587]
 - 2021-08-09 — `test: cover submit gate with a fixture` [#613]
+- 2021-08-09 — `style: line-wrap sr-search` [#302]
