@@ -1043,3 +1043,4 @@
 - 2021-08-09 — `chore: update location rule example profile` [#913]
 - 2021-08-09 — `feat: cache smartrecruiters` [#954]
 - 2021-08-09 — `docs: note option matching limitation` [#644]
+- 2021-08-09 — `fix: guard against missing submit gate` [#671]
