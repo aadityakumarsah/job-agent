@@ -1066,3 +1066,4 @@
 - 2021-08-09 — `test: cover submit gate with a fixture` [#613]
 - 2021-08-09 — `style: line-wrap sr-search` [#302]
 - 2021-08-09 — `style: reorder experience filter imports` [#352]
+- 2021-08-09 — `feat: expose fit scoring in the dashboard` [#215]
