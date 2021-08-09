@@ -1061,3 +1061,4 @@
 - 2021-08-09 — `feat: add seniority gate` [#749]
 - 2021-08-09 — `chore: update apply session example profile` [#652]
 - 2021-08-09 — `feat: add extension popup to extension popup` [#789]
+- 2021-08-09 — `feat: parse remotive from board response` [#327]
