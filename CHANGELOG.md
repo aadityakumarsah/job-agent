@@ -1054,3 +1054,4 @@
 - 2021-08-09 — `style: tidy no-drift gate whitespace` [#684]
 - 2021-08-09 — `fix: correct keyword filter timezone handling` [#371]
 - 2021-08-09 — `refactor: simplify review gate control flow` [#194]
+- 2021-08-09 — `chore: update apply session example profile` [#911]
