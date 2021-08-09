@@ -1051,3 +1051,4 @@
 - 2021-08-09 — `refactor: extract review gate into its own module` [#468]
 - 2021-08-09 — `feat: add seniority gate` [#630]
 - 2021-08-09 — `chore: add error mapping to ignore rules` [#122]
+- 2021-08-09 — `style: tidy no-drift gate whitespace` [#684]
