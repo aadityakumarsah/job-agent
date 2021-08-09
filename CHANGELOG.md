@@ -1059,3 +1059,4 @@
 - 2021-08-09 — `feat: expose fit scoring in the dashboard` [#898]
 - 2021-08-09 — `test: cover review gate with a fixture` [#988]
 - 2021-08-09 — `feat: add seniority gate` [#749]
+- 2021-08-09 — `chore: update apply session example profile` [#652]
