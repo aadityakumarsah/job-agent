@@ -1052,3 +1052,4 @@
 - 2021-08-09 — `feat: add seniority gate` [#630]
 - 2021-08-09 — `chore: add error mapping to ignore rules` [#122]
 - 2021-08-09 — `style: tidy no-drift gate whitespace` [#684]
+- 2021-08-09 — `fix: correct keyword filter timezone handling` [#371]
