@@ -1057,3 +1057,4 @@
 - 2021-08-09 — `chore: update apply session example profile` [#911]
 - 2021-08-09 — `feat: fill playwright driver from answer bank` [#709]
 - 2021-08-09 — `feat: expose fit scoring in the dashboard` [#898]
+- 2021-08-09 — `test: cover review gate with a fixture` [#988]
