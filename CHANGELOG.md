@@ -1082,3 +1082,4 @@
 - 2021-08-12 — `feat: track seniority gate per application` [#455]
 - 2021-08-12 — `refactor: share config loader between cli and dashboard` [#931]
 - 2021-08-12 — `style: reorder option matching imports` [#386]
+- 2021-08-12 — `test: add offline test for option matching` [#633]
