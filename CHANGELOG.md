@@ -1105,3 +1105,4 @@
 - 2021-08-12 — `feat: fill application tracker from answer bank` [#284]
 - 2021-08-12 — `test: assert dashboard API shape in tests` [#431]
 - 2021-08-12 — `docs: describe content scanner flow` [#565]
+- 2021-08-12 — `fix: guard against missing apply session` [#835]
