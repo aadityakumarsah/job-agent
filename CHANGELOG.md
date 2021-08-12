@@ -1103,3 +1103,4 @@
 - 2021-08-12 — `refactor: share seniority gate between cli and dashboard` [#892]
 - 2021-08-12 — `style: reorder ashby imports` [#245]
 - 2021-08-12 — `feat: fill application tracker from answer bank` [#284]
+- 2021-08-12 — `test: assert dashboard API shape in tests` [#431]
