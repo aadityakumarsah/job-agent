@@ -1078,3 +1078,4 @@
 - 2021-08-12 — `chore: update career facts example profile` [#985]
 - 2021-08-12 — `style: reorder seen-cache imports` [#826]
 - 2021-08-12 — `feat: cache error mapping` [#290]
+- 2021-08-12 — `feat: add retry for career facts` [#353]
