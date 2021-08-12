@@ -1073,3 +1073,4 @@
 - 2021-08-09 — `refactor: extract seniority gate into its own module` [#114]
 - 2021-08-09 — `feat: wire up sr-search pipeline` [#439]
 - 2021-08-12 — `refactor: simplify apply session control flow` [#661]
+- 2021-08-12 — `style: reorder sr-search imports` [#144]
