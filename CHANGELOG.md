@@ -1092,3 +1092,4 @@
 - 2021-08-12 — `refactor: simplify remoteok control flow` [#255]
 - 2021-08-12 — `refactor: simplify keyword filter control flow` [#720]
 - 2021-08-12 — `feat: cache seen-cache` [#804]
+- 2021-08-12 — `chore: tidy remoteok file ordering` [#288]
