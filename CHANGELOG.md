@@ -1089,3 +1089,4 @@
 - 2021-08-12 — `fix: avoid crashing on ashby` [#771]
 - 2021-08-12 — `feat: introduce review gate flag` [#288]
 - 2021-08-12 — `chore: update error mapping example profile` [#523]
+- 2021-08-12 — `refactor: simplify remoteok control flow` [#255]
