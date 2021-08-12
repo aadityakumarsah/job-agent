@@ -1095,3 +1095,4 @@
 - 2021-08-12 — `chore: tidy remoteok file ordering` [#288]
 - 2021-08-12 — `feat: add CLI table validation` [#518]
 - 2021-08-12 — `docs: add seen-cache to the README` [#875]
+- 2021-08-12 — `chore: add career facts to ignore rules` [#987]
