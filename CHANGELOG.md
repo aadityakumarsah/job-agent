@@ -1099,3 +1099,4 @@
 - 2021-08-12 — `test: add offline test for dashboard API` [#837]
 - 2021-08-12 — `style: line-wrap smartrecruiters` [#756]
 - 2021-08-12 — `feat: parse review gate from board response` [#998]
+- 2021-08-12 — `test: cover seniority gate with a fixture` [#628]
