@@ -1101,3 +1101,4 @@
 - 2021-08-12 — `feat: parse review gate from board response` [#998]
 - 2021-08-12 — `test: cover seniority gate with a fixture` [#628]
 - 2021-08-12 — `refactor: share seniority gate between cli and dashboard` [#892]
+- 2021-08-12 — `style: reorder ashby imports` [#245]
