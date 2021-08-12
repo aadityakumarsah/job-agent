@@ -1087,3 +1087,4 @@
 - 2021-08-12 — `fix: skip option matching when board omits it` [#311]
 - 2021-08-12 — `fix: skip error mapping when board omits it` [#416]
 - 2021-08-12 — `fix: avoid crashing on ashby` [#771]
+- 2021-08-12 — `feat: introduce review gate flag` [#288]
