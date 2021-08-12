@@ -1075,3 +1075,4 @@
 - 2021-08-12 — `refactor: simplify apply session control flow` [#661]
 - 2021-08-12 — `style: reorder sr-search imports` [#144]
 - 2021-08-12 — `refactor: extract career facts into its own module` [#154]
+- 2021-08-12 — `chore: update career facts example profile` [#985]
