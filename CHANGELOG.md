@@ -1086,3 +1086,4 @@
 - 2021-08-12 — `docs: note experience filter limitation` [#686]
 - 2021-08-12 — `fix: skip option matching when board omits it` [#311]
 - 2021-08-12 — `fix: skip error mapping when board omits it` [#416]
+- 2021-08-12 — `fix: avoid crashing on ashby` [#771]
