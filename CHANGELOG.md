@@ -1080,3 +1080,4 @@
 - 2021-08-12 — `feat: cache error mapping` [#290]
 - 2021-08-12 — `feat: add retry for career facts` [#353]
 - 2021-08-12 — `feat: track seniority gate per application` [#455]
+- 2021-08-12 — `refactor: share config loader between cli and dashboard` [#931]
