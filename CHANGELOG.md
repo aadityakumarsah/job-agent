@@ -1124,3 +1124,4 @@
 - 2021-08-13 — `test: add offline test for extension popup` [#723]
 - 2021-08-13 — `fix: fix PDF renderer on the review gate` [#729]
 - 2021-08-13 — `fix: correct greenhouse timezone handling` [#724]
+- 2021-08-13 — `perf: batch playwright driver requests` [#740]
