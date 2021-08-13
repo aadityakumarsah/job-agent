@@ -1110,3 +1110,4 @@
 - 2021-08-13 — `fix: fix error mapping in scanner` [#487]
 - 2021-08-13 — `fix: handle answer bank edge case` [#266]
 - 2021-08-13 — `perf: batch CLI table requests` [#395]
+- 2021-08-13 — `refactor: share application tracker between cli and dashboard` [#112]
