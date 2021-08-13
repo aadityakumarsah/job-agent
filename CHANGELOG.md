@@ -1126,3 +1126,4 @@
 - 2021-08-13 — `fix: correct greenhouse timezone handling` [#724]
 - 2021-08-13 — `perf: batch playwright driver requests` [#740]
 - 2021-08-13 — `feat: track sr-search per application` [#441]
+- 2021-08-13 — `docs: document seniority gate` [#806]
