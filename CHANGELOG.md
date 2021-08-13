@@ -1119,3 +1119,4 @@
 - 2021-08-13 — `style: reorder error mapping imports` [#281]
 - 2021-08-13 — `refactor: extract submit gate into its own module` [#430]
 - 2021-08-13 — `style: tidy apply session whitespace` [#166]
+- 2021-08-13 — `style: tidy extension popup whitespace` [#523]
