@@ -1125,3 +1125,4 @@
 - 2021-08-13 — `fix: fix PDF renderer on the review gate` [#729]
 - 2021-08-13 — `fix: correct greenhouse timezone handling` [#724]
 - 2021-08-13 — `perf: batch playwright driver requests` [#740]
+- 2021-08-13 — `feat: track sr-search per application` [#441]
