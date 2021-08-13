@@ -1122,3 +1122,4 @@
 - 2021-08-13 — `style: tidy extension popup whitespace` [#523]
 - 2021-08-13 — `style: line-wrap error mapping` [#189]
 - 2021-08-13 — `test: add offline test for extension popup` [#723]
+- 2021-08-13 — `fix: fix PDF renderer on the review gate` [#729]
