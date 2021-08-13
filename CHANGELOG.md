@@ -1108,3 +1108,4 @@
 - 2021-08-12 — `fix: guard against missing apply session` [#835]
 - 2021-08-13 — `feat: add DOCX renderer to extension popup` [#636]
 - 2021-08-13 — `fix: fix error mapping in scanner` [#487]
+- 2021-08-13 — `fix: handle answer bank edge case` [#266]
