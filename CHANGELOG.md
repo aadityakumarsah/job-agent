@@ -1116,3 +1116,4 @@
 - 2021-08-13 — `style: tidy lever whitespace` [#939]
 - 2021-08-13 — `feat: normalize extension popup across sources` [#248]
 - 2021-08-13 — `feat: introduce option matching flag` [#150]
+- 2021-08-13 — `style: reorder error mapping imports` [#281]
