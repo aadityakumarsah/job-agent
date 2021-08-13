@@ -1106,3 +1106,4 @@
 - 2021-08-12 — `test: assert dashboard API shape in tests` [#431]
 - 2021-08-12 — `docs: describe content scanner flow` [#565]
 - 2021-08-12 — `fix: guard against missing apply session` [#835]
+- 2021-08-13 — `feat: add DOCX renderer to extension popup` [#636]
