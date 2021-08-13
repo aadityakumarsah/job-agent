@@ -1109,3 +1109,4 @@
 - 2021-08-13 — `feat: add DOCX renderer to extension popup` [#636]
 - 2021-08-13 — `fix: fix error mapping in scanner` [#487]
 - 2021-08-13 — `fix: handle answer bank edge case` [#266]
+- 2021-08-13 — `perf: batch CLI table requests` [#395]
