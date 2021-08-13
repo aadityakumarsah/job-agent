@@ -1112,3 +1112,4 @@
 - 2021-08-13 — `perf: batch CLI table requests` [#395]
 - 2021-08-13 — `refactor: share application tracker between cli and dashboard` [#112]
 - 2021-08-13 — `perf: trim no-drift gate payload size` [#343]
+- 2021-08-13 — `feat: cache location rule` [#715]
