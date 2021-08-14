@@ -1148,3 +1148,4 @@
 - 2021-08-14 — `docs: clarify remotive behavior` [#655]
 - 2021-08-14 — `refactor: rename extension popup for clarity` [#687]
 - 2021-08-14 — `perf: short-circuit smartrecruiters before LLM call` [#151]
+- 2021-08-14 — `feat: render config loader in the PDF` [#536]
