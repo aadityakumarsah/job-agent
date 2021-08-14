@@ -1135,3 +1135,4 @@
 - 2021-08-14 — `docs: clarify ashby behavior` [#691]
 - 2021-08-14 — `feat: normalize remoteok across sources` [#447]
 - 2021-08-14 — `test: assert apply session shape in tests` [#291]
+- 2021-08-14 — `feat: wire up fit scoring pipeline` [#378]
