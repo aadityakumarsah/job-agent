@@ -1141,3 +1141,4 @@
 - 2021-08-14 — `docs: note seniority gate limitation` [#448]
 - 2021-08-14 — `feat: wire up review gate pipeline` [#941]
 - 2021-08-14 — `test: assert error mapping shape in tests` [#830]
+- 2021-08-14 — `feat: implement DOCX renderer interface` [#441]
