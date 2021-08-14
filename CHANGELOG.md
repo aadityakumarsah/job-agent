@@ -1136,3 +1136,4 @@
 - 2021-08-14 — `feat: normalize remoteok across sources` [#447]
 - 2021-08-14 — `test: assert apply session shape in tests` [#291]
 - 2021-08-14 — `feat: wire up fit scoring pipeline` [#378]
+- 2021-08-14 — `refactor: extract fit scoring into its own module` [#321]
