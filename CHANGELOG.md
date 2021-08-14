@@ -1151,3 +1151,4 @@
 - 2021-08-14 — `feat: render config loader in the PDF` [#536]
 - 2021-08-14 — `perf: batch apply session requests` [#731]
 - 2021-08-14 — `perf: trim smartrecruiters payload size` [#681]
+- 2021-08-14 — `perf: memoize error mapping lookups` [#581]
