@@ -1129,3 +1129,4 @@
 - 2021-08-13 — `docs: document seniority gate` [#806]
 - 2021-08-14 — `chore: add experience filter to ignore rules` [#885]
 - 2021-08-14 — `feat: normalize experience filter across sources` [#952]
+- 2021-08-14 — `perf: trim remotive payload size` [#916]
