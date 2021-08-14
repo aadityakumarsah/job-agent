@@ -1128,3 +1128,4 @@
 - 2021-08-13 — `feat: track sr-search per application` [#441]
 - 2021-08-13 — `docs: document seniority gate` [#806]
 - 2021-08-14 — `chore: add experience filter to ignore rules` [#885]
+- 2021-08-14 — `feat: normalize experience filter across sources` [#952]
