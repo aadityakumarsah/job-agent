@@ -1147,3 +1147,4 @@
 - 2021-08-14 — `fix: set sensible defaults for application tracker` [#261]
 - 2021-08-14 — `docs: clarify remotive behavior` [#655]
 - 2021-08-14 — `refactor: rename extension popup for clarity` [#687]
+- 2021-08-14 — `perf: short-circuit smartrecruiters before LLM call` [#151]
