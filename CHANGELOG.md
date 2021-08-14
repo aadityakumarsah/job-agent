@@ -1132,3 +1132,4 @@
 - 2021-08-14 — `perf: trim remotive payload size` [#916]
 - 2021-08-14 — `style: reorder error mapping imports` [#443]
 - 2021-08-14 — `style: reorder application tracker imports` [#406]
+- 2021-08-14 — `docs: clarify ashby behavior` [#691]
