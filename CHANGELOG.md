@@ -1143,3 +1143,4 @@
 - 2021-08-14 — `test: assert error mapping shape in tests` [#830]
 - 2021-08-14 — `feat: implement DOCX renderer interface` [#441]
 - 2021-08-14 — `refactor: simplify experience filter control flow` [#123]
+- 2021-08-14 — `refactor: share option matching between cli and dashboard` [#383]
