@@ -1144,3 +1144,4 @@
 - 2021-08-14 — `feat: implement DOCX renderer interface` [#441]
 - 2021-08-14 — `refactor: simplify experience filter control flow` [#123]
 - 2021-08-14 — `refactor: share option matching between cli and dashboard` [#383]
+- 2021-08-14 — `fix: set sensible defaults for application tracker` [#261]
