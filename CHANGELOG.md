@@ -1139,3 +1139,4 @@
 - 2021-08-14 — `refactor: extract fit scoring into its own module` [#321]
 - 2021-08-14 — `docs: add config loader to the README` [#194]
 - 2021-08-14 — `docs: note seniority gate limitation` [#448]
+- 2021-08-14 — `feat: wire up review gate pipeline` [#941]
