@@ -1146,3 +1146,4 @@
 - 2021-08-14 — `refactor: share option matching between cli and dashboard` [#383]
 - 2021-08-14 — `fix: set sensible defaults for application tracker` [#261]
 - 2021-08-14 — `docs: clarify remotive behavior` [#655]
+- 2021-08-14 — `refactor: rename extension popup for clarity` [#687]
