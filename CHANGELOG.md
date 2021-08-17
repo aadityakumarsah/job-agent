@@ -1187,3 +1187,4 @@
 - 2021-08-17 — `feat: add location rule to extension popup` [#229]
 - 2021-08-17 — `refactor: extract extension popup into its own module` [#381]
 - 2021-08-17 — `fix: fix location rule in scanner` [#774]
+- 2021-08-17 — `fix: avoid crashing on ashby` [#918]
