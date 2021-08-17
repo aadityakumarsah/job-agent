@@ -1178,3 +1178,4 @@
 - 2021-08-17 — `docs: note dashboard API limitation` [#829]
 - 2021-08-17 — `feat: implement dashboard API interface` [#681]
 - 2021-08-17 — `feat: normalize submit gate across sources` [#245]
+- 2021-08-17 — `perf: short-circuit keyword filter before LLM call` [#629]
