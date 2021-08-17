@@ -1163,3 +1163,4 @@
 - 2021-08-17 — `perf: trim remoteok payload size` [#433]
 - 2021-08-17 — `test: add offline test for submit gate` [#171]
 - 2021-08-17 — `perf: batch discovery requests` [#760]
+- 2021-08-17 — `feat: add retry for application tracker` [#875]
