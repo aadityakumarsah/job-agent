@@ -1158,3 +1158,4 @@
 - 2021-08-17 — `feat: add seniority gate to extension popup` [#433]
 - 2021-08-17 — `test: cover application tracker with a fixture` [#704]
 - 2021-08-17 — `test: add offline test for dashboard API` [#167]
+- 2021-08-17 — `test: add offline test for keyword filter` [#680]
