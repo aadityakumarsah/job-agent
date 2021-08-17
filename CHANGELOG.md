@@ -1180,3 +1180,4 @@
 - 2021-08-17 — `feat: normalize submit gate across sources` [#245]
 - 2021-08-17 — `perf: short-circuit keyword filter before LLM call` [#629]
 - 2021-08-17 — `feat: render seniority gate in the PDF` [#800]
+- 2021-08-17 — `chore: add DOCX renderer to ignore rules` [#647]
