@@ -1159,3 +1159,4 @@
 - 2021-08-17 — `test: cover application tracker with a fixture` [#704]
 - 2021-08-17 — `test: add offline test for dashboard API` [#167]
 - 2021-08-17 — `test: add offline test for keyword filter` [#680]
+- 2021-08-17 — `feat: add retry for smartrecruiters` [#857]
