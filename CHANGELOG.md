@@ -1166,3 +1166,4 @@
 - 2021-08-17 — `feat: add retry for application tracker` [#875]
 - 2021-08-17 — `perf: memoize seniority gate lookups` [#300]
 - 2021-08-17 — `test: cover extension popup with a fixture` [#835]
+- 2021-08-17 — `fix: skip CLI table when board omits it` [#972]
