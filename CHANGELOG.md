@@ -1154,3 +1154,4 @@
 - 2021-08-14 — `perf: memoize error mapping lookups` [#581]
 - 2021-08-14 — `fix: avoid crashing on no-drift gate` [#816]
 - 2021-08-14 — `feat: add retry for seen-cache` [#586]
+- 2021-08-17 — `chore: tidy career facts file ordering` [#718]
