@@ -1182,3 +1182,4 @@
 - 2021-08-17 — `feat: render seniority gate in the PDF` [#800]
 - 2021-08-17 — `chore: add DOCX renderer to ignore rules` [#647]
 - 2021-08-17 — `chore: add remoteok to ignore rules` [#531]
+- 2021-08-17 — `refactor: extract content scanner into its own module` [#844]
