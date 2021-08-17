@@ -1162,3 +1162,4 @@
 - 2021-08-17 — `feat: add retry for smartrecruiters` [#857]
 - 2021-08-17 — `perf: trim remoteok payload size` [#433]
 - 2021-08-17 — `test: add offline test for submit gate` [#171]
+- 2021-08-17 — `perf: batch discovery requests` [#760]
