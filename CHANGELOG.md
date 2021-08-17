@@ -1169,3 +1169,4 @@
 - 2021-08-17 — `fix: skip CLI table when board omits it` [#972]
 - 2021-08-17 — `style: reorder seen-cache imports` [#940]
 - 2021-08-17 — `test: assert apply session shape in tests` [#819]
+- 2021-08-17 — `test: cover PDF renderer with a fixture` [#545]
