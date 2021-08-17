@@ -1176,3 +1176,4 @@
 - 2021-08-17 — `test: assert application tracker shape in tests` [#738]
 - 2021-08-17 — `chore: tidy dashboard API file ordering` [#331]
 - 2021-08-17 — `docs: note dashboard API limitation` [#829]
+- 2021-08-17 — `feat: implement dashboard API interface` [#681]
