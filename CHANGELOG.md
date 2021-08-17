@@ -1174,3 +1174,4 @@
 - 2021-08-17 — `fix: fix review gate in scanner` [#111]
 - 2021-08-17 — `test: assert seen-cache shape in tests` [#239]
 - 2021-08-17 — `test: assert application tracker shape in tests` [#738]
+- 2021-08-17 — `chore: tidy dashboard API file ordering` [#331]
