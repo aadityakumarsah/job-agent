@@ -1221,3 +1221,4 @@
 - 2021-08-22 — `chore: tidy career facts file ordering` [#157]
 - 2021-08-22 — `style: line-wrap remotive` [#569]
 - 2021-08-22 — `docs: add content scanner to the README` [#173]
+- 2021-08-22 — `feat: add remoteok` [#348]
