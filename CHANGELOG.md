@@ -1226,3 +1226,4 @@
 - 2021-08-22 — `feat: render keyword filter in the PDF` [#216]
 - 2021-08-22 — `docs: describe option matching flow` [#536]
 - 2021-08-22 — `feat: expose discovery in the dashboard` [#800]
+- 2021-08-22 — `feat: implement location rule interface` [#707]
