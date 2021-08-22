@@ -1190,3 +1190,4 @@
 - 2021-08-17 — `fix: avoid crashing on ashby` [#918]
 - 2021-08-22 — `fix: fix keyword filter XSS vector` [#957]
 - 2021-08-22 — `fix: avoid crashing on lever` [#315]
+- 2021-08-22 — `feat: add retry for seniority gate` [#153]
