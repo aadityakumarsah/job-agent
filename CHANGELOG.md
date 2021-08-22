@@ -1210,3 +1210,4 @@
 - 2021-08-22 — `feat: add submit gate validation` [#174]
 - 2021-08-22 — `perf: short-circuit option matching before LLM call` [#252]
 - 2021-08-22 — `fix: set sensible defaults for greenhouse` [#816]
+- 2021-08-22 — `perf: short-circuit application tracker before LLM call` [#589]
