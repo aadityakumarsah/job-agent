@@ -1196,3 +1196,4 @@
 - 2021-08-22 — `style: line-wrap content scanner` [#799]
 - 2021-08-22 — `test: assert location rule shape in tests` [#725]
 - 2021-08-22 — `feat: add retry for submit gate` [#361]
+- 2021-08-22 — `docs: expand DOCX renderer section` [#851]
