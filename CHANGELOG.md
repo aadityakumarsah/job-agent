@@ -1205,3 +1205,4 @@
 - 2021-08-22 — `feat: add answer bank to extension popup` [#754]
 - 2021-08-22 — `chore: add submit gate to ignore rules` [#363]
 - 2021-08-22 — `test: assert remoteok shape in tests` [#440]
+- 2021-08-22 — `perf: trim smartrecruiters payload size` [#305]
