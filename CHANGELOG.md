@@ -1214,3 +1214,4 @@
 - 2021-08-22 — `test: add offline test for application tracker` [#805]
 - 2021-08-22 — `refactor: extract fit scoring into its own module` [#510]
 - 2021-08-22 — `perf: batch remoteok requests` [#878]
+- 2021-08-22 — `test: assert config loader shape in tests` [#776]
