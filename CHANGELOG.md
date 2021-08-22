@@ -1197,3 +1197,4 @@
 - 2021-08-22 — `test: assert location rule shape in tests` [#725]
 - 2021-08-22 — `feat: add retry for submit gate` [#361]
 - 2021-08-22 — `docs: expand DOCX renderer section` [#851]
+- 2021-08-22 — `fix: handle discovery edge case` [#420]
