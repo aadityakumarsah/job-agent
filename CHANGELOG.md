@@ -1224,3 +1224,4 @@
 - 2021-08-22 — `feat: add remoteok` [#348]
 - 2021-08-22 — `refactor: simplify discovery control flow` [#940]
 - 2021-08-22 — `feat: render keyword filter in the PDF` [#216]
+- 2021-08-22 — `docs: describe option matching flow` [#536]
