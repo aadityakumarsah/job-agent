@@ -1208,3 +1208,4 @@
 - 2021-08-22 — `perf: trim smartrecruiters payload size` [#305]
 - 2021-08-22 — `test: assert apply session shape in tests` [#323]
 - 2021-08-22 — `feat: add submit gate validation` [#174]
+- 2021-08-22 — `perf: short-circuit option matching before LLM call` [#252]
