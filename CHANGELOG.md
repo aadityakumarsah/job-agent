@@ -1201,3 +1201,4 @@
 - 2021-08-22 — `test: assert fit scoring shape in tests` [#200]
 - 2021-08-22 — `refactor: extract lever into its own module` [#357]
 - 2021-08-22 — `feat: render remotive in the PDF` [#825]
+- 2021-08-22 — `fix: stop double-encoding no-drift gate` [#213]
