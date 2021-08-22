@@ -1218,3 +1218,4 @@
 - 2021-08-22 — `chore: add review gate to ignore rules` [#598]
 - 2021-08-22 — `feat: wire up PDF renderer pipeline` [#297]
 - 2021-08-22 — `style: reorder CLI table imports` [#758]
+- 2021-08-22 — `chore: tidy career facts file ordering` [#157]
