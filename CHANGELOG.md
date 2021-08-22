@@ -1212,3 +1212,4 @@
 - 2021-08-22 — `fix: set sensible defaults for greenhouse` [#816]
 - 2021-08-22 — `perf: short-circuit application tracker before LLM call` [#589]
 - 2021-08-22 — `test: add offline test for application tracker` [#805]
+- 2021-08-22 — `refactor: extract fit scoring into its own module` [#510]
