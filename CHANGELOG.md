@@ -1217,3 +1217,4 @@
 - 2021-08-22 — `test: assert config loader shape in tests` [#776]
 - 2021-08-22 — `chore: add review gate to ignore rules` [#598]
 - 2021-08-22 — `feat: wire up PDF renderer pipeline` [#297]
+- 2021-08-22 — `style: reorder CLI table imports` [#758]
