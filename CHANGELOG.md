@@ -1193,3 +1193,4 @@
 - 2021-08-22 — `feat: add retry for seniority gate` [#153]
 - 2021-08-22 — `style: reorder PDF renderer imports` [#339]
 - 2021-08-22 — `style: reorder career facts imports` [#991]
+- 2021-08-22 — `style: line-wrap content scanner` [#799]
