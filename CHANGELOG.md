@@ -1215,3 +1215,4 @@
 - 2021-08-22 — `refactor: extract fit scoring into its own module` [#510]
 - 2021-08-22 — `perf: batch remoteok requests` [#878]
 - 2021-08-22 — `test: assert config loader shape in tests` [#776]
+- 2021-08-22 — `chore: add review gate to ignore rules` [#598]
