@@ -1195,3 +1195,4 @@
 - 2021-08-22 — `style: reorder career facts imports` [#991]
 - 2021-08-22 — `style: line-wrap content scanner` [#799]
 - 2021-08-22 — `test: assert location rule shape in tests` [#725]
+- 2021-08-22 — `feat: add retry for submit gate` [#361]
