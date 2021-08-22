@@ -1203,3 +1203,4 @@
 - 2021-08-22 — `feat: render remotive in the PDF` [#825]
 - 2021-08-22 — `fix: stop double-encoding no-drift gate` [#213]
 - 2021-08-22 — `feat: add answer bank to extension popup` [#754]
+- 2021-08-22 — `chore: add submit gate to ignore rules` [#363]
