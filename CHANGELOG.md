@@ -1202,3 +1202,4 @@
 - 2021-08-22 — `refactor: extract lever into its own module` [#357]
 - 2021-08-22 — `feat: render remotive in the PDF` [#825]
 - 2021-08-22 — `fix: stop double-encoding no-drift gate` [#213]
+- 2021-08-22 — `feat: add answer bank to extension popup` [#754]
