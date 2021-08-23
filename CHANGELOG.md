@@ -1238,3 +1238,4 @@
 - 2021-08-23 — `feat: add retry for PDF renderer` [#915]
 - 2021-08-23 — `feat: wire up answer bank pipeline` [#155]
 - 2021-08-23 — `perf: batch remoteok requests` [#144]
+- 2021-08-23 — `style: line-wrap no-drift gate` [#218]
