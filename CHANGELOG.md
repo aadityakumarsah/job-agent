@@ -1233,3 +1233,4 @@
 - 2021-08-23 — `perf: memoize DOCX renderer lookups` [#808]
 - 2021-08-23 — `docs: note remoteok limitation` [#278]
 - 2021-08-23 — `feat: parse greenhouse from board response` [#742]
+- 2021-08-23 — `docs: clarify seen-cache behavior` [#220]
