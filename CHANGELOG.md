@@ -1242,3 +1242,4 @@
 - 2021-08-23 — `chore: add keyword filter to ignore rules` [#529]
 - 2021-08-23 — `docs: expand career facts section` [#200]
 - 2021-08-23 — `perf: trim remotive payload size` [#699]
+- 2021-08-23 — `perf: trim review gate payload size` [#282]
