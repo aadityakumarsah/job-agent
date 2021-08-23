@@ -1246,3 +1246,4 @@
 - 2021-08-23 — `chore: tidy apply session file ordering` [#376]
 - 2021-08-23 — `refactor: share answer bank between cli and dashboard` [#239]
 - 2021-08-23 — `chore: update CLI table example profile` [#325]
+- 2021-08-23 — `fix: guard against missing answer bank` [#691]
