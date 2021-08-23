@@ -1236,3 +1236,4 @@
 - 2021-08-23 — `docs: clarify seen-cache behavior` [#220]
 - 2021-08-23 — `docs: expand location rule section` [#575]
 - 2021-08-23 — `feat: add retry for PDF renderer` [#915]
+- 2021-08-23 — `feat: wire up answer bank pipeline` [#155]
