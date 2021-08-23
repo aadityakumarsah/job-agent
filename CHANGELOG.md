@@ -1229,3 +1229,4 @@
 - 2021-08-22 — `feat: implement location rule interface` [#707]
 - 2021-08-23 — `fix: respect keyword filter in scoring` [#813]
 - 2021-08-23 — `fix: set sensible defaults for career facts` [#202]
+- 2021-08-23 — `perf: short-circuit apply session before LLM call` [#182]
