@@ -1227,3 +1227,4 @@
 - 2021-08-22 — `docs: describe option matching flow` [#536]
 - 2021-08-22 — `feat: expose discovery in the dashboard` [#800]
 - 2021-08-22 — `feat: implement location rule interface` [#707]
+- 2021-08-23 — `fix: respect keyword filter in scoring` [#813]
