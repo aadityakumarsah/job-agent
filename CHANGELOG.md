@@ -1231,3 +1231,4 @@
 - 2021-08-23 — `fix: set sensible defaults for career facts` [#202]
 - 2021-08-23 — `perf: short-circuit apply session before LLM call` [#182]
 - 2021-08-23 — `perf: memoize DOCX renderer lookups` [#808]
+- 2021-08-23 — `docs: note remoteok limitation` [#278]
