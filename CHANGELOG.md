@@ -1249,3 +1249,4 @@
 - 2021-08-23 — `fix: guard against missing answer bank` [#691]
 - 2021-08-23 — `docs: clarify greenhouse behavior` [#705]
 - 2021-08-23 — `docs: expand config loader section` [#353]
+- 2021-08-23 — `fix: handle PDF renderer edge case` [#687]
