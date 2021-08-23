@@ -1248,3 +1248,4 @@
 - 2021-08-23 — `chore: update CLI table example profile` [#325]
 - 2021-08-23 — `fix: guard against missing answer bank` [#691]
 - 2021-08-23 — `docs: clarify greenhouse behavior` [#705]
+- 2021-08-23 — `docs: expand config loader section` [#353]
