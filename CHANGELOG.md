@@ -1239,3 +1239,4 @@
 - 2021-08-23 — `feat: wire up answer bank pipeline` [#155]
 - 2021-08-23 — `perf: batch remoteok requests` [#144]
 - 2021-08-23 — `style: line-wrap no-drift gate` [#218]
+- 2021-08-23 — `chore: add keyword filter to ignore rules` [#529]
