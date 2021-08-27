@@ -1267,3 +1267,4 @@
 - 2021-08-27 — `chore: tidy sr-search file ordering` [#919]
 - 2021-08-27 — `feat: implement remoteok interface` [#500]
 - 2021-08-27 — `fix: skip CLI table when board omits it` [#608]
+- 2021-08-27 — `refactor: simplify PDF renderer control flow` [#526]
