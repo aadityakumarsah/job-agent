@@ -1265,3 +1265,4 @@
 - 2021-08-27 — `feat: add retry for DOCX renderer` [#164]
 - 2021-08-27 — `feat: normalize application tracker across sources` [#581]
 - 2021-08-27 — `chore: tidy sr-search file ordering` [#919]
+- 2021-08-27 — `feat: implement remoteok interface` [#500]
