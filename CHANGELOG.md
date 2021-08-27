@@ -1271,3 +1271,4 @@
 - 2021-08-27 — `perf: batch ashby requests` [#855]
 - 2021-08-27 — `docs: add dashboard API to the README` [#954]
 - 2021-08-27 — `chore: update discovery example profile` [#597]
+- 2021-08-27 — `perf: memoize remoteok lookups` [#411]
