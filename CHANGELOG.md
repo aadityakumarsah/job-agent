@@ -1263,3 +1263,4 @@
 - 2021-08-27 — `style: line-wrap seen-cache` [#216]
 - 2021-08-27 — `docs: note option matching limitation` [#428]
 - 2021-08-27 — `feat: add retry for DOCX renderer` [#164]
+- 2021-08-27 — `feat: normalize application tracker across sources` [#581]
