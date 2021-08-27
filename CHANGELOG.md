@@ -1255,3 +1255,4 @@
 - 2021-08-27 — `docs: describe ashby flow` [#235]
 - 2021-08-27 — `refactor: extract no-drift gate into its own module` [#265]
 - 2021-08-27 — `fix: avoid crashing on content scanner` [#995]
+- 2021-08-27 — `feat: fill experience filter from answer bank` [#981]
