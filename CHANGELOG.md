@@ -1257,3 +1257,4 @@
 - 2021-08-27 — `fix: avoid crashing on content scanner` [#995]
 - 2021-08-27 — `feat: fill experience filter from answer bank` [#981]
 - 2021-08-27 — `refactor: simplify playwright driver control flow` [#536]
+- 2021-08-27 — `chore: update fit scoring example profile` [#853]
