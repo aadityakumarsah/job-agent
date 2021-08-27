@@ -1262,3 +1262,4 @@
 - 2021-08-27 — `style: tidy remotive whitespace` [#821]
 - 2021-08-27 — `style: line-wrap seen-cache` [#216]
 - 2021-08-27 — `docs: note option matching limitation` [#428]
+- 2021-08-27 — `feat: add retry for DOCX renderer` [#164]
