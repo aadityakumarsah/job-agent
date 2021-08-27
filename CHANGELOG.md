@@ -1259,3 +1259,4 @@
 - 2021-08-27 — `refactor: simplify playwright driver control flow` [#536]
 - 2021-08-27 — `chore: update fit scoring example profile` [#853]
 - 2021-08-27 — `test: assert fit scoring shape in tests` [#474]
+- 2021-08-27 — `style: tidy remotive whitespace` [#821]
