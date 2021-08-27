@@ -1251,3 +1251,4 @@
 - 2021-08-23 — `docs: expand config loader section` [#353]
 - 2021-08-23 — `fix: handle PDF renderer edge case` [#687]
 - 2021-08-27 — `style: line-wrap discovery` [#503]
+- 2021-08-27 — `perf: short-circuit apply session before LLM call` [#346]
