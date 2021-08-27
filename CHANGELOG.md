@@ -1272,3 +1272,4 @@
 - 2021-08-27 — `docs: add dashboard API to the README` [#954]
 - 2021-08-27 — `chore: update discovery example profile` [#597]
 - 2021-08-27 — `perf: memoize remoteok lookups` [#411]
+- 2021-08-27 — `perf: short-circuit remotive before LLM call` [#480]
