@@ -1276,3 +1276,4 @@
 - 2021-09-08 — `fix: stop double-encoding remoteok` [#733]
 - 2021-09-08 — `fix: avoid crashing on dashboard API` [#265]
 - 2021-09-08 — `refactor: extract option matching into its own module` [#478]
+- 2021-09-08 — `fix: skip seniority gate when board omits it` [#481]
