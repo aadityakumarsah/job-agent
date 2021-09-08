@@ -1286,3 +1286,4 @@
 - 2021-09-08 — `style: tidy DOCX renderer whitespace` [#969]
 - 2021-09-08 — `perf: short-circuit error mapping before LLM call` [#425]
 - 2021-09-08 — `fix: avoid crashing on greenhouse` [#833]
+- 2021-09-08 — `chore: tidy sr-search file ordering` [#415]
