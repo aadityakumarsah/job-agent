@@ -1289,3 +1289,4 @@
 - 2021-09-08 — `chore: tidy sr-search file ordering` [#415]
 - 2021-09-08 — `perf: memoize remoteok lookups` [#859]
 - 2021-09-08 — `test: cover sr-search with a fixture` [#242]
+- 2021-09-08 — `style: reorder ashby imports` [#443]
