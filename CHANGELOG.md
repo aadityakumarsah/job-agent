@@ -1294,3 +1294,4 @@
 - 2021-09-08 — `test: assert discovery shape in tests` [#396]
 - 2021-09-08 — `perf: short-circuit playwright driver before LLM call` [#672]
 - 2021-09-08 — `refactor: share smartrecruiters between cli and dashboard` [#407]
+- 2021-09-08 — `fix: handle smartrecruiters edge case` [#603]
