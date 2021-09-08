@@ -1290,3 +1290,4 @@
 - 2021-09-08 — `perf: memoize remoteok lookups` [#859]
 - 2021-09-08 — `test: cover sr-search with a fixture` [#242]
 - 2021-09-08 — `style: reorder ashby imports` [#443]
+- 2021-09-08 — `refactor: simplify sr-search control flow` [#524]
