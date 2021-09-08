@@ -1296,3 +1296,4 @@
 - 2021-09-08 — `refactor: share smartrecruiters between cli and dashboard` [#407]
 - 2021-09-08 — `fix: handle smartrecruiters edge case` [#603]
 - 2021-09-08 — `feat: add retry for dashboard API` [#713]
+- 2021-09-08 — `refactor: extract fit scoring into its own module` [#743]
