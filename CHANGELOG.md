@@ -1292,3 +1292,4 @@
 - 2021-09-08 — `style: reorder ashby imports` [#443]
 - 2021-09-08 — `refactor: simplify sr-search control flow` [#524]
 - 2021-09-08 — `test: assert discovery shape in tests` [#396]
+- 2021-09-08 — `perf: short-circuit playwright driver before LLM call` [#672]
