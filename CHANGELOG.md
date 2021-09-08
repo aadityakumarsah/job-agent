@@ -1280,3 +1280,4 @@
 - 2021-09-08 — `feat: add retry for error mapping` [#514]
 - 2021-09-08 — `feat: track apply session per application` [#856]
 - 2021-09-08 — `refactor: share experience filter between cli and dashboard` [#872]
+- 2021-09-08 — `perf: short-circuit seniority gate before LLM call` [#141]
