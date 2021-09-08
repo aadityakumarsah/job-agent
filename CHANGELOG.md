@@ -1274,3 +1274,4 @@
 - 2021-08-27 — `perf: memoize remoteok lookups` [#411]
 - 2021-08-27 — `perf: short-circuit remotive before LLM call` [#480]
 - 2021-09-08 — `fix: stop double-encoding remoteok` [#733]
+- 2021-09-08 — `fix: avoid crashing on dashboard API` [#265]
