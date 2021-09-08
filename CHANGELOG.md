@@ -1283,3 +1283,4 @@
 - 2021-09-08 — `perf: short-circuit seniority gate before LLM call` [#141]
 - 2021-09-08 — `docs: document extension popup` [#556]
 - 2021-09-08 — `style: reorder sr-search imports` [#327]
+- 2021-09-08 — `style: tidy DOCX renderer whitespace` [#969]
