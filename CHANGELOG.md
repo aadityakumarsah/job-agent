@@ -1279,3 +1279,4 @@
 - 2021-09-08 — `fix: skip seniority gate when board omits it` [#481]
 - 2021-09-08 — `feat: add retry for error mapping` [#514]
 - 2021-09-08 — `feat: track apply session per application` [#856]
+- 2021-09-08 — `refactor: share experience filter between cli and dashboard` [#872]
