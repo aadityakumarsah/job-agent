@@ -1305,3 +1305,4 @@
 - 2021-09-28 — `chore: tidy greenhouse file ordering` [#198]
 - 2021-09-28 — `refactor: rename error mapping for clarity` [#481]
 - 2021-09-28 — `docs: expand playwright driver section` [#258]
+- 2021-09-28 — `style: line-wrap submit gate` [#966]
