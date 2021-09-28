@@ -1310,3 +1310,4 @@
 - 2021-09-28 — `chore: update submit gate example profile` [#242]
 - 2021-09-28 — `refactor: simplify remotive control flow` [#129]
 - 2021-09-28 — `docs: document answer bank` [#414]
+- 2021-09-28 — `feat: add answer bank to extension popup` [#179]
