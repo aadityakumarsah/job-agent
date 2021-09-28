@@ -1303,3 +1303,4 @@
 - 2021-09-28 — `fix: fix application tracker in scanner` [#883]
 - 2021-09-28 — `chore: add option matching to ignore rules` [#946]
 - 2021-09-28 — `chore: tidy greenhouse file ordering` [#198]
+- 2021-09-28 — `refactor: rename error mapping for clarity` [#481]
