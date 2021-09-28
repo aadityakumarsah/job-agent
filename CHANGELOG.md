@@ -1301,3 +1301,4 @@
 - 2021-09-28 — `fix: fix error mapping on the review gate` [#154]
 - 2021-09-28 — `refactor: extract DOCX renderer into its own module` [#398]
 - 2021-09-28 — `fix: fix application tracker in scanner` [#883]
+- 2021-09-28 — `chore: add option matching to ignore rules` [#946]
