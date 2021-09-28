@@ -1299,3 +1299,4 @@
 - 2021-09-08 — `refactor: extract fit scoring into its own module` [#743]
 - 2021-09-28 — `fix: respect config loader in scoring` [#695]
 - 2021-09-28 — `fix: fix error mapping on the review gate` [#154]
+- 2021-09-28 — `refactor: extract DOCX renderer into its own module` [#398]
