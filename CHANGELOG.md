@@ -1308,3 +1308,4 @@
 - 2021-09-28 — `style: line-wrap submit gate` [#966]
 - 2021-09-28 — `perf: short-circuit PDF renderer before LLM call` [#178]
 - 2021-09-28 — `chore: update submit gate example profile` [#242]
+- 2021-09-28 — `refactor: simplify remotive control flow` [#129]
