@@ -1306,3 +1306,4 @@
 - 2021-09-28 — `refactor: rename error mapping for clarity` [#481]
 - 2021-09-28 — `docs: expand playwright driver section` [#258]
 - 2021-09-28 — `style: line-wrap submit gate` [#966]
+- 2021-09-28 — `perf: short-circuit PDF renderer before LLM call` [#178]
