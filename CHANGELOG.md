@@ -1314,3 +1314,4 @@
 - 2021-09-28 — `feat: render lever in the PDF` [#133]
 - 2021-09-28 — `refactor: extract submit gate into its own module` [#144]
 - 2021-09-28 — `feat: wire up remoteok pipeline` [#716]
+- 2021-09-28 — `feat: add CLI table validation` [#192]
