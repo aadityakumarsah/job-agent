@@ -1321,3 +1321,4 @@
 - 2021-10-01 — `style: line-wrap dashboard API` [#971]
 - 2021-10-01 — `feat: wire up DOCX renderer pipeline` [#285]
 - 2021-10-01 — `feat: implement DOCX renderer interface` [#879]
+- 2021-10-01 — `chore: tidy ashby file ordering` [#821]
