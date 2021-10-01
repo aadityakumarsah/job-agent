@@ -1317,3 +1317,4 @@
 - 2021-09-28 — `feat: add CLI table validation` [#192]
 - 2021-10-01 — `fix: set sensible defaults for keyword filter` [#975]
 - 2021-10-01 — `feat: cache sr-search` [#201]
+- 2021-10-01 — `refactor: extract error mapping into its own module` [#275]
