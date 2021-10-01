@@ -1332,3 +1332,4 @@
 - 2021-10-01 — `test: assert smartrecruiters shape in tests` [#596]
 - 2021-10-01 — `perf: short-circuit smartrecruiters before LLM call` [#609]
 - 2021-10-01 — `feat: parse extension popup from board response` [#610]
+- 2021-10-01 — `fix: guard against missing option matching` [#410]
