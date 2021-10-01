@@ -1334,3 +1334,4 @@
 - 2021-10-01 — `feat: parse extension popup from board response` [#610]
 - 2021-10-01 — `fix: guard against missing option matching` [#410]
 - 2021-10-01 — `perf: trim PDF renderer payload size` [#911]
+- 2021-10-01 — `chore: tidy answer bank file ordering` [#928]
