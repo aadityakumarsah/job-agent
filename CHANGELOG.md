@@ -1322,3 +1322,4 @@
 - 2021-10-01 — `feat: wire up DOCX renderer pipeline` [#285]
 - 2021-10-01 — `feat: implement DOCX renderer interface` [#879]
 - 2021-10-01 — `chore: tidy ashby file ordering` [#821]
+- 2021-10-01 — `feat: fill seniority gate from answer bank` [#494]
