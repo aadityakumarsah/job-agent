@@ -1325,3 +1325,4 @@
 - 2021-10-01 — `feat: fill seniority gate from answer bank` [#494]
 - 2021-10-01 — `perf: trim sr-search payload size` [#331]
 - 2021-10-01 — `perf: trim option matching payload size` [#795]
+- 2021-10-01 — `perf: short-circuit remotive before LLM call` [#635]
