@@ -1320,3 +1320,4 @@
 - 2021-10-01 — `refactor: extract error mapping into its own module` [#275]
 - 2021-10-01 — `style: line-wrap dashboard API` [#971]
 - 2021-10-01 — `feat: wire up DOCX renderer pipeline` [#285]
+- 2021-10-01 — `feat: implement DOCX renderer interface` [#879]
