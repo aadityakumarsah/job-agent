@@ -1329,3 +1329,4 @@
 - 2021-10-01 — `feat: wire up experience filter pipeline` [#859]
 - 2021-10-01 — `test: add offline test for PDF renderer` [#225]
 - 2021-10-01 — `refactor: share fit scoring between cli and dashboard` [#874]
+- 2021-10-01 — `test: assert smartrecruiters shape in tests` [#596]
