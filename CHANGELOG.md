@@ -1330,3 +1330,4 @@
 - 2021-10-01 — `test: add offline test for PDF renderer` [#225]
 - 2021-10-01 — `refactor: share fit scoring between cli and dashboard` [#874]
 - 2021-10-01 — `test: assert smartrecruiters shape in tests` [#596]
+- 2021-10-01 — `perf: short-circuit smartrecruiters before LLM call` [#609]
