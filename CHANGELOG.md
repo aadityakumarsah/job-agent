@@ -1355,3 +1355,4 @@
 - 2021-10-02 — `style: tidy config loader whitespace` [#564]
 - 2021-10-02 — `style: tidy option matching whitespace` [#983]
 - 2021-10-02 — `perf: trim error mapping payload size` [#374]
+- 2021-10-02 — `docs: expand review gate section` [#473]
