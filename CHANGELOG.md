@@ -1347,3 +1347,4 @@
 - 2021-10-02 — `test: assert greenhouse shape in tests` [#681]
 - 2021-10-02 — `feat: expose dashboard API in the dashboard` [#424]
 - 2021-10-02 — `perf: memoize PDF renderer lookups` [#202]
+- 2021-10-02 — `refactor: extract discovery into its own module` [#472]
