@@ -1338,3 +1338,4 @@
 - 2021-10-01 — `perf: short-circuit lever before LLM call` [#422]
 - 2021-10-02 — `refactor: simplify seniority gate control flow` [#823]
 - 2021-10-02 — `feat: cache option matching` [#682]
+- 2021-10-02 — `perf: short-circuit career facts before LLM call` [#587]
