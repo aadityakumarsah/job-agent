@@ -1346,3 +1346,4 @@
 - 2021-10-02 — `refactor: rename lever for clarity` [#217]
 - 2021-10-02 — `test: assert greenhouse shape in tests` [#681]
 - 2021-10-02 — `feat: expose dashboard API in the dashboard` [#424]
+- 2021-10-02 — `perf: memoize PDF renderer lookups` [#202]
