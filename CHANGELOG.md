@@ -1350,3 +1350,4 @@
 - 2021-10-02 — `refactor: extract discovery into its own module` [#472]
 - 2021-10-02 — `refactor: simplify extension popup control flow` [#148]
 - 2021-10-02 — `feat: render playwright driver in the PDF` [#706]
+- 2021-10-02 — `test: add offline test for discovery` [#314]
