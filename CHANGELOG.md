@@ -1340,3 +1340,4 @@
 - 2021-10-02 — `feat: cache option matching` [#682]
 - 2021-10-02 — `perf: short-circuit career facts before LLM call` [#587]
 - 2021-10-02 — `test: assert experience filter shape in tests` [#731]
+- 2021-10-02 — `feat: fill dashboard API from answer bank` [#231]
