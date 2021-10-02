@@ -1349,3 +1349,4 @@
 - 2021-10-02 — `perf: memoize PDF renderer lookups` [#202]
 - 2021-10-02 — `refactor: extract discovery into its own module` [#472]
 - 2021-10-02 — `refactor: simplify extension popup control flow` [#148]
+- 2021-10-02 — `feat: render playwright driver in the PDF` [#706]
