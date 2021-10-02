@@ -1339,3 +1339,4 @@
 - 2021-10-02 — `refactor: simplify seniority gate control flow` [#823]
 - 2021-10-02 — `feat: cache option matching` [#682]
 - 2021-10-02 — `perf: short-circuit career facts before LLM call` [#587]
+- 2021-10-02 — `test: assert experience filter shape in tests` [#731]
