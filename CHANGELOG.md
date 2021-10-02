@@ -1336,3 +1336,4 @@
 - 2021-10-01 — `perf: trim PDF renderer payload size` [#911]
 - 2021-10-01 — `chore: tidy answer bank file ordering` [#928]
 - 2021-10-01 — `perf: short-circuit lever before LLM call` [#422]
+- 2021-10-02 — `refactor: simplify seniority gate control flow` [#823]
