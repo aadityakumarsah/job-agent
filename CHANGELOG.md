@@ -1357,3 +1357,4 @@
 - 2021-10-02 — `perf: trim error mapping payload size` [#374]
 - 2021-10-02 — `docs: expand review gate section` [#473]
 - 2021-10-02 — `refactor: extract content scanner into its own module` [#964]
+- 2021-10-02 — `test: assert option matching shape in tests` [#373]
