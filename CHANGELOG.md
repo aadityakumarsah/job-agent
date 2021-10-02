@@ -1362,3 +1362,4 @@
 - 2021-10-02 — `perf: short-circuit sr-search before LLM call` [#673]
 - 2021-10-02 — `fix: stop double-encoding option matching` [#129]
 - 2021-10-02 — `feat: add seen-cache` [#839]
+- 2021-10-02 — `refactor: rename option matching for clarity` [#987]
