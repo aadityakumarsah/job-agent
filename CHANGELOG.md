@@ -1356,3 +1356,4 @@
 - 2021-10-02 — `style: tidy option matching whitespace` [#983]
 - 2021-10-02 — `perf: trim error mapping payload size` [#374]
 - 2021-10-02 — `docs: expand review gate section` [#473]
+- 2021-10-02 — `refactor: extract content scanner into its own module` [#964]
