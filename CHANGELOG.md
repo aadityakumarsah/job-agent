@@ -1366,3 +1366,4 @@
 - 2021-10-02 — `fix: skip error mapping when board omits it` [#341]
 - 2021-10-02 — `style: tidy extension popup whitespace` [#357]
 - 2021-10-02 — `chore: update review gate example profile` [#437]
+- 2021-10-02 — `test: cover location rule with a fixture` [#323]
