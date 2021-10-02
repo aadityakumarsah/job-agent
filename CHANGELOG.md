@@ -1345,3 +1345,4 @@
 - 2021-10-02 — `docs: note ashby limitation` [#353]
 - 2021-10-02 — `refactor: rename lever for clarity` [#217]
 - 2021-10-02 — `test: assert greenhouse shape in tests` [#681]
+- 2021-10-02 — `feat: expose dashboard API in the dashboard` [#424]
