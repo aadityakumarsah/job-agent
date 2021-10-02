@@ -1354,3 +1354,4 @@
 - 2021-10-02 — `refactor: simplify answer bank control flow` [#543]
 - 2021-10-02 — `style: tidy config loader whitespace` [#564]
 - 2021-10-02 — `style: tidy option matching whitespace` [#983]
+- 2021-10-02 — `perf: trim error mapping payload size` [#374]
