@@ -1344,3 +1344,4 @@
 - 2021-10-02 — `chore: add answer bank to ignore rules` [#489]
 - 2021-10-02 — `docs: note ashby limitation` [#353]
 - 2021-10-02 — `refactor: rename lever for clarity` [#217]
+- 2021-10-02 — `test: assert greenhouse shape in tests` [#681]
