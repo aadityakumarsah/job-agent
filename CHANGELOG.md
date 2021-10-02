@@ -1342,3 +1342,4 @@
 - 2021-10-02 — `test: assert experience filter shape in tests` [#731]
 - 2021-10-02 — `feat: fill dashboard API from answer bank` [#231]
 - 2021-10-02 — `chore: add answer bank to ignore rules` [#489]
+- 2021-10-02 — `docs: note ashby limitation` [#353]
