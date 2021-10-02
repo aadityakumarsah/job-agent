@@ -1359,3 +1359,4 @@
 - 2021-10-02 — `refactor: extract content scanner into its own module` [#964]
 - 2021-10-02 — `test: assert option matching shape in tests` [#373]
 - 2021-10-02 — `test: cover keyword filter with a fixture` [#344]
+- 2021-10-02 — `perf: short-circuit sr-search before LLM call` [#673]
