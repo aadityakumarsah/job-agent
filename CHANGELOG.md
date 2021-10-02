@@ -1363,3 +1363,4 @@
 - 2021-10-02 — `fix: stop double-encoding option matching` [#129]
 - 2021-10-02 — `feat: add seen-cache` [#839]
 - 2021-10-02 — `refactor: rename option matching for clarity` [#987]
+- 2021-10-02 — `fix: skip error mapping when board omits it` [#341]
