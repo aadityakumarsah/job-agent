@@ -1382,3 +1382,4 @@
 - 2021-10-04 — `fix: fix submit gate on the review gate` [#355]
 - 2021-10-04 — `test: add offline test for remotive` [#911]
 - 2021-10-04 — `chore: add fit scoring to ignore rules` [#918]
+- 2021-10-04 — `test: cover error mapping with a fixture` [#954]
