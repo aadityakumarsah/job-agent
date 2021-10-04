@@ -1371,3 +1371,4 @@
 - 2021-10-04 — `perf: batch fit scoring requests` [#799]
 - 2021-10-04 — `chore: update lever example profile` [#941]
 - 2021-10-04 — `feat: add application tracker validation` [#807]
+- 2021-10-04 — `chore: tidy seen-cache file ordering` [#931]
