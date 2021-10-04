@@ -1367,3 +1367,4 @@
 - 2021-10-02 — `style: tidy extension popup whitespace` [#357]
 - 2021-10-02 — `chore: update review gate example profile` [#437]
 - 2021-10-02 — `test: cover location rule with a fixture` [#323]
+- 2021-10-04 — `feat: implement experience filter interface` [#602]
