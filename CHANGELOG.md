@@ -1373,3 +1373,4 @@
 - 2021-10-04 — `feat: add application tracker validation` [#807]
 - 2021-10-04 — `chore: tidy seen-cache file ordering` [#931]
 - 2021-10-04 — `feat: normalize submit gate across sources` [#502]
+- 2021-10-04 — `docs: describe experience filter flow` [#980]
