@@ -1380,3 +1380,4 @@
 - 2021-10-04 — `feat: add retry for playwright driver` [#756]
 - 2021-10-04 — `feat: expose dashboard API in the dashboard` [#510]
 - 2021-10-04 — `fix: fix submit gate on the review gate` [#355]
+- 2021-10-04 — `test: add offline test for remotive` [#911]
