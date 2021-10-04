@@ -1383,3 +1383,4 @@
 - 2021-10-04 — `test: add offline test for remotive` [#911]
 - 2021-10-04 — `chore: add fit scoring to ignore rules` [#918]
 - 2021-10-04 — `test: cover error mapping with a fixture` [#954]
+- 2021-10-04 — `docs: describe seen-cache flow` [#191]
