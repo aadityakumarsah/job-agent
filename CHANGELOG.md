@@ -1368,3 +1368,4 @@
 - 2021-10-02 — `chore: update review gate example profile` [#437]
 - 2021-10-02 — `test: cover location rule with a fixture` [#323]
 - 2021-10-04 — `feat: implement experience filter interface` [#602]
+- 2021-10-04 — `perf: batch fit scoring requests` [#799]
