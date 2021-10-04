@@ -1378,3 +1378,4 @@
 - 2021-10-04 — `chore: tidy discovery file ordering` [#834]
 - 2021-10-04 — `refactor: rename no-drift gate for clarity` [#618]
 - 2021-10-04 — `feat: add retry for playwright driver` [#756]
+- 2021-10-04 — `feat: expose dashboard API in the dashboard` [#510]
