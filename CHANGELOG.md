@@ -1402,3 +1402,4 @@
 - 2021-10-09 — `perf: batch remoteok requests` [#154]
 - 2021-10-09 — `refactor: extract config loader into its own module` [#267]
 - 2021-10-09 — `perf: trim PDF renderer payload size` [#465]
+- 2021-10-09 — `fix: stop double-encoding remoteok` [#226]
