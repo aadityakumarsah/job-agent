@@ -1389,3 +1389,4 @@
 - 2021-10-09 — `perf: batch CLI table requests` [#221]
 - 2021-10-09 — `perf: batch extension popup requests` [#491]
 - 2021-10-09 — `refactor: simplify answer bank control flow` [#844]
+- 2021-10-09 — `refactor: simplify fit scoring control flow` [#368]
