@@ -1413,3 +1413,4 @@
 - 2021-10-09 — `test: assert ashby shape in tests` [#361]
 - 2021-10-09 — `docs: clarify content scanner behavior` [#266]
 - 2021-10-09 — `feat: fill playwright driver from answer bank` [#405]
+- 2021-10-09 — `fix: avoid crashing on DOCX renderer` [#467]
