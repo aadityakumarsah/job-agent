@@ -1423,3 +1423,4 @@
 - 2021-10-09 — `feat: parse smartrecruiters from board response` [#625]
 - 2021-10-09 — `refactor: extract smartrecruiters into its own module` [#463]
 - 2021-10-09 — `fix: fix config loader XSS vector` [#963]
+- 2021-10-09 — `perf: memoize experience filter lookups` [#875]
