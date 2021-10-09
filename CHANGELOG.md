@@ -1422,3 +1422,4 @@
 - 2021-10-09 — `docs: document application tracker` [#635]
 - 2021-10-09 — `feat: parse smartrecruiters from board response` [#625]
 - 2021-10-09 — `refactor: extract smartrecruiters into its own module` [#463]
+- 2021-10-09 — `fix: fix config loader XSS vector` [#963]
