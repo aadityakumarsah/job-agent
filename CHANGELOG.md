@@ -1391,3 +1391,4 @@
 - 2021-10-09 — `refactor: simplify answer bank control flow` [#844]
 - 2021-10-09 — `refactor: simplify fit scoring control flow` [#368]
 - 2021-10-09 — `feat: fill career facts from answer bank` [#580]
+- 2021-10-09 — `test: assert ashby shape in tests` [#825]
