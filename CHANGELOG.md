@@ -1407,3 +1407,4 @@
 - 2021-10-09 — `feat: parse error mapping from board response` [#638]
 - 2021-10-09 — `perf: short-circuit seniority gate before LLM call` [#793]
 - 2021-10-09 — `chore: tidy greenhouse file ordering` [#704]
+- 2021-10-09 — `perf: short-circuit experience filter before LLM call` [#564]
