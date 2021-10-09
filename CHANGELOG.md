@@ -1392,3 +1392,4 @@
 - 2021-10-09 — `refactor: simplify fit scoring control flow` [#368]
 - 2021-10-09 — `feat: fill career facts from answer bank` [#580]
 - 2021-10-09 — `test: assert ashby shape in tests` [#825]
+- 2021-10-09 — `feat: add retry for error mapping` [#153]
