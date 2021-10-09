@@ -1408,3 +1408,4 @@
 - 2021-10-09 — `perf: short-circuit seniority gate before LLM call` [#793]
 - 2021-10-09 — `chore: tidy greenhouse file ordering` [#704]
 - 2021-10-09 — `perf: short-circuit experience filter before LLM call` [#564]
+- 2021-10-09 — `perf: batch sr-search requests` [#432]
