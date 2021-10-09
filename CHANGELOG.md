@@ -1411,3 +1411,4 @@
 - 2021-10-09 — `perf: batch sr-search requests` [#432]
 - 2021-10-09 — `refactor: extract application tracker into its own module` [#430]
 - 2021-10-09 — `test: assert ashby shape in tests` [#361]
+- 2021-10-09 — `docs: clarify content scanner behavior` [#266]
