@@ -1415,3 +1415,4 @@
 - 2021-10-09 — `feat: fill playwright driver from answer bank` [#405]
 - 2021-10-09 — `fix: avoid crashing on DOCX renderer` [#467]
 - 2021-10-09 — `perf: trim ashby payload size` [#497]
+- 2021-10-09 — `chore: add ashby to ignore rules` [#728]
