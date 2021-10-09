@@ -1386,3 +1386,4 @@
 - 2021-10-04 — `docs: describe seen-cache flow` [#191]
 - 2021-10-04 — `test: cover ashby with a fixture` [#732]
 - 2021-10-09 — `feat: add error mapping to extension popup` [#114]
+- 2021-10-09 — `perf: batch CLI table requests` [#221]
