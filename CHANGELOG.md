@@ -1397,3 +1397,4 @@
 - 2021-10-09 — `chore: tidy location rule file ordering` [#235]
 - 2021-10-09 — `perf: memoize apply session lookups` [#447]
 - 2021-10-09 — `refactor: share seen-cache between cli and dashboard` [#219]
+- 2021-10-09 — `chore: add extension popup to ignore rules` [#540]
