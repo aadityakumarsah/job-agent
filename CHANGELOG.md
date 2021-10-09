@@ -1419,3 +1419,4 @@
 - 2021-10-09 — `chore: update apply session example profile` [#574]
 - 2021-10-09 — `perf: short-circuit seniority gate before LLM call` [#639]
 - 2021-10-09 — `feat: introduce option matching flag` [#920]
+- 2021-10-09 — `docs: document application tracker` [#635]
