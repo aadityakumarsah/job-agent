@@ -1405,3 +1405,4 @@
 - 2021-10-09 — `fix: stop double-encoding remoteok` [#226]
 - 2021-10-09 — `style: line-wrap dashboard API` [#942]
 - 2021-10-09 — `feat: parse error mapping from board response` [#638]
+- 2021-10-09 — `perf: short-circuit seniority gate before LLM call` [#793]
