@@ -1388,3 +1388,4 @@
 - 2021-10-09 — `feat: add error mapping to extension popup` [#114]
 - 2021-10-09 — `perf: batch CLI table requests` [#221]
 - 2021-10-09 — `perf: batch extension popup requests` [#491]
+- 2021-10-09 — `refactor: simplify answer bank control flow` [#844]
