@@ -1412,3 +1412,4 @@
 - 2021-10-09 — `refactor: extract application tracker into its own module` [#430]
 - 2021-10-09 — `test: assert ashby shape in tests` [#361]
 - 2021-10-09 — `docs: clarify content scanner behavior` [#266]
+- 2021-10-09 — `feat: fill playwright driver from answer bank` [#405]
