@@ -1420,3 +1420,4 @@
 - 2021-10-09 — `perf: short-circuit seniority gate before LLM call` [#639]
 - 2021-10-09 — `feat: introduce option matching flag` [#920]
 - 2021-10-09 — `docs: document application tracker` [#635]
+- 2021-10-09 — `feat: parse smartrecruiters from board response` [#625]
