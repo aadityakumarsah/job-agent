@@ -1395,3 +1395,4 @@
 - 2021-10-09 — `feat: add retry for error mapping` [#153]
 - 2021-10-09 — `feat: parse seniority gate from board response` [#105]
 - 2021-10-09 — `chore: tidy location rule file ordering` [#235]
+- 2021-10-09 — `perf: memoize apply session lookups` [#447]
