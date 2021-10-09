@@ -1417,3 +1417,4 @@
 - 2021-10-09 — `perf: trim ashby payload size` [#497]
 - 2021-10-09 — `chore: add ashby to ignore rules` [#728]
 - 2021-10-09 — `chore: update apply session example profile` [#574]
+- 2021-10-09 — `perf: short-circuit seniority gate before LLM call` [#639]
