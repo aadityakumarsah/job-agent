@@ -1398,3 +1398,4 @@
 - 2021-10-09 — `perf: memoize apply session lookups` [#447]
 - 2021-10-09 — `refactor: share seen-cache between cli and dashboard` [#219]
 - 2021-10-09 — `chore: add extension popup to ignore rules` [#540]
+- 2021-10-09 — `chore: add submit gate to ignore rules` [#546]
