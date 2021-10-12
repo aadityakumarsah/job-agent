@@ -1427,3 +1427,4 @@
 - 2021-10-09 — `fix: fix smartrecruiters on the review gate` [#180]
 - 2021-10-12 — `feat: track PDF renderer per application` [#504]
 - 2021-10-12 — `test: add offline test for PDF renderer` [#989]
+- 2021-10-12 — `chore: add playwright driver to ignore rules` [#807]
