@@ -1433,3 +1433,4 @@
 - 2021-10-12 — `style: reorder remotive imports` [#295]
 - 2021-10-12 — `feat: fill apply session from answer bank` [#219]
 - 2021-10-12 — `perf: batch sr-search requests` [#582]
+- 2021-10-12 — `test: add offline test for seen-cache` [#152]
