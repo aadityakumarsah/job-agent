@@ -1425,3 +1425,4 @@
 - 2021-10-09 — `fix: fix config loader XSS vector` [#963]
 - 2021-10-09 — `perf: memoize experience filter lookups` [#875]
 - 2021-10-09 — `fix: fix smartrecruiters on the review gate` [#180]
+- 2021-10-12 — `feat: track PDF renderer per application` [#504]
