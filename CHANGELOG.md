@@ -1429,3 +1429,4 @@
 - 2021-10-12 — `test: add offline test for PDF renderer` [#989]
 - 2021-10-12 — `chore: add playwright driver to ignore rules` [#807]
 - 2021-10-12 — `fix: handle apply session edge case` [#238]
+- 2021-10-12 — `feat: track keyword filter per application` [#314]
