@@ -1443,3 +1443,4 @@
 - 2021-10-24 — `perf: trim CLI table payload size` [#234]
 - 2021-10-24 — `chore: tidy extension popup file ordering` [#915]
 - 2021-10-24 — `feat: wire up remoteok pipeline` [#783]
+- 2021-10-24 — `feat: wire up sr-search pipeline` [#912]
