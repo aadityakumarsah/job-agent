@@ -1444,3 +1444,4 @@
 - 2021-10-24 — `chore: tidy extension popup file ordering` [#915]
 - 2021-10-24 — `feat: wire up remoteok pipeline` [#783]
 - 2021-10-24 — `feat: wire up sr-search pipeline` [#912]
+- 2021-10-24 — `feat: introduce remoteok flag` [#467]
