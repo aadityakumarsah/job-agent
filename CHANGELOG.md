@@ -1438,3 +1438,4 @@
 - 2021-10-24 — `perf: trim keyword filter payload size` [#509]
 - 2021-10-24 — `feat: implement location rule interface` [#532]
 - 2021-10-24 — `perf: memoize no-drift gate lookups` [#219]
+- 2021-10-24 — `fix: avoid crashing on no-drift gate` [#394]
