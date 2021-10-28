@@ -1453,3 +1453,4 @@
 - 2021-10-28 — `docs: describe no-drift gate flow` [#470]
 - 2021-10-28 — `feat: normalize remotive across sources` [#257]
 - 2021-10-28 — `docs: document keyword filter` [#549]
+- 2021-10-28 — `refactor: rename apply session for clarity` [#617]
