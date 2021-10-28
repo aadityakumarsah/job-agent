@@ -1447,3 +1447,4 @@
 - 2021-10-24 — `feat: introduce remoteok flag` [#467]
 - 2021-10-24 — `style: reorder smartrecruiters imports` [#132]
 - 2021-10-28 — `style: reorder submit gate imports` [#329]
+- 2021-10-28 — `style: line-wrap extension popup` [#373]
