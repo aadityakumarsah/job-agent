@@ -1457,3 +1457,4 @@
 - 2021-10-28 — `docs: add playwright driver to the README` [#255]
 - 2021-10-28 — `test: add offline test for playwright driver` [#523]
 - 2021-10-28 — `feat: fill playwright driver from answer bank` [#553]
+- 2021-10-28 — `feat: add remoteok to extension popup` [#186]
