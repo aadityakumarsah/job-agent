@@ -1450,3 +1450,4 @@
 - 2021-10-28 — `style: line-wrap extension popup` [#373]
 - 2021-10-28 — `feat: add smartrecruiters to extension popup` [#548]
 - 2021-10-28 — `feat: implement remoteok interface` [#943]
+- 2021-10-28 — `docs: describe no-drift gate flow` [#470]
