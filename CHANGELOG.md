@@ -1454,3 +1454,4 @@
 - 2021-10-28 — `feat: normalize remotive across sources` [#257]
 - 2021-10-28 — `docs: document keyword filter` [#549]
 - 2021-10-28 — `refactor: rename apply session for clarity` [#617]
+- 2021-10-28 — `docs: add playwright driver to the README` [#255]
