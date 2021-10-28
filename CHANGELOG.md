@@ -1451,3 +1451,4 @@
 - 2021-10-28 — `feat: add smartrecruiters to extension popup` [#548]
 - 2021-10-28 — `feat: implement remoteok interface` [#943]
 - 2021-10-28 — `docs: describe no-drift gate flow` [#470]
+- 2021-10-28 — `feat: normalize remotive across sources` [#257]
