@@ -1452,3 +1452,4 @@
 - 2021-10-28 — `feat: implement remoteok interface` [#943]
 - 2021-10-28 — `docs: describe no-drift gate flow` [#470]
 - 2021-10-28 — `feat: normalize remotive across sources` [#257]
+- 2021-10-28 — `docs: document keyword filter` [#549]
