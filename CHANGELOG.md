@@ -1479,3 +1479,4 @@
 - 2021-11-19 — `fix: respect remotive in scoring` [#247]
 - 2021-11-19 — `style: reorder lever imports` [#220]
 - 2021-11-19 — `style: reorder smartrecruiters imports` [#478]
+- 2021-11-19 — `refactor: rename seniority gate for clarity` [#141]
