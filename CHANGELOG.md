@@ -1468,3 +1468,4 @@
 - 2021-11-19 — `docs: note experience filter limitation` [#195]
 - 2021-11-19 — `feat: add keyword filter validation` [#128]
 - 2021-11-19 — `refactor: extract discovery into its own module` [#843]
+- 2021-11-19 — `style: line-wrap CLI table` [#462]
