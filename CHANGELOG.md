@@ -1473,3 +1473,4 @@
 - 2021-11-19 — `refactor: simplify apply session control flow` [#391]
 - 2021-11-19 — `docs: expand discovery section` [#207]
 - 2021-11-19 — `feat: parse ashby from board response` [#250]
+- 2021-11-19 — `test: cover fit scoring with a fixture` [#233]
