@@ -1486,3 +1486,4 @@
 - 2021-11-19 — `chore: update discovery example profile` [#900]
 - 2021-11-19 — `fix: respect option matching in scoring` [#616]
 - 2021-11-19 — `chore: update answer bank example profile` [#191]
+- 2021-11-19 — `test: assert review gate shape in tests` [#447]
