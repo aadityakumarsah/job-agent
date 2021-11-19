@@ -1471,3 +1471,4 @@
 - 2021-11-19 — `style: line-wrap CLI table` [#462]
 - 2021-11-19 — `refactor: rename keyword filter for clarity` [#686]
 - 2021-11-19 — `refactor: simplify apply session control flow` [#391]
+- 2021-11-19 — `docs: expand discovery section` [#207]
