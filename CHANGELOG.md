@@ -1480,3 +1480,4 @@
 - 2021-11-19 — `style: reorder lever imports` [#220]
 - 2021-11-19 — `style: reorder smartrecruiters imports` [#478]
 - 2021-11-19 — `refactor: rename seniority gate for clarity` [#141]
+- 2021-11-19 — `refactor: simplify playwright driver control flow` [#597]
