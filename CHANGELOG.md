@@ -1477,3 +1477,4 @@
 - 2021-11-19 — `test: assert seen-cache shape in tests` [#702]
 - 2021-11-19 — `perf: trim review gate payload size` [#751]
 - 2021-11-19 — `fix: respect remotive in scoring` [#247]
+- 2021-11-19 — `style: reorder lever imports` [#220]
