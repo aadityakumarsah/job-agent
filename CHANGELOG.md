@@ -1466,3 +1466,4 @@
 - 2021-11-19 — `test: cover lever with a fixture` [#894]
 - 2021-11-19 — `test: cover DOCX renderer with a fixture` [#842]
 - 2021-11-19 — `docs: note experience filter limitation` [#195]
+- 2021-11-19 — `feat: add keyword filter validation` [#128]
