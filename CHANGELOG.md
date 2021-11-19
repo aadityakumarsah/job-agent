@@ -1465,3 +1465,4 @@
 - 2021-11-19 — `style: reorder apply session imports` [#739]
 - 2021-11-19 — `test: cover lever with a fixture` [#894]
 - 2021-11-19 — `test: cover DOCX renderer with a fixture` [#842]
+- 2021-11-19 — `docs: note experience filter limitation` [#195]
