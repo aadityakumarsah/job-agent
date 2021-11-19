@@ -1463,3 +1463,4 @@
 - 2021-11-19 — `refactor: rename greenhouse for clarity` [#838]
 - 2021-11-19 — `style: reorder content scanner imports` [#725]
 - 2021-11-19 — `style: reorder apply session imports` [#739]
+- 2021-11-19 — `test: cover lever with a fixture` [#894]
