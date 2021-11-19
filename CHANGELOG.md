@@ -1461,3 +1461,4 @@
 - 2021-10-28 — `test: add offline test for remotive` [#877]
 - 2021-11-19 — `style: line-wrap apply session` [#402]
 - 2021-11-19 — `refactor: rename greenhouse for clarity` [#838]
+- 2021-11-19 — `style: reorder content scanner imports` [#725]
