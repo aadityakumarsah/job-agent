@@ -1482,3 +1482,4 @@
 - 2021-11-19 — `refactor: rename seniority gate for clarity` [#141]
 - 2021-11-19 — `refactor: simplify playwright driver control flow` [#597]
 - 2021-11-19 — `refactor: share greenhouse between cli and dashboard` [#390]
+- 2021-11-19 — `chore: update seniority gate example profile` [#169]
