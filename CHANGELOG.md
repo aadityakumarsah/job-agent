@@ -1459,3 +1459,4 @@
 - 2021-10-28 — `feat: fill playwright driver from answer bank` [#553]
 - 2021-10-28 — `feat: add remoteok to extension popup` [#186]
 - 2021-10-28 — `test: add offline test for remotive` [#877]
+- 2021-11-19 — `style: line-wrap apply session` [#402]
