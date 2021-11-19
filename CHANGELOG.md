@@ -1484,3 +1484,4 @@
 - 2021-11-19 — `refactor: share greenhouse between cli and dashboard` [#390]
 - 2021-11-19 — `chore: update seniority gate example profile` [#169]
 - 2021-11-19 — `chore: update discovery example profile` [#900]
+- 2021-11-19 — `fix: respect option matching in scoring` [#616]
