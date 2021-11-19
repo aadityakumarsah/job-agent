@@ -1478,3 +1478,4 @@
 - 2021-11-19 — `perf: trim review gate payload size` [#751]
 - 2021-11-19 — `fix: respect remotive in scoring` [#247]
 - 2021-11-19 — `style: reorder lever imports` [#220]
+- 2021-11-19 — `style: reorder smartrecruiters imports` [#478]
