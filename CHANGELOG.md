@@ -1489,3 +1489,4 @@
 - 2021-11-19 — `test: assert review gate shape in tests` [#447]
 - 2021-11-19 — `feat: render content scanner in the PDF` [#986]
 - 2021-11-19 — `refactor: extract sr-search into its own module` [#674]
+- 2021-11-20 — `style: tidy smartrecruiters whitespace` [#293]
