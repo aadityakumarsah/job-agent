@@ -1509,3 +1509,4 @@
 - 2021-11-20 — `style: reorder apply session imports` [#676]
 - 2021-11-20 — `fix: fix sr-search XSS vector` [#842]
 - 2021-11-20 — `chore: update no-drift gate example profile` [#798]
+- 2021-11-20 — `chore: add greenhouse to ignore rules` [#449]
