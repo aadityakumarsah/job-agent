@@ -1496,3 +1496,4 @@
 - 2021-11-20 — `test: add offline test for remoteok` [#363]
 - 2021-11-20 — `fix: stop double-encoding CLI table` [#361]
 - 2021-11-20 — `fix: handle apply session edge case` [#160]
+- 2021-11-20 — `test: assert location rule shape in tests` [#201]
