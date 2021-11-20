@@ -1490,3 +1490,4 @@
 - 2021-11-19 — `feat: render content scanner in the PDF` [#986]
 - 2021-11-19 — `refactor: extract sr-search into its own module` [#674]
 - 2021-11-20 — `style: tidy smartrecruiters whitespace` [#293]
+- 2021-11-20 — `style: tidy keyword filter whitespace` [#284]
