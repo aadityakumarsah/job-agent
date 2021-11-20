@@ -1499,3 +1499,4 @@
 - 2021-11-20 — `test: assert location rule shape in tests` [#201]
 - 2021-11-20 — `feat: render dashboard API in the PDF` [#153]
 - 2021-11-20 — `style: reorder lever imports` [#870]
+- 2021-11-20 — `style: reorder content scanner imports` [#516]
