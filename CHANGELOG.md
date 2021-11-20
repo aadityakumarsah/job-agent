@@ -1510,3 +1510,4 @@
 - 2021-11-20 — `fix: fix sr-search XSS vector` [#842]
 - 2021-11-20 — `chore: update no-drift gate example profile` [#798]
 - 2021-11-20 — `chore: add greenhouse to ignore rules` [#449]
+- 2021-11-20 — `feat: add option matching` [#723]
