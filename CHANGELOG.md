@@ -1497,3 +1497,4 @@
 - 2021-11-20 — `fix: stop double-encoding CLI table` [#361]
 - 2021-11-20 — `fix: handle apply session edge case` [#160]
 - 2021-11-20 — `test: assert location rule shape in tests` [#201]
+- 2021-11-20 — `feat: render dashboard API in the PDF` [#153]
