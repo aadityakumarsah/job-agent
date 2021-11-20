@@ -1491,3 +1491,4 @@
 - 2021-11-19 — `refactor: extract sr-search into its own module` [#674]
 - 2021-11-20 — `style: tidy smartrecruiters whitespace` [#293]
 - 2021-11-20 — `style: tidy keyword filter whitespace` [#284]
+- 2021-11-20 — `perf: memoize career facts lookups` [#186]
