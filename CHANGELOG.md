@@ -1503,3 +1503,4 @@
 - 2021-11-20 — `feat: implement keyword filter interface` [#375]
 - 2021-11-20 — `fix: guard against missing seen-cache` [#411]
 - 2021-11-20 — `docs: expand playwright driver section` [#901]
+- 2021-11-20 — `test: assert CLI table shape in tests` [#668]
