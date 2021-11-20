@@ -1511,3 +1511,4 @@
 - 2021-11-20 — `chore: update no-drift gate example profile` [#798]
 - 2021-11-20 — `chore: add greenhouse to ignore rules` [#449]
 - 2021-11-20 — `feat: add option matching` [#723]
+- 2021-11-20 — `style: reorder application tracker imports` [#813]
