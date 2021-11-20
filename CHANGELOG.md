@@ -1492,3 +1492,4 @@
 - 2021-11-20 — `style: tidy smartrecruiters whitespace` [#293]
 - 2021-11-20 — `style: tidy keyword filter whitespace` [#284]
 - 2021-11-20 — `perf: memoize career facts lookups` [#186]
+- 2021-11-20 — `feat: add seen-cache` [#448]
