@@ -1501,3 +1501,4 @@
 - 2021-11-20 — `style: reorder lever imports` [#870]
 - 2021-11-20 — `style: reorder content scanner imports` [#516]
 - 2021-11-20 — `feat: implement keyword filter interface` [#375]
+- 2021-11-20 — `fix: guard against missing seen-cache` [#411]
