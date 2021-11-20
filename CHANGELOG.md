@@ -1516,3 +1516,4 @@
 - 2021-11-20 — `feat: expose career facts in the dashboard` [#461]
 - 2021-11-20 — `feat: wire up no-drift gate pipeline` [#227]
 - 2021-11-20 — `feat: fill fit scoring from answer bank` [#876]
+- 2021-11-20 — `refactor: share CLI table between cli and dashboard` [#927]
