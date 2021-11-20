@@ -1514,3 +1514,4 @@
 - 2021-11-20 — `style: reorder application tracker imports` [#813]
 - 2021-11-20 — `feat: normalize option matching across sources` [#651]
 - 2021-11-20 — `feat: expose career facts in the dashboard` [#461]
+- 2021-11-20 — `feat: wire up no-drift gate pipeline` [#227]
