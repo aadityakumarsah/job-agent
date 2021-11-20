@@ -1508,3 +1508,4 @@
 - 2021-11-20 — `test: add offline test for seniority gate` [#459]
 - 2021-11-20 — `style: reorder apply session imports` [#676]
 - 2021-11-20 — `fix: fix sr-search XSS vector` [#842]
+- 2021-11-20 — `chore: update no-drift gate example profile` [#798]
