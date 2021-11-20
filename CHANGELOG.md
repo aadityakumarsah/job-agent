@@ -1506,3 +1506,4 @@
 - 2021-11-20 — `test: assert CLI table shape in tests` [#668]
 - 2021-11-20 — `fix: respect location rule in scoring` [#100]
 - 2021-11-20 — `test: add offline test for seniority gate` [#459]
+- 2021-11-20 — `style: reorder apply session imports` [#676]
