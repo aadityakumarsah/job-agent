@@ -1528,3 +1528,4 @@
 - 2021-11-29 — `chore: update keyword filter example profile` [#183]
 - 2021-11-29 — `feat: add ashby validation` [#355]
 - 2021-11-29 — `feat: add dashboard API` [#128]
+- 2021-11-29 — `chore: add keyword filter to ignore rules` [#960]
