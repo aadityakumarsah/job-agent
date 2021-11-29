@@ -1531,3 +1531,4 @@
 - 2021-11-29 — `chore: add keyword filter to ignore rules` [#960]
 - 2021-11-29 — `feat: wire up CLI table pipeline` [#941]
 - 2021-11-29 — `perf: short-circuit ashby before LLM call` [#882]
+- 2021-11-29 — `feat: fill ashby from answer bank` [#486]
