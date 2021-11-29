@@ -1526,3 +1526,4 @@
 - 2021-11-29 — `style: tidy config loader whitespace` [#577]
 - 2021-11-29 — `feat: expose greenhouse in the dashboard` [#384]
 - 2021-11-29 — `chore: update keyword filter example profile` [#183]
+- 2021-11-29 — `feat: add ashby validation` [#355]
