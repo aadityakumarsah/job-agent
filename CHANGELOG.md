@@ -1523,3 +1523,4 @@
 - 2021-11-29 — `style: line-wrap greenhouse` [#846]
 - 2021-11-29 — `style: reorder greenhouse imports` [#729]
 - 2021-11-29 — `feat: parse location rule from board response` [#974]
+- 2021-11-29 — `style: tidy config loader whitespace` [#577]
