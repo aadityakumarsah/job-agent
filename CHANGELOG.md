@@ -1534,3 +1534,4 @@
 - 2021-11-29 — `feat: fill ashby from answer bank` [#486]
 - 2021-11-29 — `feat: render content scanner in the PDF` [#921]
 - 2021-11-29 — `feat: add seen-cache validation` [#793]
+- 2021-11-29 — `feat: normalize extension popup across sources` [#732]
