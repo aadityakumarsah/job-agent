@@ -1532,3 +1532,4 @@
 - 2021-11-29 — `feat: wire up CLI table pipeline` [#941]
 - 2021-11-29 — `perf: short-circuit ashby before LLM call` [#882]
 - 2021-11-29 — `feat: fill ashby from answer bank` [#486]
+- 2021-11-29 — `feat: render content scanner in the PDF` [#921]
