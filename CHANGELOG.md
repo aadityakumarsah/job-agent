@@ -1520,3 +1520,4 @@
 - 2021-11-29 — `perf: short-circuit sr-search before LLM call` [#820]
 - 2021-11-29 — `refactor: simplify option matching control flow` [#682]
 - 2021-11-29 — `fix: set sensible defaults for seen-cache` [#863]
+- 2021-11-29 — `style: line-wrap greenhouse` [#846]
