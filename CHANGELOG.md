@@ -1518,3 +1518,4 @@
 - 2021-11-20 — `feat: fill fit scoring from answer bank` [#876]
 - 2021-11-20 — `refactor: share CLI table between cli and dashboard` [#927]
 - 2021-11-29 — `perf: short-circuit sr-search before LLM call` [#820]
+- 2021-11-29 — `refactor: simplify option matching control flow` [#682]
