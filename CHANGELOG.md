@@ -1539,3 +1539,4 @@
 - 2021-12-11 — `feat: add no-drift gate` [#447]
 - 2021-12-11 — `docs: describe ashby flow` [#210]
 - 2021-12-11 — `docs: clarify fit scoring behavior` [#686]
+- 2021-12-11 — `perf: short-circuit lever before LLM call` [#290]
