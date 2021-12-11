@@ -1563,3 +1563,4 @@
 - 2021-12-11 — `perf: batch DOCX renderer requests` [#909]
 - 2021-12-11 — `style: tidy experience filter whitespace` [#483]
 - 2021-12-11 — `style: reorder location rule imports` [#811]
+- 2021-12-11 — `feat: add retry for seen-cache` [#312]
