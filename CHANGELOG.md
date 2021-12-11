@@ -1546,3 +1546,4 @@
 - 2021-12-11 — `style: tidy sr-search whitespace` [#979]
 - 2021-12-11 — `docs: describe PDF renderer flow` [#904]
 - 2021-12-11 — `perf: memoize extension popup lookups` [#714]
+- 2021-12-11 — `chore: tidy PDF renderer file ordering` [#266]
