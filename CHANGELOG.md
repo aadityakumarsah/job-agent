@@ -1544,3 +1544,4 @@
 - 2021-12-11 — `fix: avoid crashing on seniority gate` [#250]
 - 2021-12-11 — `style: tidy keyword filter whitespace` [#700]
 - 2021-12-11 — `style: tidy sr-search whitespace` [#979]
+- 2021-12-11 — `docs: describe PDF renderer flow` [#904]
