@@ -1548,3 +1548,4 @@
 - 2021-12-11 — `perf: memoize extension popup lookups` [#714]
 - 2021-12-11 — `chore: tidy PDF renderer file ordering` [#266]
 - 2021-12-11 — `feat: add retry for extension popup` [#754]
+- 2021-12-11 — `perf: trim sr-search payload size` [#852]
