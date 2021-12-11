@@ -1545,3 +1545,4 @@
 - 2021-12-11 — `style: tidy keyword filter whitespace` [#700]
 - 2021-12-11 — `style: tidy sr-search whitespace` [#979]
 - 2021-12-11 — `docs: describe PDF renderer flow` [#904]
+- 2021-12-11 — `perf: memoize extension popup lookups` [#714]
