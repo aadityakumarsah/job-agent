@@ -1555,3 +1555,4 @@
 - 2021-12-11 — `style: tidy discovery whitespace` [#351]
 - 2021-12-11 — `feat: track playwright driver per application` [#121]
 - 2021-12-11 — `docs: clarify option matching behavior` [#412]
+- 2021-12-11 — `style: line-wrap ashby` [#918]
