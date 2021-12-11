@@ -1561,3 +1561,4 @@
 - 2021-12-11 — `style: tidy lever whitespace` [#401]
 - 2021-12-11 — `refactor: share sr-search between cli and dashboard` [#993]
 - 2021-12-11 — `perf: batch DOCX renderer requests` [#909]
+- 2021-12-11 — `style: tidy experience filter whitespace` [#483]
