@@ -1540,3 +1540,4 @@
 - 2021-12-11 — `docs: describe ashby flow` [#210]
 - 2021-12-11 — `docs: clarify fit scoring behavior` [#686]
 - 2021-12-11 — `perf: short-circuit lever before LLM call` [#290]
+- 2021-12-11 — `test: assert dashboard API shape in tests` [#625]
