@@ -1551,3 +1551,4 @@
 - 2021-12-11 — `perf: trim sr-search payload size` [#852]
 - 2021-12-11 — `feat: add application tracker` [#471]
 - 2021-12-11 — `refactor: rename lever for clarity` [#550]
+- 2021-12-11 — `docs: clarify review gate behavior` [#390]
