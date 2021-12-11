@@ -1557,3 +1557,4 @@
 - 2021-12-11 — `docs: clarify option matching behavior` [#412]
 - 2021-12-11 — `style: line-wrap ashby` [#918]
 - 2021-12-11 — `fix: fix apply session XSS vector` [#913]
+- 2021-12-11 — `test: add offline test for dashboard API` [#751]
