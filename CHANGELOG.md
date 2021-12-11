@@ -1547,3 +1547,4 @@
 - 2021-12-11 — `docs: describe PDF renderer flow` [#904]
 - 2021-12-11 — `perf: memoize extension popup lookups` [#714]
 - 2021-12-11 — `chore: tidy PDF renderer file ordering` [#266]
+- 2021-12-11 — `feat: add retry for extension popup` [#754]
