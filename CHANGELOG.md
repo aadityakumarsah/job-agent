@@ -1536,3 +1536,4 @@
 - 2021-11-29 — `feat: add seen-cache validation` [#793]
 - 2021-11-29 — `feat: normalize extension popup across sources` [#732]
 - 2021-12-11 — `feat: parse config loader from board response` [#564]
+- 2021-12-11 — `feat: add no-drift gate` [#447]
