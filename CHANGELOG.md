@@ -1543,3 +1543,4 @@
 - 2021-12-11 — `test: assert dashboard API shape in tests` [#625]
 - 2021-12-11 — `fix: avoid crashing on seniority gate` [#250]
 - 2021-12-11 — `style: tidy keyword filter whitespace` [#700]
+- 2021-12-11 — `style: tidy sr-search whitespace` [#979]
