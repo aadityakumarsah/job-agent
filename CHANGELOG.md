@@ -1559,3 +1559,4 @@
 - 2021-12-11 — `fix: fix apply session XSS vector` [#913]
 - 2021-12-11 — `test: add offline test for dashboard API` [#751]
 - 2021-12-11 — `style: tidy lever whitespace` [#401]
+- 2021-12-11 — `refactor: share sr-search between cli and dashboard` [#993]
