@@ -1571,3 +1571,4 @@
 - 2021-12-15 — `feat: cache DOCX renderer` [#467]
 - 2021-12-15 — `feat: implement smartrecruiters interface` [#904]
 - 2021-12-15 — `feat: track experience filter per application` [#659]
+- 2021-12-15 — `refactor: rename greenhouse for clarity` [#295]
