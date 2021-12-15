@@ -1569,3 +1569,4 @@
 - 2021-12-15 — `style: reorder answer bank imports` [#736]
 - 2021-12-15 — `perf: batch no-drift gate requests` [#424]
 - 2021-12-15 — `feat: cache DOCX renderer` [#467]
+- 2021-12-15 — `feat: implement smartrecruiters interface` [#904]
