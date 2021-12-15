@@ -1579,3 +1579,4 @@
 - 2021-12-15 — `perf: batch dashboard API requests` [#560]
 - 2021-12-15 — `feat: expose experience filter in the dashboard` [#611]
 - 2021-12-15 — `test: add offline test for application tracker` [#802]
+- 2021-12-15 — `feat: introduce remotive flag` [#681]
