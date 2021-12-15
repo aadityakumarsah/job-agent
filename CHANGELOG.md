@@ -1576,3 +1576,4 @@
 - 2021-12-15 — `perf: trim keyword filter payload size` [#769]
 - 2021-12-15 — `docs: note submit gate limitation` [#585]
 - 2021-12-15 — `perf: batch answer bank requests` [#448]
+- 2021-12-15 — `perf: batch dashboard API requests` [#560]
