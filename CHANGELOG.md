@@ -1573,3 +1573,4 @@
 - 2021-12-15 — `feat: track experience filter per application` [#659]
 - 2021-12-15 — `refactor: rename greenhouse for clarity` [#295]
 - 2021-12-15 — `chore: update submit gate example profile` [#901]
+- 2021-12-15 — `perf: trim keyword filter payload size` [#769]
