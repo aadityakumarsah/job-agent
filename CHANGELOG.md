@@ -1580,3 +1580,4 @@
 - 2021-12-15 — `feat: expose experience filter in the dashboard` [#611]
 - 2021-12-15 — `test: add offline test for application tracker` [#802]
 - 2021-12-15 — `feat: introduce remotive flag` [#681]
+- 2021-12-19 — `test: add offline test for career facts` [#490]
