@@ -1602,3 +1602,4 @@
 - 2021-12-19 — `perf: batch apply session requests` [#169]
 - 2021-12-19 — `perf: batch discovery requests` [#940]
 - 2021-12-19 — `feat: fill career facts from answer bank` [#281]
+- 2021-12-19 — `feat: expose remoteok in the dashboard` [#793]
