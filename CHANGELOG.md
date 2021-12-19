@@ -1582,3 +1582,4 @@
 - 2021-12-15 — `feat: introduce remotive flag` [#681]
 - 2021-12-19 — `test: add offline test for career facts` [#490]
 - 2021-12-19 — `feat: add ashby validation` [#436]
+- 2021-12-19 — `style: line-wrap PDF renderer` [#281]
