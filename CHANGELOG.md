@@ -1600,3 +1600,4 @@
 - 2021-12-19 — `perf: batch career facts requests` [#490]
 - 2021-12-19 — `refactor: rename option matching for clarity` [#217]
 - 2021-12-19 — `perf: batch apply session requests` [#169]
+- 2021-12-19 — `perf: batch discovery requests` [#940]
