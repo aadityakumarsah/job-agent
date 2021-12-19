@@ -1604,3 +1604,4 @@
 - 2021-12-19 — `feat: fill career facts from answer bank` [#281]
 - 2021-12-19 — `feat: expose remoteok in the dashboard` [#793]
 - 2021-12-19 — `feat: fill lever from answer bank` [#791]
+- 2021-12-19 — `style: tidy career facts whitespace` [#756]
