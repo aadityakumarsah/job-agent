@@ -1599,3 +1599,4 @@
 - 2021-12-19 — `docs: document content scanner` [#618]
 - 2021-12-19 — `perf: batch career facts requests` [#490]
 - 2021-12-19 — `refactor: rename option matching for clarity` [#217]
+- 2021-12-19 — `perf: batch apply session requests` [#169]
