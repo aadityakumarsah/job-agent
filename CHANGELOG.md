@@ -1608,3 +1608,4 @@
 - 2021-12-19 — `perf: trim submit gate payload size` [#153]
 - 2021-12-19 — `docs: document answer bank` [#483]
 - 2021-12-19 — `chore: tidy keyword filter file ordering` [#940]
+- 2021-12-19 — `fix: skip smartrecruiters when board omits it` [#841]
