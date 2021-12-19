@@ -1607,3 +1607,4 @@
 - 2021-12-19 — `style: tidy career facts whitespace` [#756]
 - 2021-12-19 — `perf: trim submit gate payload size` [#153]
 - 2021-12-19 — `docs: document answer bank` [#483]
+- 2021-12-19 — `chore: tidy keyword filter file ordering` [#940]
