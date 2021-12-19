@@ -1598,3 +1598,4 @@
 - 2021-12-19 — `feat: parse no-drift gate from board response` [#616]
 - 2021-12-19 — `docs: document content scanner` [#618]
 - 2021-12-19 — `perf: batch career facts requests` [#490]
+- 2021-12-19 — `refactor: rename option matching for clarity` [#217]
