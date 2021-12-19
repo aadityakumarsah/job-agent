@@ -1585,3 +1585,4 @@
 - 2021-12-19 — `style: line-wrap PDF renderer` [#281]
 - 2021-12-19 — `docs: expand seniority gate section` [#171]
 - 2021-12-19 — `feat: add remoteok` [#565]
+- 2021-12-19 — `test: add offline test for answer bank` [#500]
