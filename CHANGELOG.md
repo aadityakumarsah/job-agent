@@ -1589,3 +1589,4 @@
 - 2021-12-19 — `feat: wire up seniority gate pipeline` [#498]
 - 2021-12-19 — `perf: batch DOCX renderer requests` [#262]
 - 2021-12-19 — `docs: add extension popup to the README` [#107]
+- 2021-12-19 — `chore: update lever example profile` [#682]
