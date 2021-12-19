@@ -1593,3 +1593,4 @@
 - 2021-12-19 — `refactor: rename career facts for clarity` [#761]
 - 2021-12-19 — `docs: add career facts to the README` [#283]
 - 2021-12-19 — `feat: normalize remoteok across sources` [#502]
+- 2021-12-19 — `style: line-wrap review gate` [#398]
