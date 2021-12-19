@@ -1606,3 +1606,4 @@
 - 2021-12-19 — `feat: fill lever from answer bank` [#791]
 - 2021-12-19 — `style: tidy career facts whitespace` [#756]
 - 2021-12-19 — `perf: trim submit gate payload size` [#153]
+- 2021-12-19 — `docs: document answer bank` [#483]
