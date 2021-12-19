@@ -1596,3 +1596,4 @@
 - 2021-12-19 — `style: line-wrap review gate` [#398]
 - 2021-12-19 — `docs: document fit scoring` [#605]
 - 2021-12-19 — `feat: parse no-drift gate from board response` [#616]
+- 2021-12-19 — `docs: document content scanner` [#618]
