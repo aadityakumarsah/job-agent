@@ -1603,3 +1603,4 @@
 - 2021-12-19 — `perf: batch discovery requests` [#940]
 - 2021-12-19 — `feat: fill career facts from answer bank` [#281]
 - 2021-12-19 — `feat: expose remoteok in the dashboard` [#793]
+- 2021-12-19 — `feat: fill lever from answer bank` [#791]
