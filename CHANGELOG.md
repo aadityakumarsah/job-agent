@@ -1586,3 +1586,4 @@
 - 2021-12-19 — `docs: expand seniority gate section` [#171]
 - 2021-12-19 — `feat: add remoteok` [#565]
 - 2021-12-19 — `test: add offline test for answer bank` [#500]
+- 2021-12-19 — `feat: wire up seniority gate pipeline` [#498]
