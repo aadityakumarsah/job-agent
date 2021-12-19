@@ -1591,3 +1591,4 @@
 - 2021-12-19 — `docs: add extension popup to the README` [#107]
 - 2021-12-19 — `chore: update lever example profile` [#682]
 - 2021-12-19 — `refactor: rename career facts for clarity` [#761]
+- 2021-12-19 — `docs: add career facts to the README` [#283]
