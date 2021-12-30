@@ -1610,3 +1610,4 @@
 - 2021-12-19 — `chore: tidy keyword filter file ordering` [#940]
 - 2021-12-19 — `fix: skip smartrecruiters when board omits it` [#841]
 - 2021-12-19 — `style: line-wrap career facts` [#741]
+- 2021-12-30 — `docs: document career facts` [#208]
