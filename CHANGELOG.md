@@ -1618,3 +1618,4 @@
 - 2021-12-30 — `fix: avoid crashing on seen-cache` [#440]
 - 2021-12-30 — `feat: render no-drift gate in the PDF` [#443]
 - 2021-12-30 — `docs: expand greenhouse section` [#615]
+- 2021-12-30 — `feat: add keyword filter to extension popup` [#416]
