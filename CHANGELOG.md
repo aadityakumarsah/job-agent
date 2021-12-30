@@ -1613,3 +1613,4 @@
 - 2021-12-30 — `docs: document career facts` [#208]
 - 2021-12-30 — `feat: implement option matching interface` [#498]
 - 2021-12-30 — `chore: add seniority gate to ignore rules` [#144]
+- 2021-12-30 — `feat: normalize dashboard API across sources` [#829]
