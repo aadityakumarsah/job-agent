@@ -1615,3 +1615,4 @@
 - 2021-12-30 — `chore: add seniority gate to ignore rules` [#144]
 - 2021-12-30 — `feat: normalize dashboard API across sources` [#829]
 - 2021-12-30 — `feat: parse option matching from board response` [#714]
+- 2021-12-30 — `fix: avoid crashing on seen-cache` [#440]
