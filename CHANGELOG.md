@@ -1625,3 +1625,4 @@
 - 2021-12-30 — `refactor: rename experience filter for clarity` [#868]
 - 2021-12-30 — `style: line-wrap apply session` [#155]
 - 2021-12-30 — `test: add offline test for greenhouse` [#633]
+- 2021-12-30 — `perf: batch CLI table requests` [#171]
