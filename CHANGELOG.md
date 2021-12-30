@@ -1622,3 +1622,4 @@
 - 2021-12-30 — `feat: wire up remotive pipeline` [#240]
 - 2021-12-30 — `feat: fill config loader from answer bank` [#343]
 - 2021-12-30 — `refactor: extract DOCX renderer into its own module` [#425]
+- 2021-12-30 — `refactor: rename experience filter for clarity` [#868]
