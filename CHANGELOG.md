@@ -1645,3 +1645,4 @@
 - 2022-01-03 — `feat: parse career facts from board response` [#889]
 - 2022-01-03 — `feat: introduce discovery flag` [#630]
 - 2022-01-03 — `refactor: share dashboard API between cli and dashboard` [#612]
+- 2022-01-03 — `test: cover content scanner with a fixture` [#870]
