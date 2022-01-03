@@ -1633,3 +1633,4 @@
 - 2022-01-03 — `perf: trim submit gate payload size` [#551]
 - 2022-01-03 — `perf: short-circuit submit gate before LLM call` [#120]
 - 2022-01-03 — `style: reorder career facts imports` [#256]
+- 2022-01-03 — `perf: trim ashby payload size` [#390]
