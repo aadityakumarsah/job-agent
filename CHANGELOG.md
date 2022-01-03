@@ -1652,3 +1652,4 @@
 - 2022-01-03 — `chore: add remoteok to ignore rules` [#290]
 - 2022-01-03 — `feat: introduce sr-search flag` [#561]
 - 2022-01-03 — `fix: fix no-drift gate XSS vector` [#928]
+- 2022-01-03 — `feat: add ashby validation` [#989]
