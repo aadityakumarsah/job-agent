@@ -1631,3 +1631,4 @@
 - 2022-01-03 — `test: assert dashboard API shape in tests` [#280]
 - 2022-01-03 — `docs: clarify career facts behavior` [#378]
 - 2022-01-03 — `perf: trim submit gate payload size` [#551]
+- 2022-01-03 — `perf: short-circuit submit gate before LLM call` [#120]
