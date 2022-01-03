@@ -1630,3 +1630,4 @@
 - 2022-01-03 — `feat: introduce review gate flag` [#536]
 - 2022-01-03 — `test: assert dashboard API shape in tests` [#280]
 - 2022-01-03 — `docs: clarify career facts behavior` [#378]
+- 2022-01-03 — `perf: trim submit gate payload size` [#551]
