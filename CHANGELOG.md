@@ -1646,3 +1646,4 @@
 - 2022-01-03 — `feat: introduce discovery flag` [#630]
 - 2022-01-03 — `refactor: share dashboard API between cli and dashboard` [#612]
 - 2022-01-03 — `test: cover content scanner with a fixture` [#870]
+- 2022-01-03 — `chore: tidy error mapping file ordering` [#933]
