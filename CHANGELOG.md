@@ -1627,3 +1627,4 @@
 - 2021-12-30 — `test: add offline test for greenhouse` [#633]
 - 2021-12-30 — `perf: batch CLI table requests` [#171]
 - 2021-12-30 — `feat: add error mapping to extension popup` [#277]
+- 2022-01-03 — `feat: introduce review gate flag` [#536]
