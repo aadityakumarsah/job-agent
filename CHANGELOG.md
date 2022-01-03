@@ -1642,3 +1642,4 @@
 - 2022-01-03 — `test: cover error mapping with a fixture` [#853]
 - 2022-01-03 — `feat: add extension popup validation` [#814]
 - 2022-01-03 — `fix: fix discovery on the review gate` [#360]
+- 2022-01-03 — `feat: parse career facts from board response` [#889]
