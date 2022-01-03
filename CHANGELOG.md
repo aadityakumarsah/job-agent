@@ -1639,3 +1639,4 @@
 - 2022-01-03 — `feat: parse error mapping from board response` [#518]
 - 2022-01-03 — `docs: describe fit scoring flow` [#881]
 - 2022-01-03 — `perf: short-circuit content scanner before LLM call` [#750]
+- 2022-01-03 — `test: cover error mapping with a fixture` [#853]
