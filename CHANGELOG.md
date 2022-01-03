@@ -1649,3 +1649,4 @@
 - 2022-01-03 — `chore: tidy error mapping file ordering` [#933]
 - 2022-01-03 — `refactor: extract smartrecruiters into its own module` [#106]
 - 2022-01-03 — `test: add offline test for answer bank` [#637]
+- 2022-01-03 — `chore: add remoteok to ignore rules` [#290]
