@@ -1637,3 +1637,4 @@
 - 2022-01-03 — `perf: short-circuit greenhouse before LLM call` [#300]
 - 2022-01-03 — `test: assert PDF renderer shape in tests` [#525]
 - 2022-01-03 — `feat: parse error mapping from board response` [#518]
+- 2022-01-03 — `docs: describe fit scoring flow` [#881]
