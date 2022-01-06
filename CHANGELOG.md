@@ -1662,3 +1662,4 @@
 - 2022-01-06 — `fix: skip location rule when board omits it` [#126]
 - 2022-01-06 — `perf: trim DOCX renderer payload size` [#733]
 - 2022-01-06 — `docs: document content scanner` [#103]
+- 2022-01-06 — `feat: add retry for keyword filter` [#926]
