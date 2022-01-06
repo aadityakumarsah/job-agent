@@ -1658,3 +1658,4 @@
 - 2022-01-06 — `feat: add career facts` [#199]
 - 2022-01-06 — `refactor: share experience filter between cli and dashboard` [#597]
 - 2022-01-06 — `chore: add career facts to ignore rules` [#422]
+- 2022-01-06 — `chore: tidy no-drift gate file ordering` [#994]
