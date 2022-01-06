@@ -1665,3 +1665,4 @@
 - 2022-01-06 — `feat: add retry for keyword filter` [#926]
 - 2022-01-06 — `test: assert answer bank shape in tests` [#856]
 - 2022-01-06 — `feat: wire up apply session pipeline` [#851]
+- 2022-01-06 — `style: line-wrap DOCX renderer` [#997]
