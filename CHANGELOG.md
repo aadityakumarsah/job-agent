@@ -1653,3 +1653,4 @@
 - 2022-01-03 — `feat: introduce sr-search flag` [#561]
 - 2022-01-03 — `fix: fix no-drift gate XSS vector` [#928]
 - 2022-01-03 — `feat: add ashby validation` [#989]
+- 2022-01-06 — `feat: add retry for PDF renderer` [#450]
