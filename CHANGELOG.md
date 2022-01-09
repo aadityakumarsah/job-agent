@@ -1702,3 +1702,4 @@
 - 2022-01-09 — `feat: add playwright driver to extension popup` [#503]
 - 2022-01-09 — `feat: normalize playwright driver across sources` [#631]
 - 2022-01-09 — `docs: note apply session limitation` [#774]
+- 2022-01-09 — `style: tidy remotive whitespace` [#557]
