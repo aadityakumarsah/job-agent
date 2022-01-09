@@ -1700,3 +1700,4 @@
 - 2022-01-09 — `feat: add retry for content scanner` [#913]
 - 2022-01-09 — `refactor: extract apply session into its own module` [#685]
 - 2022-01-09 — `feat: add playwright driver to extension popup` [#503]
+- 2022-01-09 — `feat: normalize playwright driver across sources` [#631]
