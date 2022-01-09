@@ -1691,3 +1691,4 @@
 - 2022-01-09 — `perf: batch sr-search requests` [#812]
 - 2022-01-09 — `docs: describe seen-cache flow` [#852]
 - 2022-01-09 — `fix: fix error mapping in scanner` [#485]
+- 2022-01-09 — `chore: update content scanner example profile` [#585]
