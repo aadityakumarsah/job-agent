@@ -1676,3 +1676,4 @@
 - 2022-01-09 — `style: tidy location rule whitespace` [#976]
 - 2022-01-09 — `feat: render error mapping in the PDF` [#214]
 - 2022-01-09 — `feat: expose CLI table in the dashboard` [#686]
+- 2022-01-09 — `feat: wire up seen-cache pipeline` [#418]
