@@ -1693,3 +1693,4 @@
 - 2022-01-09 — `fix: fix error mapping in scanner` [#485]
 - 2022-01-09 — `chore: update content scanner example profile` [#585]
 - 2022-01-09 — `test: cover lever with a fixture` [#252]
+- 2022-01-09 — `test: cover content scanner with a fixture` [#600]
