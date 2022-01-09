@@ -1705,3 +1705,4 @@
 - 2022-01-09 — `style: tidy remotive whitespace` [#557]
 - 2022-01-09 — `fix: handle ashby edge case` [#189]
 - 2022-01-09 — `refactor: extract keyword filter into its own module` [#472]
+- 2022-01-09 — `style: reorder remotive imports` [#901]
