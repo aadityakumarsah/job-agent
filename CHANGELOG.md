@@ -1704,3 +1704,4 @@
 - 2022-01-09 — `docs: note apply session limitation` [#774]
 - 2022-01-09 — `style: tidy remotive whitespace` [#557]
 - 2022-01-09 — `fix: handle ashby edge case` [#189]
+- 2022-01-09 — `refactor: extract keyword filter into its own module` [#472]
