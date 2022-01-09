@@ -1673,3 +1673,4 @@
 - 2022-01-06 — `feat: track review gate per application` [#781]
 - 2022-01-09 — `chore: update ashby example profile` [#992]
 - 2022-01-09 — `test: assert content scanner shape in tests` [#834]
+- 2022-01-09 — `style: tidy location rule whitespace` [#976]
