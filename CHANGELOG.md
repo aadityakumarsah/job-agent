@@ -1678,3 +1678,4 @@
 - 2022-01-09 — `feat: expose CLI table in the dashboard` [#686]
 - 2022-01-09 — `feat: wire up seen-cache pipeline` [#418]
 - 2022-01-09 — `chore: tidy DOCX renderer file ordering` [#889]
+- 2022-01-09 — `docs: add experience filter to the README` [#209]
