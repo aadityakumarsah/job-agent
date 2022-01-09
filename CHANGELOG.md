@@ -1671,3 +1671,4 @@
 - 2022-01-06 — `feat: introduce error mapping flag` [#208]
 - 2022-01-06 — `test: assert option matching shape in tests` [#884]
 - 2022-01-06 — `feat: track review gate per application` [#781]
+- 2022-01-09 — `chore: update ashby example profile` [#992]
