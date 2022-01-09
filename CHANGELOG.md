@@ -1682,3 +1682,4 @@
 - 2022-01-09 — `refactor: share remotive between cli and dashboard` [#957]
 - 2022-01-09 — `feat: fill smartrecruiters from answer bank` [#713]
 - 2022-01-09 — `perf: trim lever payload size` [#746]
+- 2022-01-09 — `docs: expand apply session section` [#968]
