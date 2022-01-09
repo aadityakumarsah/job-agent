@@ -1696,3 +1696,4 @@
 - 2022-01-09 — `test: cover content scanner with a fixture` [#600]
 - 2022-01-09 — `feat: track career facts per application` [#896]
 - 2022-01-09 — `perf: short-circuit smartrecruiters before LLM call` [#476]
+- 2022-01-09 — `style: line-wrap PDF renderer` [#330]
