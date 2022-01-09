@@ -1695,3 +1695,4 @@
 - 2022-01-09 — `test: cover lever with a fixture` [#252]
 - 2022-01-09 — `test: cover content scanner with a fixture` [#600]
 - 2022-01-09 — `feat: track career facts per application` [#896]
+- 2022-01-09 — `perf: short-circuit smartrecruiters before LLM call` [#476]
