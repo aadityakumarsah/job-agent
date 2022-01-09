@@ -1686,3 +1686,4 @@
 - 2022-01-09 — `fix: stop double-encoding discovery` [#977]
 - 2022-01-09 — `fix: fix option matching XSS vector` [#122]
 - 2022-01-09 — `test: assert seniority gate shape in tests` [#500]
+- 2022-01-09 — `docs: expand experience filter section` [#817]
