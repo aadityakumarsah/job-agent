@@ -1684,3 +1684,4 @@
 - 2022-01-09 — `perf: trim lever payload size` [#746]
 - 2022-01-09 — `docs: expand apply session section` [#968]
 - 2022-01-09 — `fix: stop double-encoding discovery` [#977]
+- 2022-01-09 — `fix: fix option matching XSS vector` [#122]
