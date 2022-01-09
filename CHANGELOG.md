@@ -1694,3 +1694,4 @@
 - 2022-01-09 — `chore: update content scanner example profile` [#585]
 - 2022-01-09 — `test: cover lever with a fixture` [#252]
 - 2022-01-09 — `test: cover content scanner with a fixture` [#600]
+- 2022-01-09 — `feat: track career facts per application` [#896]
