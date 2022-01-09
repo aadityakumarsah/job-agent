@@ -1698,3 +1698,4 @@
 - 2022-01-09 — `perf: short-circuit smartrecruiters before LLM call` [#476]
 - 2022-01-09 — `style: line-wrap PDF renderer` [#330]
 - 2022-01-09 — `feat: add retry for content scanner` [#913]
+- 2022-01-09 — `refactor: extract apply session into its own module` [#685]
