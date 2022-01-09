@@ -1674,3 +1674,4 @@
 - 2022-01-09 — `chore: update ashby example profile` [#992]
 - 2022-01-09 — `test: assert content scanner shape in tests` [#834]
 - 2022-01-09 — `style: tidy location rule whitespace` [#976]
+- 2022-01-09 — `feat: render error mapping in the PDF` [#214]
