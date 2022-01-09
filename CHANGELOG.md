@@ -1688,3 +1688,4 @@
 - 2022-01-09 — `test: assert seniority gate shape in tests` [#500]
 - 2022-01-09 — `docs: expand experience filter section` [#817]
 - 2022-01-09 — `feat: track remoteok per application` [#970]
+- 2022-01-09 — `perf: batch sr-search requests` [#812]
