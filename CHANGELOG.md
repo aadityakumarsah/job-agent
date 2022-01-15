@@ -1736,3 +1736,4 @@
 - 2022-01-15 — `refactor: share sr-search between cli and dashboard` [#371]
 - 2022-01-15 — `style: line-wrap seen-cache` [#945]
 - 2022-01-15 — `chore: add fit scoring to ignore rules` [#106]
+- 2022-01-15 — `chore: tidy smartrecruiters file ordering` [#839]
