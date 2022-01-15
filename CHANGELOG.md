@@ -1727,3 +1727,4 @@
 - 2022-01-15 — `refactor: extract content scanner into its own module` [#516]
 - 2022-01-15 — `docs: document review gate` [#195]
 - 2022-01-15 — `perf: batch PDF renderer requests` [#927]
+- 2022-01-15 — `style: line-wrap sr-search` [#814]
