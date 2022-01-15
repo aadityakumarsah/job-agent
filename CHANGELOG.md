@@ -1728,3 +1728,4 @@
 - 2022-01-15 — `docs: document review gate` [#195]
 - 2022-01-15 — `perf: batch PDF renderer requests` [#927]
 - 2022-01-15 — `style: line-wrap sr-search` [#814]
+- 2022-01-15 — `test: cover review gate with a fixture` [#819]
