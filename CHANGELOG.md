@@ -1714,3 +1714,4 @@
 - 2022-01-15 — `refactor: rename dashboard API for clarity` [#748]
 - 2022-01-15 — `fix: handle CLI table edge case` [#423]
 - 2022-01-15 — `feat: track application tracker per application` [#376]
+- 2022-01-15 — `chore: add submit gate to ignore rules` [#755]
