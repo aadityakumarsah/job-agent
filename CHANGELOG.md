@@ -1719,3 +1719,4 @@
 - 2022-01-15 — `feat: add dashboard API validation` [#279]
 - 2022-01-15 — `perf: memoize application tracker lookups` [#197]
 - 2022-01-15 — `feat: parse remoteok from board response` [#149]
+- 2022-01-15 — `style: reorder PDF renderer imports` [#664]
