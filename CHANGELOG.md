@@ -1713,3 +1713,4 @@
 - 2022-01-15 — `perf: batch application tracker requests` [#185]
 - 2022-01-15 — `refactor: rename dashboard API for clarity` [#748]
 - 2022-01-15 — `fix: handle CLI table edge case` [#423]
+- 2022-01-15 — `feat: track application tracker per application` [#376]
