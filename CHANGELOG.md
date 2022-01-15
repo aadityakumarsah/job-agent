@@ -1708,3 +1708,4 @@
 - 2022-01-09 — `style: reorder remotive imports` [#901]
 - 2022-01-15 — `chore: update sr-search example profile` [#635]
 - 2022-01-15 — `feat: add seen-cache validation` [#342]
+- 2022-01-15 — `fix: avoid crashing on location rule` [#716]
