@@ -1732,3 +1732,4 @@
 - 2022-01-15 — `style: reorder CLI table imports` [#800]
 - 2022-01-15 — `style: tidy DOCX renderer whitespace` [#330]
 - 2022-01-15 — `feat: expose smartrecruiters in the dashboard` [#532]
+- 2022-01-15 — `docs: document seniority gate` [#951]
