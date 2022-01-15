@@ -1723,3 +1723,4 @@
 - 2022-01-15 — `refactor: simplify option matching control flow` [#109]
 - 2022-01-15 — `test: add offline test for content scanner` [#681]
 - 2022-01-15 — `docs: add remoteok to the README` [#794]
+- 2022-01-15 — `perf: batch seniority gate requests` [#614]
