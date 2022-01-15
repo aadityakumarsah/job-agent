@@ -1734,3 +1734,4 @@
 - 2022-01-15 — `feat: expose smartrecruiters in the dashboard` [#532]
 - 2022-01-15 — `docs: document seniority gate` [#951]
 - 2022-01-15 — `refactor: share sr-search between cli and dashboard` [#371]
+- 2022-01-15 — `style: line-wrap seen-cache` [#945]
