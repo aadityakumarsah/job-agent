@@ -1710,3 +1710,4 @@
 - 2022-01-15 — `feat: add seen-cache validation` [#342]
 - 2022-01-15 — `fix: avoid crashing on location rule` [#716]
 - 2022-01-15 — `test: assert content scanner shape in tests` [#176]
+- 2022-01-15 — `perf: batch application tracker requests` [#185]
