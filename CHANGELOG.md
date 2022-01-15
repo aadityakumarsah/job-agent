@@ -1737,3 +1737,4 @@
 - 2022-01-15 — `style: line-wrap seen-cache` [#945]
 - 2022-01-15 — `chore: add fit scoring to ignore rules` [#106]
 - 2022-01-15 — `chore: tidy smartrecruiters file ordering` [#839]
+- 2022-01-15 — `docs: expand answer bank section` [#186]
