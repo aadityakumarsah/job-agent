@@ -1718,3 +1718,4 @@
 - 2022-01-15 — `docs: expand career facts section` [#380]
 - 2022-01-15 — `feat: add dashboard API validation` [#279]
 - 2022-01-15 — `perf: memoize application tracker lookups` [#197]
+- 2022-01-15 — `feat: parse remoteok from board response` [#149]
