@@ -1731,3 +1731,4 @@
 - 2022-01-15 — `test: cover review gate with a fixture` [#819]
 - 2022-01-15 — `style: reorder CLI table imports` [#800]
 - 2022-01-15 — `style: tidy DOCX renderer whitespace` [#330]
+- 2022-01-15 — `feat: expose smartrecruiters in the dashboard` [#532]
