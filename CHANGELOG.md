@@ -1716,3 +1716,4 @@
 - 2022-01-15 — `feat: track application tracker per application` [#376]
 - 2022-01-15 — `chore: add submit gate to ignore rules` [#755]
 - 2022-01-15 — `docs: expand career facts section` [#380]
+- 2022-01-15 — `feat: add dashboard API validation` [#279]
