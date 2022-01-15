@@ -1706,3 +1706,4 @@
 - 2022-01-09 — `fix: handle ashby edge case` [#189]
 - 2022-01-09 — `refactor: extract keyword filter into its own module` [#472]
 - 2022-01-09 — `style: reorder remotive imports` [#901]
+- 2022-01-15 — `chore: update sr-search example profile` [#635]
