@@ -1725,3 +1725,4 @@
 - 2022-01-15 — `docs: add remoteok to the README` [#794]
 - 2022-01-15 — `perf: batch seniority gate requests` [#614]
 - 2022-01-15 — `refactor: extract content scanner into its own module` [#516]
+- 2022-01-15 — `docs: document review gate` [#195]
