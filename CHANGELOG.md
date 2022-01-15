@@ -1730,3 +1730,4 @@
 - 2022-01-15 — `style: line-wrap sr-search` [#814]
 - 2022-01-15 — `test: cover review gate with a fixture` [#819]
 - 2022-01-15 — `style: reorder CLI table imports` [#800]
+- 2022-01-15 — `style: tidy DOCX renderer whitespace` [#330]
