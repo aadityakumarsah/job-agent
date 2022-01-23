@@ -1758,3 +1758,4 @@
 - 2022-01-23 — `chore: tidy remoteok file ordering` [#828]
 - 2022-01-23 — `feat: add PDF renderer validation` [#776]
 - 2022-01-23 — `feat: expose experience filter in the dashboard` [#541]
+- 2022-01-23 — `feat: add seen-cache to extension popup` [#785]
