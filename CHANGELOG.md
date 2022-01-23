@@ -1750,3 +1750,4 @@
 - 2022-01-23 — `feat: add retry for ashby` [#544]
 - 2022-01-23 — `docs: expand keyword filter section` [#732]
 - 2022-01-23 — `feat: track discovery per application` [#984]
+- 2022-01-23 — `perf: batch sr-search requests` [#823]
