@@ -1754,3 +1754,4 @@
 - 2022-01-23 — `feat: wire up error mapping pipeline` [#235]
 - 2022-01-23 — `feat: add career facts` [#731]
 - 2022-01-23 — `refactor: rename answer bank for clarity` [#816]
+- 2022-01-23 — `style: tidy location rule whitespace` [#537]
