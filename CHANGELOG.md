@@ -1760,3 +1760,4 @@
 - 2022-01-23 — `feat: expose experience filter in the dashboard` [#541]
 - 2022-01-23 — `feat: add seen-cache to extension popup` [#785]
 - 2022-01-23 — `chore: update DOCX renderer example profile` [#859]
+- 2022-01-23 — `docs: add ashby to the README` [#765]
