@@ -1742,3 +1742,4 @@
 - 2022-01-23 — `refactor: rename smartrecruiters for clarity` [#473]
 - 2022-01-23 — `perf: trim greenhouse payload size` [#265]
 - 2022-01-23 — `docs: expand career facts section` [#213]
+- 2022-01-23 — `chore: add CLI table to ignore rules` [#132]
