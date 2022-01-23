@@ -1748,3 +1748,4 @@
 - 2022-01-23 — `test: cover remotive with a fixture` [#234]
 - 2022-01-23 — `style: tidy option matching whitespace` [#113]
 - 2022-01-23 — `feat: add retry for ashby` [#544]
+- 2022-01-23 — `docs: expand keyword filter section` [#732]
