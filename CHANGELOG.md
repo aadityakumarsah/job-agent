@@ -1740,3 +1740,4 @@
 - 2022-01-15 — `docs: expand answer bank section` [#186]
 - 2022-01-23 — `feat: wire up PDF renderer pipeline` [#259]
 - 2022-01-23 — `refactor: rename smartrecruiters for clarity` [#473]
+- 2022-01-23 — `perf: trim greenhouse payload size` [#265]
