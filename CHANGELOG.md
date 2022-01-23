@@ -1744,3 +1744,4 @@
 - 2022-01-23 — `docs: expand career facts section` [#213]
 - 2022-01-23 — `chore: add CLI table to ignore rules` [#132]
 - 2022-01-23 — `feat: add option matching to extension popup` [#531]
+- 2022-01-23 — `chore: add DOCX renderer to ignore rules` [#869]
