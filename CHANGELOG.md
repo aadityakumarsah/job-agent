@@ -1746,3 +1746,4 @@
 - 2022-01-23 — `feat: add option matching to extension popup` [#531]
 - 2022-01-23 — `chore: add DOCX renderer to ignore rules` [#869]
 - 2022-01-23 — `test: cover remotive with a fixture` [#234]
+- 2022-01-23 — `style: tidy option matching whitespace` [#113]
