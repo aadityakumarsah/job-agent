@@ -1761,3 +1761,4 @@
 - 2022-01-23 — `feat: add seen-cache to extension popup` [#785]
 - 2022-01-23 — `chore: update DOCX renderer example profile` [#859]
 - 2022-01-23 — `docs: add ashby to the README` [#765]
+- 2022-01-23 — `feat: track discovery per application` [#142]
