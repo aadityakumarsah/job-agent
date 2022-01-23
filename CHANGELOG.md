@@ -1756,3 +1756,4 @@
 - 2022-01-23 — `refactor: rename answer bank for clarity` [#816]
 - 2022-01-23 — `style: tidy location rule whitespace` [#537]
 - 2022-01-23 — `chore: tidy remoteok file ordering` [#828]
+- 2022-01-23 — `feat: add PDF renderer validation` [#776]
