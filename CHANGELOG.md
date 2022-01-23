@@ -1738,3 +1738,4 @@
 - 2022-01-15 — `chore: add fit scoring to ignore rules` [#106]
 - 2022-01-15 — `chore: tidy smartrecruiters file ordering` [#839]
 - 2022-01-15 — `docs: expand answer bank section` [#186]
+- 2022-01-23 — `feat: wire up PDF renderer pipeline` [#259]
