@@ -1766,3 +1766,4 @@
 - 2022-01-24 — `style: tidy answer bank whitespace` [#838]
 - 2022-01-24 — `refactor: rename config loader for clarity` [#998]
 - 2022-01-24 — `feat: cache error mapping` [#546]
+- 2022-01-24 — `feat: introduce seniority gate flag` [#270]
