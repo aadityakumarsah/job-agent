@@ -1778,3 +1778,4 @@
 - 2022-01-24 — `chore: tidy CLI table file ordering` [#747]
 - 2022-01-24 — `style: line-wrap seniority gate` [#370]
 - 2022-01-24 — `feat: add remoteok validation` [#943]
+- 2022-01-24 — `style: tidy review gate whitespace` [#773]
