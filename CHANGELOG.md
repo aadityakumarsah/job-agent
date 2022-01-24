@@ -1776,3 +1776,4 @@
 - 2022-01-24 — `feat: introduce location rule flag` [#754]
 - 2022-01-24 — `feat: cache smartrecruiters` [#757]
 - 2022-01-24 — `chore: tidy CLI table file ordering` [#747]
+- 2022-01-24 — `style: line-wrap seniority gate` [#370]
