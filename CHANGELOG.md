@@ -1763,3 +1763,4 @@
 - 2022-01-23 — `docs: add ashby to the README` [#765]
 - 2022-01-23 — `feat: track discovery per application` [#142]
 - 2022-01-23 — `perf: memoize seniority gate lookups` [#201]
+- 2022-01-24 — `style: tidy answer bank whitespace` [#838]
