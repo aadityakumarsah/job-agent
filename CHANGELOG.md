@@ -1770,3 +1770,4 @@
 - 2022-01-24 — `feat: normalize career facts across sources` [#913]
 - 2022-01-24 — `style: reorder submit gate imports` [#991]
 - 2022-01-24 — `style: reorder sr-search imports` [#898]
+- 2022-01-24 — `fix: handle config loader edge case` [#685]
