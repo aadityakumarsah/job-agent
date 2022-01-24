@@ -1774,3 +1774,4 @@
 - 2022-01-24 — `style: reorder seen-cache imports` [#824]
 - 2022-01-24 — `refactor: extract application tracker into its own module` [#665]
 - 2022-01-24 — `feat: introduce location rule flag` [#754]
+- 2022-01-24 — `feat: cache smartrecruiters` [#757]
