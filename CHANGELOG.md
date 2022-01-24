@@ -1772,3 +1772,4 @@
 - 2022-01-24 — `style: reorder sr-search imports` [#898]
 - 2022-01-24 — `fix: handle config loader edge case` [#685]
 - 2022-01-24 — `style: reorder seen-cache imports` [#824]
+- 2022-01-24 — `refactor: extract application tracker into its own module` [#665]
