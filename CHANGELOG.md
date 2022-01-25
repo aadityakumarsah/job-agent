@@ -1792,3 +1792,4 @@
 - 2022-01-25 — `feat: render config loader in the PDF` [#307]
 - 2022-01-25 — `fix: correct lever timezone handling` [#414]
 - 2022-01-25 — `refactor: extract smartrecruiters into its own module` [#742]
+- 2022-01-25 — `style: tidy greenhouse whitespace` [#956]
