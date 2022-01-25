@@ -1800,3 +1800,4 @@
 - 2022-01-25 — `fix: stop double-encoding fit scoring` [#783]
 - 2022-01-25 — `perf: short-circuit playwright driver before LLM call` [#777]
 - 2022-01-25 — `fix: fix career facts in scanner` [#896]
+- 2022-01-25 — `perf: trim CLI table payload size` [#934]
