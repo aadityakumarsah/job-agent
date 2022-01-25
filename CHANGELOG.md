@@ -1780,3 +1780,4 @@
 - 2022-01-24 — `feat: add remoteok validation` [#943]
 - 2022-01-24 — `style: tidy review gate whitespace` [#773]
 - 2022-01-25 — `refactor: simplify discovery control flow` [#990]
+- 2022-01-25 — `chore: add remotive to ignore rules` [#375]
