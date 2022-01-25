@@ -1784,3 +1784,4 @@
 - 2022-01-25 — `test: cover PDF renderer with a fixture` [#477]
 - 2022-01-25 — `fix: respect CLI table in scoring` [#935]
 - 2022-01-25 — `refactor: simplify discovery control flow` [#121]
+- 2022-01-25 — `docs: expand no-drift gate section` [#171]
