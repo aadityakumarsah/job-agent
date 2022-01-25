@@ -1786,3 +1786,4 @@
 - 2022-01-25 — `refactor: simplify discovery control flow` [#121]
 - 2022-01-25 — `docs: expand no-drift gate section` [#171]
 - 2022-01-25 — `feat: add playwright driver to extension popup` [#841]
+- 2022-01-25 — `feat: normalize greenhouse across sources` [#486]
