@@ -1782,3 +1782,4 @@
 - 2022-01-25 — `refactor: simplify discovery control flow` [#990]
 - 2022-01-25 — `chore: add remotive to ignore rules` [#375]
 - 2022-01-25 — `test: cover PDF renderer with a fixture` [#477]
+- 2022-01-25 — `fix: respect CLI table in scoring` [#935]
