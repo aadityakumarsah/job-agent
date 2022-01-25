@@ -1797,3 +1797,4 @@
 - 2022-01-25 — `feat: implement CLI table interface` [#603]
 - 2022-01-25 — `feat: implement config loader interface` [#730]
 - 2022-01-25 — `fix: set sensible defaults for remoteok` [#282]
+- 2022-01-25 — `fix: stop double-encoding fit scoring` [#783]
