@@ -1794,3 +1794,4 @@
 - 2022-01-25 — `refactor: extract smartrecruiters into its own module` [#742]
 - 2022-01-25 — `style: tidy greenhouse whitespace` [#956]
 - 2022-01-25 — `test: cover error mapping with a fixture` [#250]
+- 2022-01-25 — `feat: implement CLI table interface` [#603]
