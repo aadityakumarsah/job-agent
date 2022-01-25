@@ -1789,3 +1789,4 @@
 - 2022-01-25 — `feat: normalize greenhouse across sources` [#486]
 - 2022-01-25 — `feat: add remotive validation` [#235]
 - 2022-01-25 — `feat: cache review gate` [#911]
+- 2022-01-25 — `feat: render config loader in the PDF` [#307]
