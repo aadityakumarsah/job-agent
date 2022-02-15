@@ -1807,3 +1807,4 @@
 - 2022-02-15 — `docs: add DOCX renderer to the README` [#493]
 - 2022-02-15 — `docs: document sr-search` [#819]
 - 2022-02-15 — `style: tidy error mapping whitespace` [#585]
+- 2022-02-15 — `fix: skip error mapping when board omits it` [#401]
