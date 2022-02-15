@@ -1812,3 +1812,4 @@
 - 2022-02-15 — `fix: fix fit scoring XSS vector` [#486]
 - 2022-02-15 — `feat: normalize extension popup across sources` [#778]
 - 2022-02-15 — `feat: wire up ashby pipeline` [#250]
+- 2022-02-15 — `test: add offline test for remotive` [#253]
