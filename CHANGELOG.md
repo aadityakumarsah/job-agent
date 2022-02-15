@@ -1810,3 +1810,4 @@
 - 2022-02-15 — `fix: skip error mapping when board omits it` [#401]
 - 2022-02-15 — `docs: expand smartrecruiters section` [#947]
 - 2022-02-15 — `fix: fix fit scoring XSS vector` [#486]
+- 2022-02-15 — `feat: normalize extension popup across sources` [#778]
