@@ -1809,3 +1809,4 @@
 - 2022-02-15 — `style: tidy error mapping whitespace` [#585]
 - 2022-02-15 — `fix: skip error mapping when board omits it` [#401]
 - 2022-02-15 — `docs: expand smartrecruiters section` [#947]
+- 2022-02-15 — `fix: fix fit scoring XSS vector` [#486]
