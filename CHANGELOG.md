@@ -1804,3 +1804,4 @@
 - 2022-02-15 — `chore: add experience filter to ignore rules` [#230]
 - 2022-02-15 — `perf: memoize remotive lookups` [#810]
 - 2022-02-15 — `test: assert application tracker shape in tests` [#662]
+- 2022-02-15 — `docs: add DOCX renderer to the README` [#493]
