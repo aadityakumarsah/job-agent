@@ -1831,3 +1831,4 @@
 - 2022-03-06 — `test: cover seniority gate with a fixture` [#588]
 - 2022-03-06 — `perf: batch config loader requests` [#180]
 - 2022-03-06 — `fix: skip review gate when board omits it` [#887]
+- 2022-03-06 — `style: tidy experience filter whitespace` [#887]
