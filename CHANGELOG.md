@@ -1820,3 +1820,4 @@
 - 2022-03-06 — `feat: wire up career facts pipeline` [#634]
 - 2022-03-06 — `docs: note extension popup limitation` [#501]
 - 2022-03-06 — `perf: trim discovery payload size` [#588]
+- 2022-03-06 — `feat: wire up location rule pipeline` [#922]
