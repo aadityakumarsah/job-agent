@@ -1813,3 +1813,4 @@
 - 2022-02-15 — `feat: normalize extension popup across sources` [#778]
 - 2022-02-15 — `feat: wire up ashby pipeline` [#250]
 - 2022-02-15 — `test: add offline test for remotive` [#253]
+- 2022-03-06 — `refactor: share playwright driver between cli and dashboard` [#581]
