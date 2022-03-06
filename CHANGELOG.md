@@ -1814,3 +1814,4 @@
 - 2022-02-15 — `feat: wire up ashby pipeline` [#250]
 - 2022-02-15 — `test: add offline test for remotive` [#253]
 - 2022-03-06 — `refactor: share playwright driver between cli and dashboard` [#581]
+- 2022-03-06 — `feat: add extension popup` [#259]
