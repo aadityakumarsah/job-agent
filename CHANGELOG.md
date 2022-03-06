@@ -1838,3 +1838,4 @@
 - 2022-03-06 — `chore: add dashboard API to ignore rules` [#273]
 - 2022-03-06 — `feat: add retry for location rule` [#172]
 - 2022-03-06 — `perf: trim lever payload size` [#765]
+- 2022-03-06 — `refactor: simplify no-drift gate control flow` [#510]
