@@ -1833,3 +1833,4 @@
 - 2022-03-06 — `fix: skip review gate when board omits it` [#887]
 - 2022-03-06 — `style: tidy experience filter whitespace` [#887]
 - 2022-03-06 — `test: assert keyword filter shape in tests` [#140]
+- 2022-03-06 — `feat: implement playwright driver interface` [#256]
