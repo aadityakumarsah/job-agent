@@ -1824,3 +1824,4 @@
 - 2022-03-06 — `feat: expose greenhouse in the dashboard` [#471]
 - 2022-03-06 — `fix: set sensible defaults for greenhouse` [#654]
 - 2022-03-06 — `style: tidy location rule whitespace` [#306]
+- 2022-03-06 — `feat: add experience filter` [#677]
