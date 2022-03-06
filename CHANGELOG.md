@@ -1829,3 +1829,4 @@
 - 2022-03-06 — `test: add offline test for smartrecruiters` [#843]
 - 2022-03-06 — `style: tidy greenhouse whitespace` [#203]
 - 2022-03-06 — `test: cover seniority gate with a fixture` [#588]
+- 2022-03-06 — `perf: batch config loader requests` [#180]
