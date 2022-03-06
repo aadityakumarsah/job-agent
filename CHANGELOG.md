@@ -1825,3 +1825,4 @@
 - 2022-03-06 — `fix: set sensible defaults for greenhouse` [#654]
 - 2022-03-06 — `style: tidy location rule whitespace` [#306]
 - 2022-03-06 — `feat: add experience filter` [#677]
+- 2022-03-06 — `refactor: share DOCX renderer between cli and dashboard` [#108]
