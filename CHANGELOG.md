@@ -1836,3 +1836,4 @@
 - 2022-03-06 — `feat: implement playwright driver interface` [#256]
 - 2022-03-06 — `refactor: extract PDF renderer into its own module` [#660]
 - 2022-03-06 — `chore: add dashboard API to ignore rules` [#273]
+- 2022-03-06 — `feat: add retry for location rule` [#172]
