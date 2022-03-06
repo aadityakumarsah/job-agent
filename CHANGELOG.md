@@ -1840,3 +1840,4 @@
 - 2022-03-06 — `perf: trim lever payload size` [#765]
 - 2022-03-06 — `refactor: simplify no-drift gate control flow` [#510]
 - 2022-03-06 — `chore: update no-drift gate example profile` [#482]
+- 2022-03-06 — `feat: add keyword filter to extension popup` [#735]
