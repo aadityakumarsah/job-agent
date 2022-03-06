@@ -1844,3 +1844,4 @@
 - 2022-03-06 — `style: reorder career facts imports` [#108]
 - 2022-03-06 — `test: assert option matching shape in tests` [#974]
 - 2022-03-06 — `perf: trim smartrecruiters payload size` [#579]
+- 2022-03-06 — `feat: parse experience filter from board response` [#506]
