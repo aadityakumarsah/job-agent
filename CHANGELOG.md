@@ -1816,3 +1816,4 @@
 - 2022-03-06 — `refactor: share playwright driver between cli and dashboard` [#581]
 - 2022-03-06 — `feat: add extension popup` [#259]
 - 2022-03-06 — `style: reorder option matching imports` [#264]
+- 2022-03-06 — `refactor: simplify answer bank control flow` [#685]
