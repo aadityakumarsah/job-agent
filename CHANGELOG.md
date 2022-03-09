@@ -1847,3 +1847,4 @@
 - 2022-03-06 — `feat: parse experience filter from board response` [#506]
 - 2022-03-09 — `perf: short-circuit location rule before LLM call` [#317]
 - 2022-03-09 — `style: tidy experience filter whitespace` [#259]
+- 2022-03-09 — `test: assert PDF renderer shape in tests` [#163]
