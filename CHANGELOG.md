@@ -1858,3 +1858,4 @@
 - 2022-03-09 — `perf: short-circuit playwright driver before LLM call` [#251]
 - 2022-03-09 — `style: tidy content scanner whitespace` [#839]
 - 2022-03-09 — `feat: parse apply session from board response` [#137]
+- 2022-03-09 — `fix: correct CLI table timezone handling` [#715]
