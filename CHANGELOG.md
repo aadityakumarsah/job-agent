@@ -1848,3 +1848,4 @@
 - 2022-03-09 — `perf: short-circuit location rule before LLM call` [#317]
 - 2022-03-09 — `style: tidy experience filter whitespace` [#259]
 - 2022-03-09 — `test: assert PDF renderer shape in tests` [#163]
+- 2022-03-09 — `docs: add location rule to the README` [#988]
