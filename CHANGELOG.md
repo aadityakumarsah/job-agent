@@ -1860,3 +1860,4 @@
 - 2022-03-09 — `feat: parse apply session from board response` [#137]
 - 2022-03-09 — `fix: correct CLI table timezone handling` [#715]
 - 2022-03-09 — `feat: add DOCX renderer validation` [#479]
+- 2022-03-09 — `feat: parse answer bank from board response` [#816]
