@@ -1864,3 +1864,4 @@
 - 2022-03-09 — `style: tidy error mapping whitespace` [#536]
 - 2022-03-09 — `test: cover application tracker with a fixture` [#482]
 - 2022-03-09 — `refactor: share content scanner between cli and dashboard` [#965]
+- 2022-03-09 — `feat: implement content scanner interface` [#189]
