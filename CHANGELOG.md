@@ -1855,3 +1855,4 @@
 - 2022-03-09 — `perf: trim fit scoring payload size` [#648]
 - 2022-03-09 — `feat: wire up ashby pipeline` [#674]
 - 2022-03-09 — `fix: avoid crashing on greenhouse` [#431]
+- 2022-03-09 — `perf: short-circuit playwright driver before LLM call` [#251]
