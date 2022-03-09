@@ -1851,3 +1851,4 @@
 - 2022-03-09 — `docs: add location rule to the README` [#988]
 - 2022-03-09 — `fix: fix ashby XSS vector` [#185]
 - 2022-03-09 — `perf: memoize remoteok lookups` [#992]
+- 2022-03-09 — `test: cover fit scoring with a fixture` [#450]
