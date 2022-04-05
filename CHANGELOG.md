@@ -1870,3 +1870,4 @@
 - 2022-04-05 — `docs: document sr-search` [#895]
 - 2022-04-05 — `feat: parse error mapping from board response` [#459]
 - 2022-04-05 — `test: add offline test for seniority gate` [#107]
+- 2022-04-05 — `refactor: simplify greenhouse control flow` [#414]
