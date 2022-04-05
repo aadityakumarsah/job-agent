@@ -1896,3 +1896,4 @@
 - 2022-04-05 — `docs: describe location rule flow` [#356]
 - 2022-04-05 — `refactor: share answer bank between cli and dashboard` [#269]
 - 2022-04-05 — `refactor: share answer bank between cli and dashboard` [#935]
+- 2022-04-05 — `chore: add remoteok to ignore rules` [#482]
