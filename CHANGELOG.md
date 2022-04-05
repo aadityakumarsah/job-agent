@@ -1876,3 +1876,4 @@
 - 2022-04-05 — `test: add offline test for answer bank` [#948]
 - 2022-04-05 — `test: assert DOCX renderer shape in tests` [#845]
 - 2022-04-05 — `docs: note smartrecruiters limitation` [#201]
+- 2022-04-05 — `test: assert discovery shape in tests` [#963]
