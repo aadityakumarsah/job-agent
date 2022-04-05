@@ -1880,3 +1880,4 @@
 - 2022-04-05 — `chore: add greenhouse to ignore rules` [#308]
 - 2022-04-05 — `fix: guard against missing dashboard API` [#128]
 - 2022-04-05 — `fix: avoid crashing on remoteok` [#564]
+- 2022-04-05 — `docs: expand review gate section` [#404]
