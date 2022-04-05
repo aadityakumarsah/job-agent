@@ -1874,3 +1874,4 @@
 - 2022-04-05 — `feat: normalize discovery across sources` [#126]
 - 2022-04-05 — `chore: tidy application tracker file ordering` [#443]
 - 2022-04-05 — `test: add offline test for answer bank` [#948]
+- 2022-04-05 — `test: assert DOCX renderer shape in tests` [#845]
