@@ -1875,3 +1875,4 @@
 - 2022-04-05 — `chore: tidy application tracker file ordering` [#443]
 - 2022-04-05 — `test: add offline test for answer bank` [#948]
 - 2022-04-05 — `test: assert DOCX renderer shape in tests` [#845]
+- 2022-04-05 — `docs: note smartrecruiters limitation` [#201]
