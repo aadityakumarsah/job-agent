@@ -1882,3 +1882,4 @@
 - 2022-04-05 — `fix: avoid crashing on remoteok` [#564]
 - 2022-04-05 — `docs: expand review gate section` [#404]
 - 2022-04-05 — `refactor: simplify content scanner control flow` [#775]
+- 2022-04-05 — `feat: implement smartrecruiters interface` [#213]
