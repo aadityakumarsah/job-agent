@@ -1891,3 +1891,4 @@
 - 2022-04-05 — `fix: guard against missing sr-search` [#634]
 - 2022-04-05 — `style: tidy sr-search whitespace` [#123]
 - 2022-04-05 — `docs: document review gate` [#130]
+- 2022-04-05 — `fix: guard against missing fit scoring` [#374]
