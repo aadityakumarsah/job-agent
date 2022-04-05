@@ -1893,3 +1893,4 @@
 - 2022-04-05 — `docs: document review gate` [#130]
 - 2022-04-05 — `fix: guard against missing fit scoring` [#374]
 - 2022-04-05 — `refactor: share DOCX renderer between cli and dashboard` [#578]
+- 2022-04-05 — `docs: describe location rule flow` [#356]
