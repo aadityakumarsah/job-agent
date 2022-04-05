@@ -1902,3 +1902,4 @@
 - 2022-04-05 — `fix: fix fit scoring on the review gate` [#466]
 - 2022-04-05 — `chore: tidy apply session file ordering` [#225]
 - 2022-04-05 — `perf: batch application tracker requests` [#681]
+- 2022-04-05 — `refactor: extract application tracker into its own module` [#716]
