@@ -1868,3 +1868,4 @@
 - 2022-04-05 — `test: add offline test for error mapping` [#206]
 - 2022-04-05 — `perf: memoize seen-cache lookups` [#615]
 - 2022-04-05 — `docs: document sr-search` [#895]
+- 2022-04-05 — `feat: parse error mapping from board response` [#459]
