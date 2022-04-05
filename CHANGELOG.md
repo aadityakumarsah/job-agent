@@ -1871,3 +1871,4 @@
 - 2022-04-05 — `feat: parse error mapping from board response` [#459]
 - 2022-04-05 — `test: add offline test for seniority gate` [#107]
 - 2022-04-05 — `refactor: simplify greenhouse control flow` [#414]
+- 2022-04-05 — `feat: normalize discovery across sources` [#126]
