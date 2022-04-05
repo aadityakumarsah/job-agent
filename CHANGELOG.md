@@ -1879,3 +1879,4 @@
 - 2022-04-05 — `test: assert discovery shape in tests` [#963]
 - 2022-04-05 — `chore: add greenhouse to ignore rules` [#308]
 - 2022-04-05 — `fix: guard against missing dashboard API` [#128]
+- 2022-04-05 — `fix: avoid crashing on remoteok` [#564]
