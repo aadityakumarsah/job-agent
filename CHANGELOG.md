@@ -1867,3 +1867,4 @@
 - 2022-03-09 — `feat: implement content scanner interface` [#189]
 - 2022-04-05 — `test: add offline test for error mapping` [#206]
 - 2022-04-05 — `perf: memoize seen-cache lookups` [#615]
+- 2022-04-05 — `docs: document sr-search` [#895]
