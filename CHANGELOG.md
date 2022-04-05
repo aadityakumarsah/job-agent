@@ -1883,3 +1883,4 @@
 - 2022-04-05 — `docs: expand review gate section` [#404]
 - 2022-04-05 — `refactor: simplify content scanner control flow` [#775]
 - 2022-04-05 — `feat: implement smartrecruiters interface` [#213]
+- 2022-04-05 — `refactor: rename error mapping for clarity` [#284]
