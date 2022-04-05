@@ -1900,3 +1900,4 @@
 - 2022-04-05 — `style: line-wrap discovery` [#359]
 - 2022-04-05 — `style: tidy playwright driver whitespace` [#460]
 - 2022-04-05 — `fix: fix fit scoring on the review gate` [#466]
+- 2022-04-05 — `chore: tidy apply session file ordering` [#225]
