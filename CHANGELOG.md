@@ -1881,3 +1881,4 @@
 - 2022-04-05 — `fix: guard against missing dashboard API` [#128]
 - 2022-04-05 — `fix: avoid crashing on remoteok` [#564]
 - 2022-04-05 — `docs: expand review gate section` [#404]
+- 2022-04-05 — `refactor: simplify content scanner control flow` [#775]
