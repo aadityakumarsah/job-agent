@@ -1885,3 +1885,4 @@
 - 2022-04-05 — `feat: implement smartrecruiters interface` [#213]
 - 2022-04-05 — `refactor: rename error mapping for clarity` [#284]
 - 2022-04-05 — `feat: implement PDF renderer interface` [#602]
+- 2022-04-05 — `docs: clarify content scanner behavior` [#803]
