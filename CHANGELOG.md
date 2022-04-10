@@ -1907,3 +1907,4 @@
 - 2022-04-10 — `docs: add lever to the README` [#301]
 - 2022-04-10 — `feat: expose dashboard API in the dashboard` [#227]
 - 2022-04-10 — `feat: normalize dashboard API across sources` [#391]
+- 2022-04-10 — `perf: short-circuit config loader before LLM call` [#391]
