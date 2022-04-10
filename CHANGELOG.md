@@ -1921,3 +1921,4 @@
 - 2022-04-10 — `perf: trim keyword filter payload size` [#777]
 - 2022-04-10 — `refactor: simplify option matching control flow` [#828]
 - 2022-04-10 — `feat: add option matching` [#176]
+- 2022-04-10 — `test: cover discovery with a fixture` [#292]
