@@ -1904,3 +1904,4 @@
 - 2022-04-05 — `perf: batch application tracker requests` [#681]
 - 2022-04-05 — `refactor: extract application tracker into its own module` [#716]
 - 2022-04-05 — `feat: add answer bank to extension popup` [#687]
+- 2022-04-10 — `docs: add lever to the README` [#301]
