@@ -1917,3 +1917,4 @@
 - 2022-04-10 — `feat: add CLI table` [#365]
 - 2022-04-10 — `refactor: share location rule between cli and dashboard` [#437]
 - 2022-04-10 — `fix: avoid crashing on seen-cache` [#697]
+- 2022-04-10 — `test: add offline test for DOCX renderer` [#752]
