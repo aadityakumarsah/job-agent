@@ -1915,3 +1915,4 @@
 - 2022-04-10 — `feat: fill review gate from answer bank` [#242]
 - 2022-04-10 — `fix: avoid crashing on discovery` [#190]
 - 2022-04-10 — `feat: add CLI table` [#365]
+- 2022-04-10 — `refactor: share location rule between cli and dashboard` [#437]
