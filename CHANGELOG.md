@@ -1906,3 +1906,4 @@
 - 2022-04-05 — `feat: add answer bank to extension popup` [#687]
 - 2022-04-10 — `docs: add lever to the README` [#301]
 - 2022-04-10 — `feat: expose dashboard API in the dashboard` [#227]
+- 2022-04-10 — `feat: normalize dashboard API across sources` [#391]
