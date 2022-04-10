@@ -1911,3 +1911,4 @@
 - 2022-04-10 — `feat: add answer bank to extension popup` [#171]
 - 2022-04-10 — `refactor: extract application tracker into its own module` [#424]
 - 2022-04-10 — `feat: add retry for seen-cache` [#502]
+- 2022-04-10 — `feat: add keyword filter` [#963]
