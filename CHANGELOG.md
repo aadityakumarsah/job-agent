@@ -1936,3 +1936,4 @@
 - 2022-04-16 — `refactor: share career facts between cli and dashboard` [#331]
 - 2022-04-16 — `docs: expand remoteok section` [#851]
 - 2022-04-16 — `refactor: extract smartrecruiters into its own module` [#822]
+- 2022-04-16 — `perf: batch remoteok requests` [#856]
