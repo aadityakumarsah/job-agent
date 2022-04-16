@@ -1930,3 +1930,4 @@
 - 2022-04-16 — `style: line-wrap ashby` [#563]
 - 2022-04-16 — `docs: note experience filter limitation` [#254]
 - 2022-04-16 — `refactor: share review gate between cli and dashboard` [#478]
+- 2022-04-16 — `refactor: rename DOCX renderer for clarity` [#293]
