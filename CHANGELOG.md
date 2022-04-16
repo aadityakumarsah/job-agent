@@ -1949,3 +1949,4 @@
 - 2022-04-16 — `fix: set sensible defaults for review gate` [#465]
 - 2022-04-16 — `docs: add content scanner to the README` [#862]
 - 2022-04-16 — `refactor: share CLI table between cli and dashboard` [#998]
+- 2022-04-16 — `chore: add seniority gate to ignore rules` [#439]
