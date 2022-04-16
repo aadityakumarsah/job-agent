@@ -1934,3 +1934,4 @@
 - 2022-04-16 — `test: cover CLI table with a fixture` [#211]
 - 2022-04-16 — `feat: wire up ashby pipeline` [#154]
 - 2022-04-16 — `refactor: share career facts between cli and dashboard` [#331]
+- 2022-04-16 — `docs: expand remoteok section` [#851]
