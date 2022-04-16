@@ -1937,3 +1937,4 @@
 - 2022-04-16 — `docs: expand remoteok section` [#851]
 - 2022-04-16 — `refactor: extract smartrecruiters into its own module` [#822]
 - 2022-04-16 — `perf: batch remoteok requests` [#856]
+- 2022-04-16 — `feat: add retry for remotive` [#270]
