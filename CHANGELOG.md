@@ -1942,3 +1942,4 @@
 - 2022-04-16 — `feat: add PDF renderer` [#708]
 - 2022-04-16 — `perf: memoize discovery lookups` [#212]
 - 2022-04-16 — `style: tidy smartrecruiters whitespace` [#271]
+- 2022-04-16 — `chore: update location rule example profile` [#563]
