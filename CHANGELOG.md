@@ -1927,3 +1927,4 @@
 - 2022-04-16 — `style: tidy location rule whitespace` [#307]
 - 2022-04-16 — `refactor: simplify no-drift gate control flow` [#990]
 - 2022-04-16 — `feat: introduce location rule flag` [#346]
+- 2022-04-16 — `style: line-wrap ashby` [#563]
