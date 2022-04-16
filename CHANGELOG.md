@@ -1947,3 +1947,4 @@
 - 2022-04-16 — `style: line-wrap PDF renderer` [#893]
 - 2022-04-16 — `style: reorder seen-cache imports` [#845]
 - 2022-04-16 — `fix: set sensible defaults for review gate` [#465]
+- 2022-04-16 — `docs: add content scanner to the README` [#862]
