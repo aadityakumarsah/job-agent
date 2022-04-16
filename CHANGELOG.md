@@ -1941,3 +1941,4 @@
 - 2022-04-16 — `perf: memoize config loader lookups` [#538]
 - 2022-04-16 — `feat: add PDF renderer` [#708]
 - 2022-04-16 — `perf: memoize discovery lookups` [#212]
+- 2022-04-16 — `style: tidy smartrecruiters whitespace` [#271]
