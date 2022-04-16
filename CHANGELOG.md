@@ -1951,3 +1951,4 @@
 - 2022-04-16 — `refactor: share CLI table between cli and dashboard` [#998]
 - 2022-04-16 — `chore: add seniority gate to ignore rules` [#439]
 - 2022-04-16 — `style: tidy answer bank whitespace` [#818]
+- 2022-04-16 — `chore: update remotive example profile` [#395]
