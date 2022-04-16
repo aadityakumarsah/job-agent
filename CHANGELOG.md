@@ -1926,3 +1926,4 @@
 - 2022-04-10 — `style: reorder career facts imports` [#208]
 - 2022-04-16 — `style: tidy location rule whitespace` [#307]
 - 2022-04-16 — `refactor: simplify no-drift gate control flow` [#990]
+- 2022-04-16 — `feat: introduce location rule flag` [#346]
