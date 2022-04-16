@@ -1931,3 +1931,4 @@
 - 2022-04-16 — `docs: note experience filter limitation` [#254]
 - 2022-04-16 — `refactor: share review gate between cli and dashboard` [#478]
 - 2022-04-16 — `refactor: rename DOCX renderer for clarity` [#293]
+- 2022-04-16 — `test: cover CLI table with a fixture` [#211]
