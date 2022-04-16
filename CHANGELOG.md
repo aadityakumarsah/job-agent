@@ -1945,3 +1945,4 @@
 - 2022-04-16 — `chore: update location rule example profile` [#563]
 - 2022-04-16 — `refactor: rename seniority gate for clarity` [#473]
 - 2022-04-16 — `style: line-wrap PDF renderer` [#893]
+- 2022-04-16 — `style: reorder seen-cache imports` [#845]
