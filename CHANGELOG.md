@@ -1943,3 +1943,4 @@
 - 2022-04-16 — `perf: memoize discovery lookups` [#212]
 - 2022-04-16 — `style: tidy smartrecruiters whitespace` [#271]
 - 2022-04-16 — `chore: update location rule example profile` [#563]
+- 2022-04-16 — `refactor: rename seniority gate for clarity` [#473]
