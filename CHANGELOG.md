@@ -1924,3 +1924,4 @@
 - 2022-04-10 — `test: cover discovery with a fixture` [#292]
 - 2022-04-10 — `style: line-wrap no-drift gate` [#626]
 - 2022-04-10 — `style: reorder career facts imports` [#208]
+- 2022-04-16 — `style: tidy location rule whitespace` [#307]
