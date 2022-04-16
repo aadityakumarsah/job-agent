@@ -1939,3 +1939,4 @@
 - 2022-04-16 — `perf: batch remoteok requests` [#856]
 - 2022-04-16 — `feat: add retry for remotive` [#270]
 - 2022-04-16 — `perf: memoize config loader lookups` [#538]
+- 2022-04-16 — `feat: add PDF renderer` [#708]
