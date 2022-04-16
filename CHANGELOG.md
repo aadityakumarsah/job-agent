@@ -1946,3 +1946,4 @@
 - 2022-04-16 — `refactor: rename seniority gate for clarity` [#473]
 - 2022-04-16 — `style: line-wrap PDF renderer` [#893]
 - 2022-04-16 — `style: reorder seen-cache imports` [#845]
+- 2022-04-16 — `fix: set sensible defaults for review gate` [#465]
