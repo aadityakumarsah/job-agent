@@ -1935,3 +1935,4 @@
 - 2022-04-16 — `feat: wire up ashby pipeline` [#154]
 - 2022-04-16 — `refactor: share career facts between cli and dashboard` [#331]
 - 2022-04-16 — `docs: expand remoteok section` [#851]
+- 2022-04-16 — `refactor: extract smartrecruiters into its own module` [#822]
