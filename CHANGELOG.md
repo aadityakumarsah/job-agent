@@ -1969,3 +1969,4 @@
 - 2022-04-19 — `test: assert playwright driver shape in tests` [#228]
 - 2022-04-19 — `feat: track smartrecruiters per application` [#186]
 - 2022-04-19 — `feat: fill experience filter from answer bank` [#941]
+- 2022-04-19 — `feat: fill apply session from answer bank` [#858]
