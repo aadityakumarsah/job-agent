@@ -1970,3 +1970,4 @@
 - 2022-04-19 — `feat: track smartrecruiters per application` [#186]
 - 2022-04-19 — `feat: fill experience filter from answer bank` [#941]
 - 2022-04-19 — `feat: fill apply session from answer bank` [#858]
+- 2022-04-19 — `docs: add remotive to the README` [#628]
