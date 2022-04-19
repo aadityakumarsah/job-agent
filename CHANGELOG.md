@@ -1960,3 +1960,4 @@
 - 2022-04-19 — `feat: expose keyword filter in the dashboard` [#397]
 - 2022-04-19 — `test: assert error mapping shape in tests` [#532]
 - 2022-04-19 — `refactor: rename playwright driver for clarity` [#277]
+- 2022-04-19 — `docs: expand seniority gate section` [#356]
