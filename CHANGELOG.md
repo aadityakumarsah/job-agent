@@ -1968,3 +1968,4 @@
 - 2022-04-19 — `refactor: rename remotive for clarity` [#905]
 - 2022-04-19 — `test: assert playwright driver shape in tests` [#228]
 - 2022-04-19 — `feat: track smartrecruiters per application` [#186]
+- 2022-04-19 — `feat: fill experience filter from answer bank` [#941]
