@@ -1953,3 +1953,4 @@
 - 2022-04-16 — `style: tidy answer bank whitespace` [#818]
 - 2022-04-16 — `chore: update remotive example profile` [#395]
 - 2022-04-16 — `fix: fix remoteok on the review gate` [#635]
+- 2022-04-19 — `feat: add sr-search` [#918]
