@@ -1961,3 +1961,4 @@
 - 2022-04-19 — `test: assert error mapping shape in tests` [#532]
 - 2022-04-19 — `refactor: rename playwright driver for clarity` [#277]
 - 2022-04-19 — `docs: expand seniority gate section` [#356]
+- 2022-04-19 — `refactor: simplify career facts control flow` [#680]
