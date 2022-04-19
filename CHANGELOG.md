@@ -1963,3 +1963,4 @@
 - 2022-04-19 — `docs: expand seniority gate section` [#356]
 - 2022-04-19 — `refactor: simplify career facts control flow` [#680]
 - 2022-04-19 — `fix: skip error mapping when board omits it` [#639]
+- 2022-04-19 — `chore: add CLI table to ignore rules` [#579]
