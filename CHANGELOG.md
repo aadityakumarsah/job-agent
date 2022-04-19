@@ -1958,3 +1958,4 @@
 - 2022-04-19 — `feat: add playwright driver validation` [#151]
 - 2022-04-19 — `style: tidy review gate whitespace` [#258]
 - 2022-04-19 — `feat: expose keyword filter in the dashboard` [#397]
+- 2022-04-19 — `test: assert error mapping shape in tests` [#532]
