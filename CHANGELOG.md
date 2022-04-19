@@ -1955,3 +1955,4 @@
 - 2022-04-16 — `fix: fix remoteok on the review gate` [#635]
 - 2022-04-19 — `feat: add sr-search` [#918]
 - 2022-04-19 — `feat: parse fit scoring from board response` [#154]
+- 2022-04-19 — `feat: add playwright driver validation` [#151]
