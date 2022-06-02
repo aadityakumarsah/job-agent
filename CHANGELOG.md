@@ -1991,3 +1991,4 @@
 - 2022-06-02 — `perf: batch smartrecruiters requests` [#431]
 - 2022-06-02 — `test: cover extension popup with a fixture` [#873]
 - 2022-06-02 — `feat: add fit scoring to extension popup` [#967]
+- 2022-06-02 — `feat: add retry for career facts` [#278]
