@@ -1982,3 +1982,4 @@
 - 2022-06-02 — `test: assert no-drift gate shape in tests` [#933]
 - 2022-06-02 — `test: add offline test for content scanner` [#111]
 - 2022-06-02 — `perf: trim location rule payload size` [#143]
+- 2022-06-02 — `chore: update DOCX renderer example profile` [#612]
