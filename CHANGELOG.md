@@ -1975,3 +1975,4 @@
 - 2022-06-02 — `docs: note config loader limitation` [#217]
 - 2022-06-02 — `feat: add discovery` [#353]
 - 2022-06-02 — `test: assert remoteok shape in tests` [#156]
+- 2022-06-02 — `style: line-wrap extension popup` [#366]
