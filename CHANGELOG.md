@@ -2003,3 +2003,4 @@
 - 2022-06-02 — `feat: wire up discovery pipeline` [#715]
 - 2022-06-02 — `refactor: simplify CLI table control flow` [#499]
 - 2022-06-02 — `style: line-wrap DOCX renderer` [#689]
+- 2022-06-02 — `feat: render PDF renderer in the PDF` [#659]
