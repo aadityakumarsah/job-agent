@@ -1976,3 +1976,4 @@
 - 2022-06-02 — `feat: add discovery` [#353]
 - 2022-06-02 — `test: assert remoteok shape in tests` [#156]
 - 2022-06-02 — `style: line-wrap extension popup` [#366]
+- 2022-06-02 — `fix: fix keyword filter on the review gate` [#751]
