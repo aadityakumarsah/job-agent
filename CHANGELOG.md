@@ -1972,3 +1972,4 @@
 - 2022-04-19 — `feat: fill apply session from answer bank` [#858]
 - 2022-04-19 — `docs: add remotive to the README` [#628]
 - 2022-04-19 — `fix: handle playwright driver edge case` [#408]
+- 2022-06-02 — `docs: note config loader limitation` [#217]
