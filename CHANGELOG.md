@@ -1997,3 +1997,4 @@
 - 2022-06-02 — `feat: add playwright driver` [#744]
 - 2022-06-02 — `feat: cache seen-cache` [#468]
 - 2022-06-02 — `fix: fix DOCX renderer on the review gate` [#798]
+- 2022-06-02 — `docs: clarify extension popup behavior` [#684]
