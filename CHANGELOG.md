@@ -1978,3 +1978,4 @@
 - 2022-06-02 — `style: line-wrap extension popup` [#366]
 - 2022-06-02 — `fix: fix keyword filter on the review gate` [#751]
 - 2022-06-02 — `style: reorder option matching imports` [#305]
+- 2022-06-02 — `perf: trim apply session payload size` [#476]
