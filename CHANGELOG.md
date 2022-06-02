@@ -1999,3 +1999,4 @@
 - 2022-06-02 — `fix: fix DOCX renderer on the review gate` [#798]
 - 2022-06-02 — `docs: clarify extension popup behavior` [#684]
 - 2022-06-02 — `fix: fix career facts on the review gate` [#920]
+- 2022-06-02 — `feat: implement smartrecruiters interface` [#230]
