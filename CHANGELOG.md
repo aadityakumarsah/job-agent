@@ -1985,3 +1985,4 @@
 - 2022-06-02 — `chore: update DOCX renderer example profile` [#612]
 - 2022-06-02 — `feat: track review gate per application` [#278]
 - 2022-06-02 — `perf: memoize error mapping lookups` [#832]
+- 2022-06-02 — `perf: batch dashboard API requests` [#485]
