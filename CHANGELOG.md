@@ -1973,3 +1973,4 @@
 - 2022-04-19 — `docs: add remotive to the README` [#628]
 - 2022-04-19 — `fix: handle playwright driver edge case` [#408]
 - 2022-06-02 — `docs: note config loader limitation` [#217]
+- 2022-06-02 — `feat: add discovery` [#353]
