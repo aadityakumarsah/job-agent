@@ -2002,3 +2002,4 @@
 - 2022-06-02 — `feat: implement smartrecruiters interface` [#230]
 - 2022-06-02 — `feat: wire up discovery pipeline` [#715]
 - 2022-06-02 — `refactor: simplify CLI table control flow` [#499]
+- 2022-06-02 — `style: line-wrap DOCX renderer` [#689]
