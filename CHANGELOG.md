@@ -1993,3 +1993,4 @@
 - 2022-06-02 — `feat: add fit scoring to extension popup` [#967]
 - 2022-06-02 — `feat: add retry for career facts` [#278]
 - 2022-06-02 — `style: reorder option matching imports` [#304]
+- 2022-06-02 — `docs: note playwright driver limitation` [#859]
