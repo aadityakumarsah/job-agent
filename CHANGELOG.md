@@ -1987,3 +1987,4 @@
 - 2022-06-02 — `perf: memoize error mapping lookups` [#832]
 - 2022-06-02 — `perf: batch dashboard API requests` [#485]
 - 2022-06-02 — `chore: update discovery example profile` [#702]
+- 2022-06-02 — `feat: implement option matching interface` [#130]
