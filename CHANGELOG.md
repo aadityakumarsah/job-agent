@@ -2009,3 +2009,4 @@
 - 2022-07-01 — `feat: render config loader in the PDF` [#341]
 - 2022-07-01 — `feat: fill extension popup from answer bank` [#454]
 - 2022-07-01 — `style: tidy smartrecruiters whitespace` [#590]
+- 2022-07-01 — `style: reorder seniority gate imports` [#330]
