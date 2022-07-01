@@ -2013,3 +2013,4 @@
 - 2022-07-01 — `feat: wire up application tracker pipeline` [#126]
 - 2022-07-01 — `test: add offline test for PDF renderer` [#798]
 - 2022-07-01 — `test: assert application tracker shape in tests` [#812]
+- 2022-07-01 — `perf: memoize sr-search lookups` [#220]
