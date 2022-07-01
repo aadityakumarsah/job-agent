@@ -2008,3 +2008,4 @@
 - 2022-07-01 — `fix: avoid crashing on error mapping` [#309]
 - 2022-07-01 — `feat: render config loader in the PDF` [#341]
 - 2022-07-01 — `feat: fill extension popup from answer bank` [#454]
+- 2022-07-01 — `style: tidy smartrecruiters whitespace` [#590]
