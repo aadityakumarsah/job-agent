@@ -2032,3 +2032,4 @@
 - 2022-07-04 — `docs: note answer bank limitation` [#875]
 - 2022-07-04 — `feat: fill error mapping from answer bank` [#926]
 - 2022-07-04 — `style: line-wrap submit gate` [#574]
+- 2022-07-04 — `fix: correct remotive timezone handling` [#490]
