@@ -2030,3 +2030,4 @@
 - 2022-07-04 — `test: cover application tracker with a fixture` [#645]
 - 2022-07-04 — `feat: normalize error mapping across sources` [#723]
 - 2022-07-04 — `docs: note answer bank limitation` [#875]
+- 2022-07-04 — `feat: fill error mapping from answer bank` [#926]
