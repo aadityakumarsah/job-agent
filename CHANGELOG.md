@@ -2051,3 +2051,4 @@
 - 2022-07-04 — `chore: update playwright driver example profile` [#623]
 - 2022-07-04 — `chore: tidy option matching file ordering` [#320]
 - 2022-07-04 — `test: cover dashboard API with a fixture` [#880]
+- 2022-07-04 — `style: tidy seen-cache whitespace` [#851]
