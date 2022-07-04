@@ -2045,3 +2045,4 @@
 - 2022-07-04 — `refactor: rename application tracker for clarity` [#116]
 - 2022-07-04 — `docs: add smartrecruiters to the README` [#458]
 - 2022-07-04 — `docs: describe answer bank flow` [#308]
+- 2022-07-04 — `test: assert extension popup shape in tests` [#996]
