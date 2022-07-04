@@ -2037,3 +2037,4 @@
 - 2022-07-04 — `refactor: extract smartrecruiters into its own module` [#470]
 - 2022-07-04 — `chore: add no-drift gate to ignore rules` [#956]
 - 2022-07-04 — `feat: track seen-cache per application` [#577]
+- 2022-07-04 — `test: add offline test for application tracker` [#159]
