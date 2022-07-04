@@ -2038,3 +2038,4 @@
 - 2022-07-04 — `chore: add no-drift gate to ignore rules` [#956]
 - 2022-07-04 — `feat: track seen-cache per application` [#577]
 - 2022-07-04 — `test: add offline test for application tracker` [#159]
+- 2022-07-04 — `feat: add location rule to extension popup` [#551]
