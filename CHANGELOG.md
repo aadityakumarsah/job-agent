@@ -2026,3 +2026,4 @@
 - 2022-07-04 — `chore: tidy apply session file ordering` [#842]
 - 2022-07-04 — `perf: short-circuit location rule before LLM call` [#216]
 - 2022-07-04 — `test: add offline test for career facts` [#407]
+- 2022-07-04 — `test: cover career facts with a fixture` [#493]
