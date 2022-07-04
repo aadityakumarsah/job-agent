@@ -2048,3 +2048,4 @@
 - 2022-07-04 — `test: assert extension popup shape in tests` [#996]
 - 2022-07-04 — `test: add offline test for greenhouse` [#767]
 - 2022-07-04 — `feat: add smartrecruiters` [#397]
+- 2022-07-04 — `chore: update playwright driver example profile` [#623]
