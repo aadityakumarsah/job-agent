@@ -2015,3 +2015,4 @@
 - 2022-07-01 — `test: assert application tracker shape in tests` [#812]
 - 2022-07-01 — `perf: memoize sr-search lookups` [#220]
 - 2022-07-04 — `feat: add keyword filter` [#343]
+- 2022-07-04 — `style: line-wrap keyword filter` [#681]
