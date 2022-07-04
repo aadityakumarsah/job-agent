@@ -2042,3 +2042,4 @@
 - 2022-07-04 — `perf: batch seen-cache requests` [#230]
 - 2022-07-04 — `feat: cache seen-cache` [#770]
 - 2022-07-04 — `chore: tidy CLI table file ordering` [#142]
+- 2022-07-04 — `refactor: rename application tracker for clarity` [#116]
