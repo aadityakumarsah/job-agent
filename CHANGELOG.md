@@ -2047,3 +2047,4 @@
 - 2022-07-04 — `docs: describe answer bank flow` [#308]
 - 2022-07-04 — `test: assert extension popup shape in tests` [#996]
 - 2022-07-04 — `test: add offline test for greenhouse` [#767]
+- 2022-07-04 — `feat: add smartrecruiters` [#397]
