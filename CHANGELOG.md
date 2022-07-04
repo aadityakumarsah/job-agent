@@ -2024,3 +2024,4 @@
 - 2022-07-04 — `style: reorder apply session imports` [#206]
 - 2022-07-04 — `refactor: simplify seniority gate control flow` [#180]
 - 2022-07-04 — `chore: tidy apply session file ordering` [#842]
+- 2022-07-04 — `perf: short-circuit location rule before LLM call` [#216]
