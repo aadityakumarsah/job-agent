@@ -2017,3 +2017,4 @@
 - 2022-07-04 — `feat: add keyword filter` [#343]
 - 2022-07-04 — `style: line-wrap keyword filter` [#681]
 - 2022-07-04 — `feat: add experience filter` [#229]
+- 2022-07-04 — `docs: add option matching to the README` [#399]
