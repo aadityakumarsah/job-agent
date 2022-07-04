@@ -2034,3 +2034,4 @@
 - 2022-07-04 — `style: line-wrap submit gate` [#574]
 - 2022-07-04 — `fix: correct remotive timezone handling` [#490]
 - 2022-07-04 — `refactor: rename experience filter for clarity` [#187]
+- 2022-07-04 — `refactor: extract smartrecruiters into its own module` [#470]
