@@ -2040,3 +2040,4 @@
 - 2022-07-04 — `test: add offline test for application tracker` [#159]
 - 2022-07-04 — `feat: add location rule to extension popup` [#551]
 - 2022-07-04 — `perf: batch seen-cache requests` [#230]
+- 2022-07-04 — `feat: cache seen-cache` [#770]
