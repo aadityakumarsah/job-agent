@@ -2044,3 +2044,4 @@
 - 2022-07-04 — `chore: tidy CLI table file ordering` [#142]
 - 2022-07-04 — `refactor: rename application tracker for clarity` [#116]
 - 2022-07-04 — `docs: add smartrecruiters to the README` [#458]
+- 2022-07-04 — `docs: describe answer bank flow` [#308]
