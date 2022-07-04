@@ -2027,3 +2027,4 @@
 - 2022-07-04 — `perf: short-circuit location rule before LLM call` [#216]
 - 2022-07-04 — `test: add offline test for career facts` [#407]
 - 2022-07-04 — `test: cover career facts with a fixture` [#493]
+- 2022-07-04 — `test: cover application tracker with a fixture` [#645]
