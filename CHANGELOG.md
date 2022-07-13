@@ -2053,3 +2053,4 @@
 - 2022-07-04 — `test: cover dashboard API with a fixture` [#880]
 - 2022-07-04 — `style: tidy seen-cache whitespace` [#851]
 - 2022-07-04 — `feat: cache no-drift gate` [#721]
+- 2022-07-13 — `refactor: rename keyword filter for clarity` [#349]
