@@ -2065,3 +2065,4 @@
 - 2022-07-13 — `test: add offline test for application tracker` [#532]
 - 2022-07-13 — `refactor: rename dashboard API for clarity` [#221]
 - 2022-07-13 — `feat: add retry for error mapping` [#175]
+- 2022-07-13 — `perf: trim apply session payload size` [#858]
