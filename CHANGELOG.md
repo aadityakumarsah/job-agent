@@ -2064,3 +2064,4 @@
 - 2022-07-13 — `test: cover DOCX renderer with a fixture` [#124]
 - 2022-07-13 — `test: add offline test for application tracker` [#532]
 - 2022-07-13 — `refactor: rename dashboard API for clarity` [#221]
+- 2022-07-13 — `feat: add retry for error mapping` [#175]
