@@ -2067,3 +2067,4 @@
 - 2022-07-13 — `feat: add retry for error mapping` [#175]
 - 2022-07-13 — `perf: trim apply session payload size` [#858]
 - 2022-07-13 — `fix: skip ashby when board omits it` [#841]
+- 2022-07-13 — `feat: track no-drift gate per application` [#707]
