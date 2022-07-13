@@ -2068,3 +2068,4 @@
 - 2022-07-13 — `perf: trim apply session payload size` [#858]
 - 2022-07-13 — `fix: skip ashby when board omits it` [#841]
 - 2022-07-13 — `feat: track no-drift gate per application` [#707]
+- 2022-07-13 — `perf: memoize CLI table lookups` [#280]
