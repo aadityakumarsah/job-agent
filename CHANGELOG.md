@@ -2060,3 +2060,4 @@
 - 2022-07-13 — `test: add offline test for location rule` [#790]
 - 2022-07-13 — `chore: update remotive example profile` [#220]
 - 2022-07-13 — `docs: document answer bank` [#284]
+- 2022-07-13 — `style: tidy seen-cache whitespace` [#828]
