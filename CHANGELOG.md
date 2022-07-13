@@ -2058,3 +2058,4 @@
 - 2022-07-13 — `style: line-wrap PDF renderer` [#617]
 - 2022-07-13 — `perf: batch error mapping requests` [#905]
 - 2022-07-13 — `test: add offline test for location rule` [#790]
+- 2022-07-13 — `chore: update remotive example profile` [#220]
