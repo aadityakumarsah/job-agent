@@ -2061,3 +2061,4 @@
 - 2022-07-13 — `chore: update remotive example profile` [#220]
 - 2022-07-13 — `docs: document answer bank` [#284]
 - 2022-07-13 — `style: tidy seen-cache whitespace` [#828]
+- 2022-07-13 — `test: cover DOCX renderer with a fixture` [#124]
