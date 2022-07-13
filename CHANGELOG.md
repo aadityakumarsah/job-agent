@@ -2062,3 +2062,4 @@
 - 2022-07-13 — `docs: document answer bank` [#284]
 - 2022-07-13 — `style: tidy seen-cache whitespace` [#828]
 - 2022-07-13 — `test: cover DOCX renderer with a fixture` [#124]
+- 2022-07-13 — `test: add offline test for application tracker` [#532]
