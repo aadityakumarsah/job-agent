@@ -2056,3 +2056,4 @@
 - 2022-07-13 — `refactor: rename keyword filter for clarity` [#349]
 - 2022-07-13 — `feat: parse fit scoring from board response` [#809]
 - 2022-07-13 — `style: line-wrap PDF renderer` [#617]
+- 2022-07-13 — `perf: batch error mapping requests` [#905]
