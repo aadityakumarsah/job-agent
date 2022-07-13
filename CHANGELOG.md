@@ -2054,3 +2054,4 @@
 - 2022-07-04 — `style: tidy seen-cache whitespace` [#851]
 - 2022-07-04 — `feat: cache no-drift gate` [#721]
 - 2022-07-13 — `refactor: rename keyword filter for clarity` [#349]
+- 2022-07-13 — `feat: parse fit scoring from board response` [#809]
