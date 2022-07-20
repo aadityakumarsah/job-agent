@@ -2078,3 +2078,4 @@
 - 2022-07-20 — `style: reorder discovery imports` [#650]
 - 2022-07-20 — `docs: add DOCX renderer to the README` [#388]
 - 2022-07-20 — `perf: short-circuit no-drift gate before LLM call` [#402]
+- 2022-07-20 — `refactor: extract CLI table into its own module` [#188]
