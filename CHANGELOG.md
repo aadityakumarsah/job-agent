@@ -2086,3 +2086,4 @@
 - 2022-07-20 — `feat: normalize CLI table across sources` [#351]
 - 2022-07-20 — `docs: expand review gate section` [#371]
 - 2022-07-20 — `fix: skip seen-cache when board omits it` [#303]
+- 2022-07-20 — `test: cover apply session with a fixture` [#168]
