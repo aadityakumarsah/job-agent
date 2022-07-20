@@ -2080,3 +2080,4 @@
 - 2022-07-20 — `perf: short-circuit no-drift gate before LLM call` [#402]
 - 2022-07-20 — `refactor: extract CLI table into its own module` [#188]
 - 2022-07-20 — `feat: implement experience filter interface` [#862]
+- 2022-07-20 — `chore: update option matching example profile` [#382]
