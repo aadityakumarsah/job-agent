@@ -2082,3 +2082,4 @@
 - 2022-07-20 — `feat: implement experience filter interface` [#862]
 - 2022-07-20 — `chore: update option matching example profile` [#382]
 - 2022-07-20 — `chore: update playwright driver example profile` [#139]
+- 2022-07-20 — `docs: describe lever flow` [#961]
