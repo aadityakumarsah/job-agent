@@ -2075,3 +2075,4 @@
 - 2022-07-20 — `refactor: share no-drift gate between cli and dashboard` [#269]
 - 2022-07-20 — `fix: guard against missing error mapping` [#395]
 - 2022-07-20 — `refactor: simplify greenhouse control flow` [#244]
+- 2022-07-20 — `style: reorder discovery imports` [#650]
