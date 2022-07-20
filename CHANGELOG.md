@@ -2070,3 +2070,4 @@
 - 2022-07-13 — `feat: track no-drift gate per application` [#707]
 - 2022-07-13 — `perf: memoize CLI table lookups` [#280]
 - 2022-07-20 — `perf: trim seniority gate payload size` [#449]
+- 2022-07-20 — `chore: update config loader example profile` [#875]
