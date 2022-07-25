@@ -2100,3 +2100,4 @@
 - 2022-07-25 — `refactor: simplify application tracker control flow` [#558]
 - 2022-07-25 — `feat: render application tracker in the PDF` [#728]
 - 2022-07-25 — `feat: fill experience filter from answer bank` [#921]
+- 2022-07-25 — `style: tidy fit scoring whitespace` [#164]
