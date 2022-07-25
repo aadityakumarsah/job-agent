@@ -2091,3 +2091,4 @@
 - 2022-07-25 — `perf: memoize discovery lookups` [#643]
 - 2022-07-25 — `refactor: share extension popup between cli and dashboard` [#784]
 - 2022-07-25 — `perf: memoize answer bank lookups` [#402]
+- 2022-07-25 — `docs: add CLI table to the README` [#778]
