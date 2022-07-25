@@ -2103,3 +2103,4 @@
 - 2022-07-25 — `style: tidy fit scoring whitespace` [#164]
 - 2022-07-25 — `fix: correct seniority gate timezone handling` [#958]
 - 2022-07-25 — `chore: update keyword filter example profile` [#439]
+- 2022-07-25 — `feat: parse playwright driver from board response` [#873]
