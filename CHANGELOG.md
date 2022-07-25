@@ -2096,3 +2096,4 @@
 - 2022-07-25 — `perf: short-circuit seniority gate before LLM call` [#715]
 - 2022-07-25 — `docs: note submit gate limitation` [#971]
 - 2022-07-25 — `chore: add career facts to ignore rules` [#521]
+- 2022-07-25 — `feat: expose content scanner in the dashboard` [#374]
