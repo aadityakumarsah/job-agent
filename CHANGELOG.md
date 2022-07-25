@@ -2094,3 +2094,4 @@
 - 2022-07-25 — `docs: add CLI table to the README` [#778]
 - 2022-07-25 — `feat: introduce submit gate flag` [#455]
 - 2022-07-25 — `perf: short-circuit seniority gate before LLM call` [#715]
+- 2022-07-25 — `docs: note submit gate limitation` [#971]
