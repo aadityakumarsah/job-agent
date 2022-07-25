@@ -2102,3 +2102,4 @@
 - 2022-07-25 — `feat: fill experience filter from answer bank` [#921]
 - 2022-07-25 — `style: tidy fit scoring whitespace` [#164]
 - 2022-07-25 — `fix: correct seniority gate timezone handling` [#958]
+- 2022-07-25 — `chore: update keyword filter example profile` [#439]
