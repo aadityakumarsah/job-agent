@@ -2088,3 +2088,4 @@
 - 2022-07-20 — `fix: skip seen-cache when board omits it` [#303]
 - 2022-07-20 — `test: cover apply session with a fixture` [#168]
 - 2022-07-20 — `test: add offline test for dashboard API` [#804]
+- 2022-07-25 — `perf: memoize discovery lookups` [#643]
