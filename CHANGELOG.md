@@ -2108,3 +2108,4 @@
 - 2022-07-25 — `refactor: share content scanner between cli and dashboard` [#867]
 - 2022-07-25 — `refactor: share greenhouse between cli and dashboard` [#982]
 - 2022-07-25 — `style: line-wrap playwright driver` [#719]
+- 2022-07-25 — `refactor: extract seniority gate into its own module` [#903]
