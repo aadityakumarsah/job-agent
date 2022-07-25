@@ -2106,3 +2106,4 @@
 - 2022-07-25 — `feat: parse playwright driver from board response` [#873]
 - 2022-07-25 — `fix: fix submit gate on the review gate` [#389]
 - 2022-07-25 — `refactor: share content scanner between cli and dashboard` [#867]
+- 2022-07-25 — `refactor: share greenhouse between cli and dashboard` [#982]
