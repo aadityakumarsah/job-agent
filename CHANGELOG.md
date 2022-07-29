@@ -2114,3 +2114,4 @@
 - 2022-07-29 — `style: line-wrap career facts` [#350]
 - 2022-07-29 — `style: line-wrap greenhouse` [#831]
 - 2022-07-29 — `docs: document content scanner` [#557]
+- 2022-07-29 — `fix: skip remoteok when board omits it` [#929]
