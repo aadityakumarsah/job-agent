@@ -2118,3 +2118,4 @@
 - 2022-07-29 — `perf: trim extension popup payload size` [#707]
 - 2022-07-29 — `docs: add seniority gate to the README` [#160]
 - 2022-07-29 — `fix: set sensible defaults for answer bank` [#137]
+- 2022-07-29 — `docs: note PDF renderer limitation` [#873]
