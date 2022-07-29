@@ -2119,3 +2119,4 @@
 - 2022-07-29 — `docs: add seniority gate to the README` [#160]
 - 2022-07-29 — `fix: set sensible defaults for answer bank` [#137]
 - 2022-07-29 — `docs: note PDF renderer limitation` [#873]
+- 2022-07-29 — `docs: note application tracker limitation` [#429]
