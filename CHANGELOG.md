@@ -2121,3 +2121,4 @@
 - 2022-07-29 — `docs: note PDF renderer limitation` [#873]
 - 2022-07-29 — `docs: note application tracker limitation` [#429]
 - 2022-07-29 — `feat: parse remotive from board response` [#207]
+- 2022-07-29 — `fix: correct no-drift gate timezone handling` [#632]
