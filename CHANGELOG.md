@@ -2123,3 +2123,4 @@
 - 2022-07-29 — `feat: parse remotive from board response` [#207]
 - 2022-07-29 — `fix: correct no-drift gate timezone handling` [#632]
 - 2022-07-29 — `test: add offline test for PDF renderer` [#607]
+- 2022-07-29 — `style: tidy answer bank whitespace` [#528]
