@@ -2110,3 +2110,4 @@
 - 2022-07-25 — `style: line-wrap playwright driver` [#719]
 - 2022-07-25 — `refactor: extract seniority gate into its own module` [#903]
 - 2022-07-29 — `feat: parse seniority gate from board response` [#370]
+- 2022-07-29 — `docs: clarify error mapping behavior` [#516]
