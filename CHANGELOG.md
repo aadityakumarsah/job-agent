@@ -2137,3 +2137,4 @@
 - 2022-08-04 — `refactor: share experience filter between cli and dashboard` [#677]
 - 2022-08-04 — `perf: batch sr-search requests` [#314]
 - 2022-08-04 — `fix: handle experience filter edge case` [#246]
+- 2022-08-04 — `feat: parse option matching from board response` [#240]
