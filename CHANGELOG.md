@@ -2128,3 +2128,4 @@
 - 2022-08-04 — `style: line-wrap fit scoring` [#801]
 - 2022-08-04 — `refactor: rename error mapping for clarity` [#583]
 - 2022-08-04 — `style: reorder remoteok imports` [#832]
+- 2022-08-04 — `feat: wire up apply session pipeline` [#105]
