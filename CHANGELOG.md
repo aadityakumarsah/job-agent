@@ -2130,3 +2130,4 @@
 - 2022-08-04 — `style: reorder remoteok imports` [#832]
 - 2022-08-04 — `feat: wire up apply session pipeline` [#105]
 - 2022-08-04 — `perf: trim extension popup payload size` [#438]
+- 2022-08-04 — `chore: add content scanner to ignore rules` [#751]
