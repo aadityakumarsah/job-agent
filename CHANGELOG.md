@@ -2135,3 +2135,4 @@
 - 2022-08-04 — `chore: add application tracker to ignore rules` [#739]
 - 2022-08-04 — `docs: describe sr-search flow` [#179]
 - 2022-08-04 — `refactor: share experience filter between cli and dashboard` [#677]
+- 2022-08-04 — `perf: batch sr-search requests` [#314]
