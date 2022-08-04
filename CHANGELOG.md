@@ -2126,3 +2126,4 @@
 - 2022-07-29 — `style: tidy answer bank whitespace` [#528]
 - 2022-07-29 — `refactor: rename dashboard API for clarity` [#635]
 - 2022-08-04 — `style: line-wrap fit scoring` [#801]
+- 2022-08-04 — `refactor: rename error mapping for clarity` [#583]
