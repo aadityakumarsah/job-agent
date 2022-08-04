@@ -2140,3 +2140,4 @@
 - 2022-08-04 — `feat: parse option matching from board response` [#240]
 - 2022-08-04 — `refactor: share career facts between cli and dashboard` [#612]
 - 2022-08-04 — `perf: memoize DOCX renderer lookups` [#463]
+- 2022-08-04 — `docs: describe remotive flow` [#270]
