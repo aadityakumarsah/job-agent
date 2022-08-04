@@ -2129,3 +2129,4 @@
 - 2022-08-04 — `refactor: rename error mapping for clarity` [#583]
 - 2022-08-04 — `style: reorder remoteok imports` [#832]
 - 2022-08-04 — `feat: wire up apply session pipeline` [#105]
+- 2022-08-04 — `perf: trim extension popup payload size` [#438]
