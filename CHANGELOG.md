@@ -2134,3 +2134,4 @@
 - 2022-08-04 — `docs: add dashboard API to the README` [#381]
 - 2022-08-04 — `chore: add application tracker to ignore rules` [#739]
 - 2022-08-04 — `docs: describe sr-search flow` [#179]
+- 2022-08-04 — `refactor: share experience filter between cli and dashboard` [#677]
