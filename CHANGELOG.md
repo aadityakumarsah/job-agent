@@ -2175,3 +2175,4 @@
 - 2022-08-15 — `test: cover location rule with a fixture` [#848]
 - 2022-08-15 — `chore: tidy error mapping file ordering` [#594]
 - 2022-08-15 — `style: reorder CLI table imports` [#210]
+- 2022-08-15 — `feat: add config loader validation` [#267]
