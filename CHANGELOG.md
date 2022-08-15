@@ -2161,3 +2161,4 @@
 - 2022-08-15 — `chore: tidy playwright driver file ordering` [#705]
 - 2022-08-15 — `chore: tidy seniority gate file ordering` [#571]
 - 2022-08-15 — `docs: clarify lever behavior` [#865]
+- 2022-08-15 — `refactor: rename answer bank for clarity` [#282]
