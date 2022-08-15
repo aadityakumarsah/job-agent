@@ -2177,3 +2177,4 @@
 - 2022-08-15 — `style: reorder CLI table imports` [#210]
 - 2022-08-15 — `feat: add config loader validation` [#267]
 - 2022-08-15 — `style: tidy option matching whitespace` [#303]
+- 2022-08-15 — `feat: introduce playwright driver flag` [#192]
