@@ -2159,3 +2159,4 @@
 - 2022-08-15 — `refactor: share dashboard API between cli and dashboard` [#674]
 - 2022-08-15 — `perf: batch review gate requests` [#190]
 - 2022-08-15 — `chore: tidy playwright driver file ordering` [#705]
+- 2022-08-15 — `chore: tidy seniority gate file ordering` [#571]
