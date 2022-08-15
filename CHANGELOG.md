@@ -2172,3 +2172,4 @@
 - 2022-08-15 — `feat: expose seen-cache in the dashboard` [#430]
 - 2022-08-15 — `test: cover remoteok with a fixture` [#586]
 - 2022-08-15 — `fix: handle no-drift gate edge case` [#578]
+- 2022-08-15 — `test: cover location rule with a fixture` [#848]
