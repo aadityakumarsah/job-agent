@@ -2173,3 +2173,4 @@
 - 2022-08-15 — `test: cover remoteok with a fixture` [#586]
 - 2022-08-15 — `fix: handle no-drift gate edge case` [#578]
 - 2022-08-15 — `test: cover location rule with a fixture` [#848]
+- 2022-08-15 — `chore: tidy error mapping file ordering` [#594]
