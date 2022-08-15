@@ -2164,3 +2164,4 @@
 - 2022-08-15 — `refactor: rename answer bank for clarity` [#282]
 - 2022-08-15 — `docs: clarify apply session behavior` [#379]
 - 2022-08-15 — `feat: expose submit gate in the dashboard` [#601]
+- 2022-08-15 — `perf: batch lever requests` [#949]
