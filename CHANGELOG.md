@@ -2153,3 +2153,4 @@
 - 2022-08-15 — `feat: add experience filter` [#157]
 - 2022-08-15 — `style: line-wrap greenhouse` [#384]
 - 2022-08-15 — `chore: update CLI table example profile` [#826]
+- 2022-08-15 — `feat: track option matching per application` [#780]
