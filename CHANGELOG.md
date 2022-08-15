@@ -2167,3 +2167,4 @@
 - 2022-08-15 — `perf: batch lever requests` [#949]
 - 2022-08-15 — `style: reorder content scanner imports` [#682]
 - 2022-08-15 — `refactor: rename ashby for clarity` [#312]
+- 2022-08-15 — `docs: document DOCX renderer` [#578]
