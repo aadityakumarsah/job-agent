@@ -2151,3 +2151,4 @@
 - 2022-08-15 — `perf: short-circuit lever before LLM call` [#602]
 - 2022-08-15 — `fix: fix ashby in scanner` [#822]
 - 2022-08-15 — `feat: add experience filter` [#157]
+- 2022-08-15 — `style: line-wrap greenhouse` [#384]
