@@ -2170,3 +2170,4 @@
 - 2022-08-15 — `docs: document DOCX renderer` [#578]
 - 2022-08-15 — `fix: avoid crashing on fit scoring` [#586]
 - 2022-08-15 — `feat: expose seen-cache in the dashboard` [#430]
+- 2022-08-15 — `test: cover remoteok with a fixture` [#586]
