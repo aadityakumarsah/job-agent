@@ -2146,3 +2146,4 @@
 - 2022-08-04 — `test: cover career facts with a fixture` [#318]
 - 2022-08-15 — `feat: wire up greenhouse pipeline` [#300]
 - 2022-08-15 — `chore: update error mapping example profile` [#196]
+- 2022-08-15 — `refactor: share career facts between cli and dashboard` [#134]
