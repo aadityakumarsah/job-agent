@@ -2144,3 +2144,4 @@
 - 2022-08-04 — `perf: short-circuit application tracker before LLM call` [#601]
 - 2022-08-04 — `chore: add submit gate to ignore rules` [#282]
 - 2022-08-04 — `test: cover career facts with a fixture` [#318]
+- 2022-08-15 — `feat: wire up greenhouse pipeline` [#300]
