@@ -2158,3 +2158,4 @@
 - 2022-08-15 — `perf: trim remoteok payload size` [#145]
 - 2022-08-15 — `refactor: share dashboard API between cli and dashboard` [#674]
 - 2022-08-15 — `perf: batch review gate requests` [#190]
+- 2022-08-15 — `chore: tidy playwright driver file ordering` [#705]
