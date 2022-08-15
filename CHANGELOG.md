@@ -2180,3 +2180,4 @@
 - 2022-08-15 — `feat: introduce playwright driver flag` [#192]
 - 2022-08-15 — `test: cover sr-search with a fixture` [#269]
 - 2022-08-15 — `refactor: simplify answer bank control flow` [#182]
+- 2022-08-15 — `docs: clarify greenhouse behavior` [#257]
