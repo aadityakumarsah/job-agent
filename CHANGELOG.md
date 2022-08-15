@@ -2147,3 +2147,4 @@
 - 2022-08-15 — `feat: wire up greenhouse pipeline` [#300]
 - 2022-08-15 — `chore: update error mapping example profile` [#196]
 - 2022-08-15 — `refactor: share career facts between cli and dashboard` [#134]
+- 2022-08-15 — `refactor: extract seen-cache into its own module` [#380]
