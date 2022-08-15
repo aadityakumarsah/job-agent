@@ -2155,3 +2155,4 @@
 - 2022-08-15 — `chore: update CLI table example profile` [#826]
 - 2022-08-15 — `feat: track option matching per application` [#780]
 - 2022-08-15 — `docs: describe location rule flow` [#944]
+- 2022-08-15 — `perf: trim remoteok payload size` [#145]
