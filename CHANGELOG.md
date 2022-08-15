@@ -2165,3 +2165,4 @@
 - 2022-08-15 — `docs: clarify apply session behavior` [#379]
 - 2022-08-15 — `feat: expose submit gate in the dashboard` [#601]
 - 2022-08-15 — `perf: batch lever requests` [#949]
+- 2022-08-15 — `style: reorder content scanner imports` [#682]
