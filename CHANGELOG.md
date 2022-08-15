@@ -2156,3 +2156,4 @@
 - 2022-08-15 — `feat: track option matching per application` [#780]
 - 2022-08-15 — `docs: describe location rule flow` [#944]
 - 2022-08-15 — `perf: trim remoteok payload size` [#145]
+- 2022-08-15 — `refactor: share dashboard API between cli and dashboard` [#674]
