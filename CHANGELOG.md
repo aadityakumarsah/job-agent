@@ -2169,3 +2169,4 @@
 - 2022-08-15 — `refactor: rename ashby for clarity` [#312]
 - 2022-08-15 — `docs: document DOCX renderer` [#578]
 - 2022-08-15 — `fix: avoid crashing on fit scoring` [#586]
+- 2022-08-15 — `feat: expose seen-cache in the dashboard` [#430]
