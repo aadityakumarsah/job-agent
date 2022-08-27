@@ -2194,3 +2194,4 @@
 - 2022-08-27 — `feat: cache career facts` [#264]
 - 2022-08-27 — `feat: parse submit gate from board response` [#597]
 - 2022-08-27 — `test: add offline test for playwright driver` [#364]
+- 2022-08-27 — `chore: update fit scoring example profile` [#899]
