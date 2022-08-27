@@ -2192,3 +2192,4 @@
 - 2022-08-27 — `perf: batch career facts requests` [#135]
 - 2022-08-27 — `feat: track seen-cache per application` [#454]
 - 2022-08-27 — `feat: cache career facts` [#264]
+- 2022-08-27 — `feat: parse submit gate from board response` [#597]
