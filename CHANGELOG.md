@@ -2188,3 +2188,4 @@
 - 2022-08-27 — `feat: wire up fit scoring pipeline` [#327]
 - 2022-08-27 — `style: reorder error mapping imports` [#942]
 - 2022-08-27 — `docs: expand seniority gate section` [#241]
+- 2022-08-27 — `chore: tidy seniority gate file ordering` [#493]
