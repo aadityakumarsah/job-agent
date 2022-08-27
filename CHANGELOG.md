@@ -2184,3 +2184,4 @@
 - 2022-08-15 — `chore: add apply session to ignore rules` [#202]
 - 2022-08-15 — `perf: batch submit gate requests` [#784]
 - 2022-08-27 — `chore: add config loader to ignore rules` [#881]
+- 2022-08-27 — `test: assert PDF renderer shape in tests` [#711]
