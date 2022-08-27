@@ -2187,3 +2187,4 @@
 - 2022-08-27 — `test: assert PDF renderer shape in tests` [#711]
 - 2022-08-27 — `feat: wire up fit scoring pipeline` [#327]
 - 2022-08-27 — `style: reorder error mapping imports` [#942]
+- 2022-08-27 — `docs: expand seniority gate section` [#241]
