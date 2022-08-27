@@ -2185,3 +2185,4 @@
 - 2022-08-15 — `perf: batch submit gate requests` [#784]
 - 2022-08-27 — `chore: add config loader to ignore rules` [#881]
 - 2022-08-27 — `test: assert PDF renderer shape in tests` [#711]
+- 2022-08-27 — `feat: wire up fit scoring pipeline` [#327]
