@@ -2191,3 +2191,4 @@
 - 2022-08-27 — `chore: tidy seniority gate file ordering` [#493]
 - 2022-08-27 — `perf: batch career facts requests` [#135]
 - 2022-08-27 — `feat: track seen-cache per application` [#454]
+- 2022-08-27 — `feat: cache career facts` [#264]
