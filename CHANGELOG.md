@@ -2199,3 +2199,4 @@
 - 2022-08-27 — `chore: update discovery example profile` [#824]
 - 2022-08-28 — `perf: short-circuit smartrecruiters before LLM call` [#545]
 - 2022-08-28 — `chore: add answer bank to ignore rules` [#151]
+- 2022-08-28 — `refactor: simplify seniority gate control flow` [#885]
