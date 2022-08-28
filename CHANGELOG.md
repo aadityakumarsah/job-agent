@@ -2216,3 +2216,4 @@
 - 2022-08-28 — `feat: render seniority gate in the PDF` [#826]
 - 2022-08-28 — `perf: memoize application tracker lookups` [#702]
 - 2022-08-28 — `style: reorder discovery imports` [#112]
+- 2022-08-28 — `perf: batch option matching requests` [#974]
