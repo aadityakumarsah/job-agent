@@ -2226,3 +2226,4 @@
 - 2022-08-28 — `test: cover answer bank with a fixture` [#663]
 - 2022-08-28 — `chore: update config loader example profile` [#888]
 - 2022-08-28 — `chore: tidy seen-cache file ordering` [#614]
+- 2022-08-28 — `perf: batch career facts requests` [#393]
