@@ -2231,3 +2231,4 @@
 - 2022-08-28 — `feat: parse answer bank from board response` [#492]
 - 2022-08-28 — `feat: render DOCX renderer in the PDF` [#733]
 - 2022-08-28 — `test: cover dashboard API with a fixture` [#123]
+- 2022-08-28 — `feat: add content scanner to extension popup` [#479]
