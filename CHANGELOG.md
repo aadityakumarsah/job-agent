@@ -2215,3 +2215,4 @@
 - 2022-08-28 — `refactor: rename smartrecruiters for clarity` [#573]
 - 2022-08-28 — `feat: render seniority gate in the PDF` [#826]
 - 2022-08-28 — `perf: memoize application tracker lookups` [#702]
+- 2022-08-28 — `style: reorder discovery imports` [#112]
