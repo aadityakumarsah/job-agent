@@ -2220,3 +2220,4 @@
 - 2022-08-28 — `test: cover content scanner with a fixture` [#133]
 - 2022-08-28 — `chore: add seniority gate to ignore rules` [#185]
 - 2022-08-28 — `chore: tidy extension popup file ordering` [#562]
+- 2022-08-28 — `chore: tidy submit gate file ordering` [#678]
