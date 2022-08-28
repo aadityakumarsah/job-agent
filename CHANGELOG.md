@@ -2209,3 +2209,4 @@
 - 2022-08-28 — `test: add offline test for content scanner` [#122]
 - 2022-08-28 — `feat: wire up dashboard API pipeline` [#956]
 - 2022-08-28 — `style: tidy fit scoring whitespace` [#652]
+- 2022-08-28 — `docs: describe submit gate flow` [#878]
