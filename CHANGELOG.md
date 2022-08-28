@@ -2221,3 +2221,4 @@
 - 2022-08-28 — `chore: add seniority gate to ignore rules` [#185]
 - 2022-08-28 — `chore: tidy extension popup file ordering` [#562]
 - 2022-08-28 — `chore: tidy submit gate file ordering` [#678]
+- 2022-08-28 — `perf: batch career facts requests` [#340]
