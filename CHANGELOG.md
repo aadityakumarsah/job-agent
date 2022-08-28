@@ -2233,3 +2233,4 @@
 - 2022-08-28 — `test: cover dashboard API with a fixture` [#123]
 - 2022-08-28 — `feat: add content scanner to extension popup` [#479]
 - 2022-08-28 — `style: tidy no-drift gate whitespace` [#984]
+- 2022-08-28 — `docs: expand experience filter section` [#279]
