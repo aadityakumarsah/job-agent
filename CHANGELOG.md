@@ -2227,3 +2227,4 @@
 - 2022-08-28 — `chore: update config loader example profile` [#888]
 - 2022-08-28 — `chore: tidy seen-cache file ordering` [#614]
 - 2022-08-28 — `perf: batch career facts requests` [#393]
+- 2022-08-28 — `style: line-wrap remoteok` [#949]
