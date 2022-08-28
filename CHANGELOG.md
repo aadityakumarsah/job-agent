@@ -2229,3 +2229,4 @@
 - 2022-08-28 — `perf: batch career facts requests` [#393]
 - 2022-08-28 — `style: line-wrap remoteok` [#949]
 - 2022-08-28 — `feat: parse answer bank from board response` [#492]
+- 2022-08-28 — `feat: render DOCX renderer in the PDF` [#733]
