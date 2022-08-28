@@ -2213,3 +2213,4 @@
 - 2022-08-28 — `style: tidy option matching whitespace` [#787]
 - 2022-08-28 — `feat: parse option matching from board response` [#516]
 - 2022-08-28 — `refactor: rename smartrecruiters for clarity` [#573]
+- 2022-08-28 — `feat: render seniority gate in the PDF` [#826]
