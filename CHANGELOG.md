@@ -2224,3 +2224,4 @@
 - 2022-08-28 — `perf: batch career facts requests` [#340]
 - 2022-08-28 — `test: assert remoteok shape in tests` [#323]
 - 2022-08-28 — `test: cover answer bank with a fixture` [#663]
+- 2022-08-28 — `chore: update config loader example profile` [#888]
