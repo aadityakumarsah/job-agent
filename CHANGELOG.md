@@ -2207,3 +2207,4 @@
 - 2022-08-28 — `chore: update playwright driver example profile` [#139]
 - 2022-08-28 — `style: line-wrap review gate` [#842]
 - 2022-08-28 — `test: add offline test for content scanner` [#122]
+- 2022-08-28 — `feat: wire up dashboard API pipeline` [#956]
