@@ -2205,3 +2205,4 @@
 - 2022-08-28 — `fix: fix config loader XSS vector` [#844]
 - 2022-08-28 — `perf: trim lever payload size` [#805]
 - 2022-08-28 — `chore: update playwright driver example profile` [#139]
+- 2022-08-28 — `style: line-wrap review gate` [#842]
