@@ -2201,3 +2201,4 @@
 - 2022-08-28 — `chore: add answer bank to ignore rules` [#151]
 - 2022-08-28 — `refactor: simplify seniority gate control flow` [#885]
 - 2022-08-28 — `feat: add extension popup` [#557]
+- 2022-08-28 — `feat: introduce ashby flag` [#644]
