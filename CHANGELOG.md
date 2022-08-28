@@ -2218,3 +2218,4 @@
 - 2022-08-28 — `style: reorder discovery imports` [#112]
 - 2022-08-28 — `perf: batch option matching requests` [#974]
 - 2022-08-28 — `test: cover content scanner with a fixture` [#133]
+- 2022-08-28 — `chore: add seniority gate to ignore rules` [#185]
