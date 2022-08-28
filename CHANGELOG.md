@@ -2222,3 +2222,4 @@
 - 2022-08-28 — `chore: tidy extension popup file ordering` [#562]
 - 2022-08-28 — `chore: tidy submit gate file ordering` [#678]
 - 2022-08-28 — `perf: batch career facts requests` [#340]
+- 2022-08-28 — `test: assert remoteok shape in tests` [#323]
