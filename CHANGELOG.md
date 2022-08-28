@@ -2217,3 +2217,4 @@
 - 2022-08-28 — `perf: memoize application tracker lookups` [#702]
 - 2022-08-28 — `style: reorder discovery imports` [#112]
 - 2022-08-28 — `perf: batch option matching requests` [#974]
+- 2022-08-28 — `test: cover content scanner with a fixture` [#133]
