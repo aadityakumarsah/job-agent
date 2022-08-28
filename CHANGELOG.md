@@ -2197,3 +2197,4 @@
 - 2022-08-27 — `chore: update fit scoring example profile` [#899]
 - 2022-08-27 — `fix: fix ashby on the review gate` [#534]
 - 2022-08-27 — `chore: update discovery example profile` [#824]
+- 2022-08-28 — `perf: short-circuit smartrecruiters before LLM call` [#545]
