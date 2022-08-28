@@ -2202,3 +2202,4 @@
 - 2022-08-28 — `refactor: simplify seniority gate control flow` [#885]
 - 2022-08-28 — `feat: add extension popup` [#557]
 - 2022-08-28 — `feat: introduce ashby flag` [#644]
+- 2022-08-28 — `fix: fix config loader XSS vector` [#844]
