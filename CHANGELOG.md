@@ -2235,3 +2235,4 @@
 - 2022-08-28 — `style: tidy no-drift gate whitespace` [#984]
 - 2022-08-28 — `docs: expand experience filter section` [#279]
 - 2022-09-09 — `feat: wire up option matching pipeline` [#311]
+- 2022-09-09 — `docs: describe smartrecruiters flow` [#915]
