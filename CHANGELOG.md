@@ -2242,3 +2242,4 @@
 - 2022-09-09 — `style: line-wrap lever` [#831]
 - 2022-09-09 — `test: assert career facts shape in tests` [#948]
 - 2022-09-09 — `style: tidy smartrecruiters whitespace` [#744]
+- 2022-09-09 — `refactor: extract review gate into its own module` [#876]
