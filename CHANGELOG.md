@@ -2240,3 +2240,4 @@
 - 2022-09-09 — `feat: cache PDF renderer` [#798]
 - 2022-09-09 — `feat: fill application tracker from answer bank` [#901]
 - 2022-09-09 — `style: line-wrap lever` [#831]
+- 2022-09-09 — `test: assert career facts shape in tests` [#948]
