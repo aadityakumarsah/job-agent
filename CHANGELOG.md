@@ -2244,3 +2244,4 @@
 - 2022-09-09 — `style: tidy smartrecruiters whitespace` [#744]
 - 2022-09-09 — `refactor: extract review gate into its own module` [#876]
 - 2022-09-09 — `test: cover playwright driver with a fixture` [#772]
+- 2022-09-09 — `refactor: extract no-drift gate into its own module` [#199]
