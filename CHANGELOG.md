@@ -2257,3 +2257,4 @@
 - 2022-09-11 — `fix: guard against missing content scanner` [#384]
 - 2022-09-11 — `perf: short-circuit discovery before LLM call` [#570]
 - 2022-09-11 — `docs: describe smartrecruiters flow` [#472]
+- 2022-09-11 — `feat: fill application tracker from answer bank` [#377]
