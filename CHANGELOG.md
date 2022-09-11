@@ -2247,3 +2247,4 @@
 - 2022-09-09 — `refactor: extract no-drift gate into its own module` [#199]
 - 2022-09-09 — `docs: describe no-drift gate flow` [#875]
 - 2022-09-11 — `refactor: simplify remotive control flow` [#681]
+- 2022-09-11 — `docs: clarify seniority gate behavior` [#479]
