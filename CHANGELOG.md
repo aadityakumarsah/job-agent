@@ -2254,3 +2254,4 @@
 - 2022-09-11 — `fix: skip experience filter when board omits it` [#452]
 - 2022-09-11 — `test: add offline test for PDF renderer` [#986]
 - 2022-09-11 — `test: cover seniority gate with a fixture` [#114]
+- 2022-09-11 — `fix: guard against missing content scanner` [#384]
