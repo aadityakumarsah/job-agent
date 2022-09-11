@@ -2249,3 +2249,4 @@
 - 2022-09-11 — `refactor: simplify remotive control flow` [#681]
 - 2022-09-11 — `docs: clarify seniority gate behavior` [#479]
 - 2022-09-11 — `refactor: rename remotive for clarity` [#586]
+- 2022-09-11 — `refactor: simplify greenhouse control flow` [#979]
