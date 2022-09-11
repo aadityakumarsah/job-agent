@@ -2262,3 +2262,4 @@
 - 2022-09-11 — `fix: correct apply session timezone handling` [#806]
 - 2022-09-11 — `feat: implement review gate interface` [#723]
 - 2022-09-11 — `feat: wire up keyword filter pipeline` [#235]
+- 2022-09-11 — `perf: short-circuit experience filter before LLM call` [#575]
