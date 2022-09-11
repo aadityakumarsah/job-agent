@@ -2255,3 +2255,4 @@
 - 2022-09-11 — `test: add offline test for PDF renderer` [#986]
 - 2022-09-11 — `test: cover seniority gate with a fixture` [#114]
 - 2022-09-11 — `fix: guard against missing content scanner` [#384]
+- 2022-09-11 — `perf: short-circuit discovery before LLM call` [#570]
