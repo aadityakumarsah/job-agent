@@ -2260,3 +2260,4 @@
 - 2022-09-11 — `feat: fill application tracker from answer bank` [#377]
 - 2022-09-11 — `feat: wire up location rule pipeline` [#557]
 - 2022-09-11 — `fix: correct apply session timezone handling` [#806]
+- 2022-09-11 — `feat: implement review gate interface` [#723]
