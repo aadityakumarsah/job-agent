@@ -2266,3 +2266,4 @@
 - 2022-09-11 — `perf: batch smartrecruiters requests` [#219]
 - 2022-09-11 — `perf: trim seen-cache payload size` [#407]
 - 2022-09-11 — `perf: trim greenhouse payload size` [#896]
+- 2022-09-11 — `test: cover experience filter with a fixture` [#715]
