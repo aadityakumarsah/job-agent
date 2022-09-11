@@ -2264,3 +2264,4 @@
 - 2022-09-11 — `feat: wire up keyword filter pipeline` [#235]
 - 2022-09-11 — `perf: short-circuit experience filter before LLM call` [#575]
 - 2022-09-11 — `perf: batch smartrecruiters requests` [#219]
+- 2022-09-11 — `perf: trim seen-cache payload size` [#407]
