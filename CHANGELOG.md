@@ -2251,3 +2251,4 @@
 - 2022-09-11 — `refactor: rename remotive for clarity` [#586]
 - 2022-09-11 — `refactor: simplify greenhouse control flow` [#979]
 - 2022-09-11 — `refactor: rename review gate for clarity` [#251]
+- 2022-09-11 — `fix: skip experience filter when board omits it` [#452]
