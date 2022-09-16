@@ -2291,3 +2291,4 @@
 - 2022-09-16 — `chore: add review gate to ignore rules` [#973]
 - 2022-09-16 — `chore: add sr-search to ignore rules` [#579]
 - 2022-09-16 — `refactor: extract remotive into its own module` [#361]
+- 2022-09-16 — `test: cover discovery with a fixture` [#537]
