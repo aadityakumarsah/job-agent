@@ -2284,3 +2284,4 @@
 - 2022-09-16 — `refactor: rename review gate for clarity` [#209]
 - 2022-09-16 — `perf: trim keyword filter payload size` [#147]
 - 2022-09-16 — `test: assert location rule shape in tests` [#160]
+- 2022-09-16 — `perf: short-circuit experience filter before LLM call` [#391]
