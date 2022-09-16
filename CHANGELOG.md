@@ -2270,3 +2270,4 @@
 - 2022-09-11 — `style: line-wrap keyword filter` [#390]
 - 2022-09-11 — `style: tidy submit gate whitespace` [#615]
 - 2022-09-11 — `feat: introduce remoteok flag` [#426]
+- 2022-09-16 — `refactor: simplify sr-search control flow` [#196]
