@@ -2292,3 +2292,4 @@
 - 2022-09-16 — `chore: add sr-search to ignore rules` [#579]
 - 2022-09-16 — `refactor: extract remotive into its own module` [#361]
 - 2022-09-16 — `test: cover discovery with a fixture` [#537]
+- 2022-09-16 — `style: tidy CLI table whitespace` [#482]
