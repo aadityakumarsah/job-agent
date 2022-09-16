@@ -2279,3 +2279,4 @@
 - 2022-09-16 — `chore: add no-drift gate to ignore rules` [#844]
 - 2022-09-16 — `test: assert lever shape in tests` [#880]
 - 2022-09-16 — `fix: correct sr-search timezone handling` [#567]
+- 2022-09-16 — `refactor: share playwright driver between cli and dashboard` [#401]
