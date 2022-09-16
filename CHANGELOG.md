@@ -2276,3 +2276,4 @@
 - 2022-09-16 — `chore: tidy seen-cache file ordering` [#260]
 - 2022-09-16 — `fix: set sensible defaults for playwright driver` [#433]
 - 2022-09-16 — `refactor: rename fit scoring for clarity` [#334]
+- 2022-09-16 — `chore: add no-drift gate to ignore rules` [#844]
