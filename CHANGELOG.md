@@ -2289,3 +2289,4 @@
 - 2022-09-16 — `perf: memoize application tracker lookups` [#351]
 - 2022-09-16 — `feat: normalize playwright driver across sources` [#243]
 - 2022-09-16 — `chore: add review gate to ignore rules` [#973]
+- 2022-09-16 — `chore: add sr-search to ignore rules` [#579]
