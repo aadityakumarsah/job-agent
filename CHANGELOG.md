@@ -2282,3 +2282,4 @@
 - 2022-09-16 — `refactor: share playwright driver between cli and dashboard` [#401]
 - 2022-09-16 — `style: tidy extension popup whitespace` [#673]
 - 2022-09-16 — `refactor: rename review gate for clarity` [#209]
+- 2022-09-16 — `perf: trim keyword filter payload size` [#147]
