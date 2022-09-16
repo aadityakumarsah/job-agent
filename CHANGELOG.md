@@ -2273,3 +2273,4 @@
 - 2022-09-16 — `refactor: simplify sr-search control flow` [#196]
 - 2022-09-16 — `docs: clarify submit gate behavior` [#318]
 - 2022-09-16 — `feat: wire up dashboard API pipeline` [#801]
+- 2022-09-16 — `chore: tidy seen-cache file ordering` [#260]
