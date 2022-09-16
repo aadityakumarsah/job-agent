@@ -2280,3 +2280,4 @@
 - 2022-09-16 — `test: assert lever shape in tests` [#880]
 - 2022-09-16 — `fix: correct sr-search timezone handling` [#567]
 - 2022-09-16 — `refactor: share playwright driver between cli and dashboard` [#401]
+- 2022-09-16 — `style: tidy extension popup whitespace` [#673]
