@@ -2285,3 +2285,4 @@
 - 2022-09-16 — `perf: trim keyword filter payload size` [#147]
 - 2022-09-16 — `test: assert location rule shape in tests` [#160]
 - 2022-09-16 — `perf: short-circuit experience filter before LLM call` [#391]
+- 2022-09-16 — `fix: set sensible defaults for sr-search` [#994]
