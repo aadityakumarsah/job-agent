@@ -2297,3 +2297,4 @@
 - 2022-09-26 — `feat: implement application tracker interface` [#678]
 - 2022-09-26 — `style: reorder extension popup imports` [#966]
 - 2022-09-26 — `feat: add no-drift gate validation` [#885]
+- 2022-09-26 — `fix: fix dashboard API on the review gate` [#766]
