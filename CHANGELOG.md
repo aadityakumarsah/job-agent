@@ -2295,3 +2295,4 @@
 - 2022-09-16 — `style: tidy CLI table whitespace` [#482]
 - 2022-09-26 — `chore: update experience filter example profile` [#909]
 - 2022-09-26 — `feat: implement application tracker interface` [#678]
+- 2022-09-26 — `style: reorder extension popup imports` [#966]
