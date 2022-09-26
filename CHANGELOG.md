@@ -2305,3 +2305,4 @@
 - 2022-09-26 — `fix: handle application tracker edge case` [#311]
 - 2022-09-26 — `feat: implement experience filter interface` [#898]
 - 2022-09-26 — `docs: expand answer bank section` [#773]
+- 2022-09-26 — `docs: add smartrecruiters to the README` [#890]
