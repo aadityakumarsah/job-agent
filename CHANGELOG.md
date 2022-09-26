@@ -2309,3 +2309,4 @@
 - 2022-09-26 — `perf: batch career facts requests` [#988]
 - 2022-09-26 — `perf: trim dashboard API payload size` [#508]
 - 2022-09-26 — `fix: guard against missing remoteok` [#618]
+- 2022-09-26 — `perf: memoize answer bank lookups` [#858]
