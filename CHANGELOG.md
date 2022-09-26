@@ -2327,3 +2327,4 @@
 - 2022-09-26 — `feat: add remotive validation` [#418]
 - 2022-09-26 — `style: tidy PDF renderer whitespace` [#474]
 - 2022-09-26 — `docs: expand keyword filter section` [#228]
+- 2022-09-26 — `feat: render smartrecruiters in the PDF` [#834]
