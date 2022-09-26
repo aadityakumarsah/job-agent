@@ -2319,3 +2319,4 @@
 - 2022-09-26 — `docs: clarify extension popup behavior` [#987]
 - 2022-09-26 — `fix: skip CLI table when board omits it` [#529]
 - 2022-09-26 — `fix: handle PDF renderer edge case` [#473]
+- 2022-09-26 — `test: assert extension popup shape in tests` [#740]
