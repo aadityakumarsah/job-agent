@@ -2300,3 +2300,4 @@
 - 2022-09-26 — `fix: fix dashboard API on the review gate` [#766]
 - 2022-09-26 — `style: reorder config loader imports` [#899]
 - 2022-09-26 — `refactor: extract greenhouse into its own module` [#106]
+- 2022-09-26 — `test: add offline test for option matching` [#254]
