@@ -2317,3 +2317,4 @@
 - 2022-09-26 — `chore: tidy dashboard API file ordering` [#146]
 - 2022-09-26 — `style: tidy lever whitespace` [#259]
 - 2022-09-26 — `docs: clarify extension popup behavior` [#987]
+- 2022-09-26 — `fix: skip CLI table when board omits it` [#529]
