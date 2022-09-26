@@ -2323,3 +2323,4 @@
 - 2022-09-26 — `feat: add review gate` [#439]
 - 2022-09-26 — `test: add offline test for review gate` [#147]
 - 2022-09-26 — `fix: correct ashby timezone handling` [#202]
+- 2022-09-26 — `feat: cache no-drift gate` [#587]
