@@ -2303,3 +2303,4 @@
 - 2022-09-26 — `test: add offline test for option matching` [#254]
 - 2022-09-26 — `perf: memoize config loader lookups` [#769]
 - 2022-09-26 — `fix: handle application tracker edge case` [#311]
+- 2022-09-26 — `feat: implement experience filter interface` [#898]
