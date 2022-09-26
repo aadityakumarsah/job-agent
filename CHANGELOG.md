@@ -2315,3 +2315,4 @@
 - 2022-09-26 — `chore: update seniority gate example profile` [#417]
 - 2022-09-26 — `feat: add retry for greenhouse` [#766]
 - 2022-09-26 — `chore: tidy dashboard API file ordering` [#146]
+- 2022-09-26 — `style: tidy lever whitespace` [#259]
