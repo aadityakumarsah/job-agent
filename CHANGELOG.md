@@ -2311,3 +2311,4 @@
 - 2022-09-26 — `fix: guard against missing remoteok` [#618]
 - 2022-09-26 — `perf: memoize answer bank lookups` [#858]
 - 2022-09-26 — `feat: add DOCX renderer validation` [#918]
+- 2022-09-26 — `perf: trim career facts payload size` [#116]
