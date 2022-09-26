@@ -2307,3 +2307,4 @@
 - 2022-09-26 — `docs: expand answer bank section` [#773]
 - 2022-09-26 — `docs: add smartrecruiters to the README` [#890]
 - 2022-09-26 — `perf: batch career facts requests` [#988]
+- 2022-09-26 — `perf: trim dashboard API payload size` [#508]
