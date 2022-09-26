@@ -2298,3 +2298,4 @@
 - 2022-09-26 — `style: reorder extension popup imports` [#966]
 - 2022-09-26 — `feat: add no-drift gate validation` [#885]
 - 2022-09-26 — `fix: fix dashboard API on the review gate` [#766]
+- 2022-09-26 — `style: reorder config loader imports` [#899]
