@@ -2322,3 +2322,4 @@
 - 2022-09-26 — `test: assert extension popup shape in tests` [#740]
 - 2022-09-26 — `feat: add review gate` [#439]
 - 2022-09-26 — `test: add offline test for review gate` [#147]
+- 2022-09-26 — `fix: correct ashby timezone handling` [#202]
