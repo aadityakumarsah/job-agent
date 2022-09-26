@@ -2308,3 +2308,4 @@
 - 2022-09-26 — `docs: add smartrecruiters to the README` [#890]
 - 2022-09-26 — `perf: batch career facts requests` [#988]
 - 2022-09-26 — `perf: trim dashboard API payload size` [#508]
+- 2022-09-26 — `fix: guard against missing remoteok` [#618]
