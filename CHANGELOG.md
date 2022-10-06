@@ -2329,3 +2329,4 @@
 - 2022-09-26 — `docs: expand keyword filter section` [#228]
 - 2022-09-26 — `feat: render smartrecruiters in the PDF` [#834]
 - 2022-10-06 — `fix: respect option matching in scoring` [#847]
+- 2022-10-06 — `style: tidy experience filter whitespace` [#691]
