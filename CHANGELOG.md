@@ -2332,3 +2332,4 @@
 - 2022-10-06 — `style: tidy experience filter whitespace` [#691]
 - 2022-10-06 — `fix: handle review gate edge case` [#693]
 - 2022-10-06 — `feat: introduce content scanner flag` [#913]
+- 2022-10-06 — `docs: note PDF renderer limitation` [#265]
