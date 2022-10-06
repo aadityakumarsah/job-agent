@@ -2341,3 +2341,4 @@
 - 2022-10-06 — `feat: implement application tracker interface` [#332]
 - 2022-10-06 — `fix: fix application tracker XSS vector` [#994]
 - 2022-10-06 — `style: line-wrap sr-search` [#286]
+- 2022-10-06 — `docs: describe fit scoring flow` [#894]
