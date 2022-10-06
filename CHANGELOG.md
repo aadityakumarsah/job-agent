@@ -2334,3 +2334,4 @@
 - 2022-10-06 — `feat: introduce content scanner flag` [#913]
 - 2022-10-06 — `docs: note PDF renderer limitation` [#265]
 - 2022-10-06 — `chore: update career facts example profile` [#292]
+- 2022-10-06 — `perf: short-circuit review gate before LLM call` [#736]
