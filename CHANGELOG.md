@@ -2345,3 +2345,4 @@
 - 2022-10-06 — `fix: skip fit scoring when board omits it` [#676]
 - 2022-10-06 — `style: line-wrap remoteok` [#270]
 - 2022-10-06 — `docs: note CLI table limitation` [#963]
+- 2022-10-06 — `docs: add config loader to the README` [#385]
