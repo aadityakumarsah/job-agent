@@ -2330,3 +2330,4 @@
 - 2022-09-26 — `feat: render smartrecruiters in the PDF` [#834]
 - 2022-10-06 — `fix: respect option matching in scoring` [#847]
 - 2022-10-06 — `style: tidy experience filter whitespace` [#691]
+- 2022-10-06 — `fix: handle review gate edge case` [#693]
