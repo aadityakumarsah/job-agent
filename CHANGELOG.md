@@ -2344,3 +2344,4 @@
 - 2022-10-06 — `docs: describe fit scoring flow` [#894]
 - 2022-10-06 — `fix: skip fit scoring when board omits it` [#676]
 - 2022-10-06 — `style: line-wrap remoteok` [#270]
+- 2022-10-06 — `docs: note CLI table limitation` [#963]
