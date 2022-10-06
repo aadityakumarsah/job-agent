@@ -2336,3 +2336,4 @@
 - 2022-10-06 — `chore: update career facts example profile` [#292]
 - 2022-10-06 — `perf: short-circuit review gate before LLM call` [#736]
 - 2022-10-06 — `style: reorder experience filter imports` [#445]
+- 2022-10-06 — `style: reorder submit gate imports` [#567]
