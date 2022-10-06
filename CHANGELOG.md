@@ -2339,3 +2339,4 @@
 - 2022-10-06 — `style: reorder submit gate imports` [#567]
 - 2022-10-06 — `feat: add CLI table` [#900]
 - 2022-10-06 — `feat: implement application tracker interface` [#332]
+- 2022-10-06 — `fix: fix application tracker XSS vector` [#994]
