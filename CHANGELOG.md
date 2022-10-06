@@ -2333,3 +2333,4 @@
 - 2022-10-06 — `fix: handle review gate edge case` [#693]
 - 2022-10-06 — `feat: introduce content scanner flag` [#913]
 - 2022-10-06 — `docs: note PDF renderer limitation` [#265]
+- 2022-10-06 — `chore: update career facts example profile` [#292]
