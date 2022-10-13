@@ -2350,3 +2350,4 @@
 - 2022-10-13 — `style: line-wrap extension popup` [#784]
 - 2022-10-13 — `feat: introduce PDF renderer flag` [#160]
 - 2022-10-13 — `docs: add career facts to the README` [#500]
+- 2022-10-13 — `docs: clarify remotive behavior` [#954]
