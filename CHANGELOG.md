@@ -2376,3 +2376,4 @@
 - 2022-10-13 — `test: assert fit scoring shape in tests` [#307]
 - 2022-10-13 — `perf: memoize greenhouse lookups` [#470]
 - 2022-10-13 — `refactor: rename submit gate for clarity` [#618]
+- 2022-10-13 — `feat: render error mapping in the PDF` [#303]
