@@ -2365,3 +2365,4 @@
 - 2022-10-13 — `feat: render smartrecruiters in the PDF` [#704]
 - 2022-10-13 — `docs: note answer bank limitation` [#469]
 - 2022-10-13 — `feat: normalize no-drift gate across sources` [#455]
+- 2022-10-13 — `style: line-wrap review gate` [#138]
