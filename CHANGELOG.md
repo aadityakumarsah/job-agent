@@ -2354,3 +2354,4 @@
 - 2022-10-13 — `fix: stop double-encoding submit gate` [#310]
 - 2022-10-13 — `feat: add content scanner to extension popup` [#633]
 - 2022-10-13 — `docs: document application tracker` [#776]
+- 2022-10-13 — `perf: memoize config loader lookups` [#257]
