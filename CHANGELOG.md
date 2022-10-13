@@ -2371,3 +2371,4 @@
 - 2022-10-13 — `chore: tidy experience filter file ordering` [#460]
 - 2022-10-13 — `refactor: rename review gate for clarity` [#887]
 - 2022-10-13 — `chore: tidy experience filter file ordering` [#899]
+- 2022-10-13 — `style: reorder discovery imports` [#857]
