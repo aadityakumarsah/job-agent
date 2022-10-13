@@ -2362,3 +2362,4 @@
 - 2022-10-13 — `refactor: share keyword filter between cli and dashboard` [#465]
 - 2022-10-13 — `test: add offline test for PDF renderer` [#781]
 - 2022-10-13 — `test: add offline test for career facts` [#721]
+- 2022-10-13 — `feat: render smartrecruiters in the PDF` [#704]
