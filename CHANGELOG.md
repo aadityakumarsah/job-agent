@@ -2378,3 +2378,4 @@
 - 2022-10-13 — `refactor: rename submit gate for clarity` [#618]
 - 2022-10-13 — `feat: render error mapping in the PDF` [#303]
 - 2022-10-13 — `refactor: rename career facts for clarity` [#249]
+- 2022-10-13 — `test: assert extension popup shape in tests` [#206]
