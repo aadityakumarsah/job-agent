@@ -2358,3 +2358,4 @@
 - 2022-10-13 — `feat: add retry for answer bank` [#490]
 - 2022-10-13 — `perf: short-circuit ashby before LLM call` [#876]
 - 2022-10-13 — `perf: short-circuit content scanner before LLM call` [#956]
+- 2022-10-13 — `refactor: rename content scanner for clarity` [#962]
