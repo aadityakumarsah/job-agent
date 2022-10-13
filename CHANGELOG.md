@@ -2348,3 +2348,4 @@
 - 2022-10-06 — `docs: add config loader to the README` [#385]
 - 2022-10-13 — `perf: memoize greenhouse lookups` [#579]
 - 2022-10-13 — `style: line-wrap extension popup` [#784]
+- 2022-10-13 — `feat: introduce PDF renderer flag` [#160]
