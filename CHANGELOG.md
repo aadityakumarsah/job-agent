@@ -2359,3 +2359,4 @@
 - 2022-10-13 — `perf: short-circuit ashby before LLM call` [#876]
 - 2022-10-13 — `perf: short-circuit content scanner before LLM call` [#956]
 - 2022-10-13 — `refactor: rename content scanner for clarity` [#962]
+- 2022-10-13 — `refactor: share keyword filter between cli and dashboard` [#465]
