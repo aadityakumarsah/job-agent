@@ -2370,3 +2370,4 @@
 - 2022-10-13 — `refactor: share seen-cache between cli and dashboard` [#522]
 - 2022-10-13 — `chore: tidy experience filter file ordering` [#460]
 - 2022-10-13 — `refactor: rename review gate for clarity` [#887]
+- 2022-10-13 — `chore: tidy experience filter file ordering` [#899]
