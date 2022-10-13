@@ -2367,3 +2367,4 @@
 - 2022-10-13 — `feat: normalize no-drift gate across sources` [#455]
 - 2022-10-13 — `style: line-wrap review gate` [#138]
 - 2022-10-13 — `feat: track CLI table per application` [#321]
+- 2022-10-13 — `refactor: share seen-cache between cli and dashboard` [#522]
