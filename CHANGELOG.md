@@ -2364,3 +2364,4 @@
 - 2022-10-13 — `test: add offline test for career facts` [#721]
 - 2022-10-13 — `feat: render smartrecruiters in the PDF` [#704]
 - 2022-10-13 — `docs: note answer bank limitation` [#469]
+- 2022-10-13 — `feat: normalize no-drift gate across sources` [#455]
