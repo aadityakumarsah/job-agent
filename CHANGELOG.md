@@ -2373,3 +2373,4 @@
 - 2022-10-13 — `chore: tidy experience filter file ordering` [#899]
 - 2022-10-13 — `style: reorder discovery imports` [#857]
 - 2022-10-13 — `feat: add retry for content scanner` [#754]
+- 2022-10-13 — `test: assert fit scoring shape in tests` [#307]
