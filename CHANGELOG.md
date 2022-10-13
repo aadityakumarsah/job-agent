@@ -2380,3 +2380,4 @@
 - 2022-10-13 — `refactor: rename career facts for clarity` [#249]
 - 2022-10-13 — `test: assert extension popup shape in tests` [#206]
 - 2022-10-13 — `chore: tidy application tracker file ordering` [#330]
+- 2022-10-13 — `refactor: simplify keyword filter control flow` [#126]
