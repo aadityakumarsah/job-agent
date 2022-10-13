@@ -2375,3 +2375,4 @@
 - 2022-10-13 — `feat: add retry for content scanner` [#754]
 - 2022-10-13 — `test: assert fit scoring shape in tests` [#307]
 - 2022-10-13 — `perf: memoize greenhouse lookups` [#470]
+- 2022-10-13 — `refactor: rename submit gate for clarity` [#618]
