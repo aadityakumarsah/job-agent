@@ -2360,3 +2360,4 @@
 - 2022-10-13 — `perf: short-circuit content scanner before LLM call` [#956]
 - 2022-10-13 — `refactor: rename content scanner for clarity` [#962]
 - 2022-10-13 — `refactor: share keyword filter between cli and dashboard` [#465]
+- 2022-10-13 — `test: add offline test for PDF renderer` [#781]
