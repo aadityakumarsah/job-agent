@@ -2353,3 +2353,4 @@
 - 2022-10-13 — `docs: clarify remotive behavior` [#954]
 - 2022-10-13 — `fix: stop double-encoding submit gate` [#310]
 - 2022-10-13 — `feat: add content scanner to extension popup` [#633]
+- 2022-10-13 — `docs: document application tracker` [#776]
