@@ -2386,3 +2386,4 @@
 - 2022-10-13 — `style: reorder review gate imports` [#694]
 - 2022-10-17 — `chore: add fit scoring to ignore rules` [#922]
 - 2022-10-17 — `style: reorder seen-cache imports` [#465]
+- 2022-10-17 — `style: line-wrap apply session` [#692]
