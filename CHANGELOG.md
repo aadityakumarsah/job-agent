@@ -2400,3 +2400,4 @@
 - 2022-10-17 — `fix: respect review gate in scoring` [#955]
 - 2022-10-17 — `feat: track career facts per application` [#196]
 - 2022-10-17 — `test: assert remoteok shape in tests` [#813]
+- 2022-10-17 — `chore: add PDF renderer to ignore rules` [#281]
