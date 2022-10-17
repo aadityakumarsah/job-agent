@@ -2407,3 +2407,4 @@
 - 2022-10-17 — `refactor: rename seen-cache for clarity` [#128]
 - 2022-10-17 — `fix: fix application tracker in scanner` [#293]
 - 2022-10-17 — `feat: render fit scoring in the PDF` [#993]
+- 2022-10-17 — `perf: batch discovery requests` [#823]
