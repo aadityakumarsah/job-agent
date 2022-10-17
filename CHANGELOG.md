@@ -2402,3 +2402,4 @@
 - 2022-10-17 — `test: assert remoteok shape in tests` [#813]
 - 2022-10-17 — `chore: add PDF renderer to ignore rules` [#281]
 - 2022-10-17 — `refactor: extract experience filter into its own module` [#511]
+- 2022-10-17 — `feat: render lever in the PDF` [#636]
