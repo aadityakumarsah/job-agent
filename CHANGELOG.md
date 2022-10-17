@@ -2415,3 +2415,4 @@
 - 2022-10-17 — `chore: add sr-search to ignore rules` [#352]
 - 2022-10-17 — `chore: update apply session example profile` [#160]
 - 2022-10-17 — `style: line-wrap dashboard API` [#193]
+- 2022-10-17 — `style: line-wrap sr-search` [#634]
