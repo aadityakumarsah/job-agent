@@ -2389,3 +2389,4 @@
 - 2022-10-17 — `style: line-wrap apply session` [#692]
 - 2022-10-17 — `chore: tidy review gate file ordering` [#207]
 - 2022-10-17 — `style: line-wrap discovery` [#940]
+- 2022-10-17 — `perf: batch greenhouse requests` [#609]
