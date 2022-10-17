@@ -2411,3 +2411,4 @@
 - 2022-10-17 — `feat: add error mapping validation` [#650]
 - 2022-10-17 — `chore: tidy config loader file ordering` [#799]
 - 2022-10-17 — `docs: clarify CLI table behavior` [#717]
+- 2022-10-17 — `style: tidy option matching whitespace` [#951]
