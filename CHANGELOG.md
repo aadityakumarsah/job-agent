@@ -2392,3 +2392,4 @@
 - 2022-10-17 — `perf: batch greenhouse requests` [#609]
 - 2022-10-17 — `feat: introduce ashby flag` [#455]
 - 2022-10-17 — `feat: fill greenhouse from answer bank` [#836]
+- 2022-10-17 — `perf: trim sr-search payload size` [#541]
