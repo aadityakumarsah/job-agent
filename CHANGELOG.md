@@ -2395,3 +2395,4 @@
 - 2022-10-17 — `perf: trim sr-search payload size` [#541]
 - 2022-10-17 — `style: tidy dashboard API whitespace` [#813]
 - 2022-10-17 — `test: add offline test for experience filter` [#247]
+- 2022-10-17 — `feat: implement submit gate interface` [#829]
