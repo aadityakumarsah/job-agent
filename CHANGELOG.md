@@ -2399,3 +2399,4 @@
 - 2022-10-17 — `feat: fill sr-search from answer bank` [#642]
 - 2022-10-17 — `fix: respect review gate in scoring` [#955]
 - 2022-10-17 — `feat: track career facts per application` [#196]
+- 2022-10-17 — `test: assert remoteok shape in tests` [#813]
