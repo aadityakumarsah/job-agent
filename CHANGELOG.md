@@ -2417,3 +2417,4 @@
 - 2022-10-17 — `style: line-wrap dashboard API` [#193]
 - 2022-10-17 — `style: line-wrap sr-search` [#634]
 - 2022-10-17 — `fix: fix answer bank on the review gate` [#558]
+- 2022-10-17 — `test: cover experience filter with a fixture` [#184]
