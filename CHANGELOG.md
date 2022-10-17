@@ -2416,3 +2416,4 @@
 - 2022-10-17 — `chore: update apply session example profile` [#160]
 - 2022-10-17 — `style: line-wrap dashboard API` [#193]
 - 2022-10-17 — `style: line-wrap sr-search` [#634]
+- 2022-10-17 — `fix: fix answer bank on the review gate` [#558]
