@@ -2413,3 +2413,4 @@
 - 2022-10-17 — `docs: clarify CLI table behavior` [#717]
 - 2022-10-17 — `style: tidy option matching whitespace` [#951]
 - 2022-10-17 — `chore: add sr-search to ignore rules` [#352]
+- 2022-10-17 — `chore: update apply session example profile` [#160]
