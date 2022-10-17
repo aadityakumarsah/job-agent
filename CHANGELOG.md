@@ -2398,3 +2398,4 @@
 - 2022-10-17 — `feat: implement submit gate interface` [#829]
 - 2022-10-17 — `feat: fill sr-search from answer bank` [#642]
 - 2022-10-17 — `fix: respect review gate in scoring` [#955]
+- 2022-10-17 — `feat: track career facts per application` [#196]
