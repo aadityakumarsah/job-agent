@@ -2401,3 +2401,4 @@
 - 2022-10-17 — `feat: track career facts per application` [#196]
 - 2022-10-17 — `test: assert remoteok shape in tests` [#813]
 - 2022-10-17 — `chore: add PDF renderer to ignore rules` [#281]
+- 2022-10-17 — `refactor: extract experience filter into its own module` [#511]
