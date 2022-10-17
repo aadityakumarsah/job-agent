@@ -2408,3 +2408,4 @@
 - 2022-10-17 — `fix: fix application tracker in scanner` [#293]
 - 2022-10-17 — `feat: render fit scoring in the PDF` [#993]
 - 2022-10-17 — `perf: batch discovery requests` [#823]
+- 2022-10-17 — `feat: add error mapping validation` [#650]
