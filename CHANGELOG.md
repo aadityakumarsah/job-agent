@@ -2404,3 +2404,4 @@
 - 2022-10-17 — `refactor: extract experience filter into its own module` [#511]
 - 2022-10-17 — `feat: render lever in the PDF` [#636]
 - 2022-10-17 — `chore: tidy greenhouse file ordering` [#197]
+- 2022-10-17 — `refactor: rename seen-cache for clarity` [#128]
