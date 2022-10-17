@@ -2409,3 +2409,4 @@
 - 2022-10-17 — `feat: render fit scoring in the PDF` [#993]
 - 2022-10-17 — `perf: batch discovery requests` [#823]
 - 2022-10-17 — `feat: add error mapping validation` [#650]
+- 2022-10-17 — `chore: tidy config loader file ordering` [#799]
