@@ -2422,3 +2422,4 @@
 - 2022-10-22 — `style: reorder config loader imports` [#951]
 - 2022-10-22 — `style: tidy application tracker whitespace` [#277]
 - 2022-10-22 — `refactor: extract discovery into its own module` [#494]
+- 2022-10-22 — `style: line-wrap apply session` [#636]
