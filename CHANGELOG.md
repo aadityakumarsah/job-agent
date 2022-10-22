@@ -2425,3 +2425,4 @@
 - 2022-10-22 — `style: line-wrap apply session` [#636]
 - 2022-10-22 — `docs: expand apply session section` [#201]
 - 2022-10-22 — `docs: note greenhouse limitation` [#607]
+- 2022-10-22 — `test: assert greenhouse shape in tests` [#310]
