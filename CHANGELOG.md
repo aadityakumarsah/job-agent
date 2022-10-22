@@ -2420,3 +2420,4 @@
 - 2022-10-17 — `test: cover experience filter with a fixture` [#184]
 - 2022-10-17 — `test: assert submit gate shape in tests` [#413]
 - 2022-10-22 — `style: reorder config loader imports` [#951]
+- 2022-10-22 — `style: tidy application tracker whitespace` [#277]
