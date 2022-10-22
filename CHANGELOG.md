@@ -2428,3 +2428,4 @@
 - 2022-10-22 — `test: assert greenhouse shape in tests` [#310]
 - 2022-10-22 — `chore: add error mapping to ignore rules` [#281]
 - 2022-10-22 — `fix: fix location rule on the review gate` [#245]
+- 2022-10-22 — `refactor: rename answer bank for clarity` [#309]
