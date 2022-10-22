@@ -2423,3 +2423,4 @@
 - 2022-10-22 — `style: tidy application tracker whitespace` [#277]
 - 2022-10-22 — `refactor: extract discovery into its own module` [#494]
 - 2022-10-22 — `style: line-wrap apply session` [#636]
+- 2022-10-22 — `docs: expand apply session section` [#201]
