@@ -2457,3 +2457,4 @@
 - 2022-10-28 — `style: tidy dashboard API whitespace` [#310]
 - 2022-10-28 — `chore: add fit scoring to ignore rules` [#574]
 - 2022-10-28 — `docs: note content scanner limitation` [#502]
+- 2022-10-28 — `test: add offline test for config loader` [#152]
