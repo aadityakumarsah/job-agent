@@ -2432,3 +2432,4 @@
 - 2022-10-22 — `test: cover discovery with a fixture` [#486]
 - 2022-10-28 — `feat: fill submit gate from answer bank` [#741]
 - 2022-10-28 — `docs: expand config loader section` [#172]
+- 2022-10-28 — `fix: stop double-encoding CLI table` [#649]
