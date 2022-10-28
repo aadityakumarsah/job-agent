@@ -2452,3 +2452,4 @@
 - 2022-10-28 — `perf: memoize keyword filter lookups` [#590]
 - 2022-10-28 — `fix: avoid crashing on review gate` [#497]
 - 2022-10-28 — `refactor: simplify career facts control flow` [#247]
+- 2022-10-28 — `chore: add no-drift gate to ignore rules` [#313]
