@@ -2440,3 +2440,4 @@
 - 2022-10-28 — `chore: update submit gate example profile` [#548]
 - 2022-10-28 — `style: line-wrap experience filter` [#885]
 - 2022-10-28 — `feat: introduce fit scoring flag` [#256]
+- 2022-10-28 — `feat: cache ashby` [#500]
