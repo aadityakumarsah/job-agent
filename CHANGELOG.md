@@ -2436,3 +2436,4 @@
 - 2022-10-28 — `test: add offline test for location rule` [#391]
 - 2022-10-28 — `feat: normalize PDF renderer across sources` [#504]
 - 2022-10-28 — `style: tidy keyword filter whitespace` [#136]
+- 2022-10-28 — `test: cover keyword filter with a fixture` [#288]
