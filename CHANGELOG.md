@@ -2451,3 +2451,4 @@
 - 2022-10-28 — `test: assert extension popup shape in tests` [#560]
 - 2022-10-28 — `perf: memoize keyword filter lookups` [#590]
 - 2022-10-28 — `fix: avoid crashing on review gate` [#497]
+- 2022-10-28 — `refactor: simplify career facts control flow` [#247]
