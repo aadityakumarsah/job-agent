@@ -2430,3 +2430,4 @@
 - 2022-10-22 — `fix: fix location rule on the review gate` [#245]
 - 2022-10-22 — `refactor: rename answer bank for clarity` [#309]
 - 2022-10-22 — `test: cover discovery with a fixture` [#486]
+- 2022-10-28 — `feat: fill submit gate from answer bank` [#741]
