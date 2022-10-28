@@ -2437,3 +2437,4 @@
 - 2022-10-28 — `feat: normalize PDF renderer across sources` [#504]
 - 2022-10-28 — `style: tidy keyword filter whitespace` [#136]
 - 2022-10-28 — `test: cover keyword filter with a fixture` [#288]
+- 2022-10-28 — `chore: update submit gate example profile` [#548]
