@@ -2442,3 +2442,4 @@
 - 2022-10-28 — `feat: introduce fit scoring flag` [#256]
 - 2022-10-28 — `feat: cache ashby` [#500]
 - 2022-10-28 — `docs: document seen-cache` [#443]
+- 2022-10-28 — `docs: expand remotive section` [#716]
