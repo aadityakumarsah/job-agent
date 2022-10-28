@@ -2446,3 +2446,4 @@
 - 2022-10-28 — `chore: add DOCX renderer to ignore rules` [#158]
 - 2022-10-28 — `fix: fix config loader in scanner` [#841]
 - 2022-10-28 — `docs: document discovery` [#106]
+- 2022-10-28 — `feat: add dashboard API` [#977]
