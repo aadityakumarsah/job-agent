@@ -2434,3 +2434,4 @@
 - 2022-10-28 — `docs: expand config loader section` [#172]
 - 2022-10-28 — `fix: stop double-encoding CLI table` [#649]
 - 2022-10-28 — `test: add offline test for location rule` [#391]
+- 2022-10-28 — `feat: normalize PDF renderer across sources` [#504]
