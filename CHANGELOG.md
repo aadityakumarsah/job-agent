@@ -2441,3 +2441,4 @@
 - 2022-10-28 — `style: line-wrap experience filter` [#885]
 - 2022-10-28 — `feat: introduce fit scoring flag` [#256]
 - 2022-10-28 — `feat: cache ashby` [#500]
+- 2022-10-28 — `docs: document seen-cache` [#443]
