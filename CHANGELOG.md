@@ -2447,3 +2447,4 @@
 - 2022-10-28 — `fix: fix config loader in scanner` [#841]
 - 2022-10-28 — `docs: document discovery` [#106]
 - 2022-10-28 — `feat: add dashboard API` [#977]
+- 2022-10-28 — `feat: track career facts per application` [#764]
