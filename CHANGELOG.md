@@ -2455,3 +2455,4 @@
 - 2022-10-28 — `chore: add no-drift gate to ignore rules` [#313]
 - 2022-10-28 — `perf: memoize option matching lookups` [#497]
 - 2022-10-28 — `style: tidy dashboard API whitespace` [#310]
+- 2022-10-28 — `chore: add fit scoring to ignore rules` [#574]
