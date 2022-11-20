@@ -2467,3 +2467,4 @@
 - 2022-11-20 — `feat: render config loader in the PDF` [#471]
 - 2022-11-20 — `perf: memoize smartrecruiters lookups` [#446]
 - 2022-11-20 — `fix: set sensible defaults for answer bank` [#267]
+- 2022-11-20 — `style: line-wrap seen-cache` [#743]
