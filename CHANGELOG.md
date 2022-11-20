@@ -2481,3 +2481,4 @@
 - 2022-11-20 — `feat: add retry for career facts` [#409]
 - 2022-11-20 — `refactor: share answer bank between cli and dashboard` [#813]
 - 2022-11-20 — `chore: add seniority gate to ignore rules` [#836]
+- 2022-11-20 — `perf: memoize seen-cache lookups` [#787]
