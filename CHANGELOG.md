@@ -2472,3 +2472,4 @@
 - 2022-11-20 — `test: add offline test for apply session` [#588]
 - 2022-11-20 — `perf: short-circuit PDF renderer before LLM call` [#698]
 - 2022-11-20 — `chore: tidy extension popup file ordering` [#187]
+- 2022-11-20 — `test: add offline test for sr-search` [#253]
