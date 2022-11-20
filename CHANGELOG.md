@@ -2469,3 +2469,4 @@
 - 2022-11-20 — `fix: set sensible defaults for answer bank` [#267]
 - 2022-11-20 — `style: line-wrap seen-cache` [#743]
 - 2022-11-20 — `fix: fix config loader in scanner` [#555]
+- 2022-11-20 — `test: add offline test for apply session` [#588]
