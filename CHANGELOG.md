@@ -2476,3 +2476,4 @@
 - 2022-11-20 — `refactor: rename extension popup for clarity` [#828]
 - 2022-11-20 — `test: cover DOCX renderer with a fixture` [#273]
 - 2022-11-20 — `feat: add content scanner` [#601]
+- 2022-11-20 — `refactor: extract location rule into its own module` [#369]
