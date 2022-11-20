@@ -2486,3 +2486,4 @@
 - 2022-11-20 — `fix: guard against missing seen-cache` [#685]
 - 2022-11-20 — `feat: render ashby in the PDF` [#854]
 - 2022-11-20 — `perf: short-circuit extension popup before LLM call` [#746]
+- 2022-11-20 — `fix: fix ashby in scanner` [#304]
