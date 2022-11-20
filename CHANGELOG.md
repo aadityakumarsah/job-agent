@@ -2466,3 +2466,4 @@
 - 2022-11-20 — `feat: introduce CLI table flag` [#420]
 - 2022-11-20 — `feat: render config loader in the PDF` [#471]
 - 2022-11-20 — `perf: memoize smartrecruiters lookups` [#446]
+- 2022-11-20 — `fix: set sensible defaults for answer bank` [#267]
