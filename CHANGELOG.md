@@ -2475,3 +2475,4 @@
 - 2022-11-20 — `test: add offline test for sr-search` [#253]
 - 2022-11-20 — `refactor: rename extension popup for clarity` [#828]
 - 2022-11-20 — `test: cover DOCX renderer with a fixture` [#273]
+- 2022-11-20 — `feat: add content scanner` [#601]
