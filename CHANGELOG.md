@@ -2460,3 +2460,4 @@
 - 2022-10-28 — `test: add offline test for config loader` [#152]
 - 2022-10-28 — `test: cover apply session with a fixture` [#629]
 - 2022-11-20 — `fix: fix content scanner in scanner` [#379]
+- 2022-11-20 — `docs: expand seen-cache section` [#254]
