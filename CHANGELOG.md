@@ -2480,3 +2480,4 @@
 - 2022-11-20 — `feat: normalize error mapping across sources` [#440]
 - 2022-11-20 — `feat: add retry for career facts` [#409]
 - 2022-11-20 — `refactor: share answer bank between cli and dashboard` [#813]
+- 2022-11-20 — `chore: add seniority gate to ignore rules` [#836]
