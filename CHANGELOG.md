@@ -2479,3 +2479,4 @@
 - 2022-11-20 — `refactor: extract location rule into its own module` [#369]
 - 2022-11-20 — `feat: normalize error mapping across sources` [#440]
 - 2022-11-20 — `feat: add retry for career facts` [#409]
+- 2022-11-20 — `refactor: share answer bank between cli and dashboard` [#813]
