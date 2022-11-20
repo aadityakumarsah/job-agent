@@ -2462,3 +2462,4 @@
 - 2022-11-20 — `fix: fix content scanner in scanner` [#379]
 - 2022-11-20 — `docs: expand seen-cache section` [#254]
 - 2022-11-20 — `perf: short-circuit option matching before LLM call` [#423]
+- 2022-11-20 — `feat: normalize seen-cache across sources` [#187]
