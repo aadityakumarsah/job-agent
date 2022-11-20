@@ -2468,3 +2468,4 @@
 - 2022-11-20 — `perf: memoize smartrecruiters lookups` [#446]
 - 2022-11-20 — `fix: set sensible defaults for answer bank` [#267]
 - 2022-11-20 — `style: line-wrap seen-cache` [#743]
+- 2022-11-20 — `fix: fix config loader in scanner` [#555]
