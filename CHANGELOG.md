@@ -2463,3 +2463,4 @@
 - 2022-11-20 — `docs: expand seen-cache section` [#254]
 - 2022-11-20 — `perf: short-circuit option matching before LLM call` [#423]
 - 2022-11-20 — `feat: normalize seen-cache across sources` [#187]
+- 2022-11-20 — `feat: introduce CLI table flag` [#420]
