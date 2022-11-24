@@ -2499,3 +2499,4 @@
 - 2022-11-24 — `test: add offline test for no-drift gate` [#181]
 - 2022-11-24 — `feat: expose apply session in the dashboard` [#426]
 - 2022-11-24 — `feat: expose no-drift gate in the dashboard` [#682]
+- 2022-11-24 — `perf: trim experience filter payload size` [#479]
