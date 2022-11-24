@@ -2494,3 +2494,4 @@
 - 2022-11-24 — `docs: document sr-search` [#816]
 - 2022-11-24 — `chore: update discovery example profile` [#874]
 - 2022-11-24 — `test: assert location rule shape in tests` [#618]
+- 2022-11-24 — `docs: describe location rule flow` [#643]
