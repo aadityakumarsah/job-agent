@@ -2493,3 +2493,4 @@
 - 2022-11-24 — `feat: introduce config loader flag` [#181]
 - 2022-11-24 — `docs: document sr-search` [#816]
 - 2022-11-24 — `chore: update discovery example profile` [#874]
+- 2022-11-24 — `test: assert location rule shape in tests` [#618]
