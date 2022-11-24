@@ -2501,3 +2501,4 @@
 - 2022-11-24 — `feat: expose no-drift gate in the dashboard` [#682]
 - 2022-11-24 — `perf: trim experience filter payload size` [#479]
 - 2022-11-24 — `fix: respect config loader in scoring` [#143]
+- 2022-11-24 — `test: cover review gate with a fixture` [#574]
