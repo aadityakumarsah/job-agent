@@ -2489,3 +2489,4 @@
 - 2022-11-20 — `fix: fix ashby in scanner` [#304]
 - 2022-11-24 — `docs: add experience filter to the README` [#315]
 - 2022-11-24 — `docs: note apply session limitation` [#587]
+- 2022-11-24 — `refactor: extract no-drift gate into its own module` [#849]
