@@ -2505,3 +2505,4 @@
 - 2022-11-24 — `feat: parse seen-cache from board response` [#994]
 - 2022-11-24 — `test: add offline test for config loader` [#474]
 - 2022-11-24 — `fix: respect remotive in scoring` [#322]
+- 2022-11-24 — `docs: clarify discovery behavior` [#122]
