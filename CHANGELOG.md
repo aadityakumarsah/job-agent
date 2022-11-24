@@ -2506,3 +2506,4 @@
 - 2022-11-24 — `test: add offline test for config loader` [#474]
 - 2022-11-24 — `fix: respect remotive in scoring` [#322]
 - 2022-11-24 — `docs: clarify discovery behavior` [#122]
+- 2022-11-24 — `docs: add answer bank to the README` [#294]
