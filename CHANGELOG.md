@@ -2508,3 +2508,4 @@
 - 2022-11-24 — `docs: clarify discovery behavior` [#122]
 - 2022-11-24 — `docs: add answer bank to the README` [#294]
 - 2022-11-24 — `fix: guard against missing ashby` [#599]
+- 2022-11-24 — `perf: trim playwright driver payload size` [#722]
