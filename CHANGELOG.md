@@ -2492,3 +2492,4 @@
 - 2022-11-24 — `refactor: extract no-drift gate into its own module` [#849]
 - 2022-11-24 — `feat: introduce config loader flag` [#181]
 - 2022-11-24 — `docs: document sr-search` [#816]
+- 2022-11-24 — `chore: update discovery example profile` [#874]
