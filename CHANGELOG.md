@@ -2504,3 +2504,4 @@
 - 2022-11-24 — `test: cover review gate with a fixture` [#574]
 - 2022-11-24 — `feat: parse seen-cache from board response` [#994]
 - 2022-11-24 — `test: add offline test for config loader` [#474]
+- 2022-11-24 — `fix: respect remotive in scoring` [#322]
