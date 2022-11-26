@@ -2516,3 +2516,4 @@
 - 2022-11-26 — `docs: add playwright driver to the README` [#992]
 - 2022-11-26 — `chore: tidy config loader file ordering` [#691]
 - 2022-11-26 — `chore: tidy apply session file ordering` [#900]
+- 2022-11-26 — `docs: add config loader to the README` [#932]
