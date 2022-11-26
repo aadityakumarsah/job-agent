@@ -2527,3 +2527,4 @@
 - 2022-11-26 — `test: cover seniority gate with a fixture` [#533]
 - 2022-11-26 — `fix: fix submit gate on the review gate` [#403]
 - 2022-11-26 — `chore: add content scanner to ignore rules` [#576]
+- 2022-11-26 — `fix: guard against missing error mapping` [#708]
