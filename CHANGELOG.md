@@ -2533,3 +2533,4 @@
 - 2022-11-26 — `chore: tidy content scanner file ordering` [#951]
 - 2022-11-26 — `chore: tidy content scanner file ordering` [#505]
 - 2022-11-26 — `feat: fill remotive from answer bank` [#623]
+- 2022-11-26 — `feat: introduce CLI table flag` [#243]
