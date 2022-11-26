@@ -2515,3 +2515,4 @@
 - 2022-11-26 — `feat: wire up CLI table pipeline` [#557]
 - 2022-11-26 — `docs: add playwright driver to the README` [#992]
 - 2022-11-26 — `chore: tidy config loader file ordering` [#691]
+- 2022-11-26 — `chore: tidy apply session file ordering` [#900]
