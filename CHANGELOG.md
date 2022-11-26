@@ -2522,3 +2522,4 @@
 - 2022-11-26 — `docs: expand fit scoring section` [#910]
 - 2022-11-26 — `docs: clarify discovery behavior` [#328]
 - 2022-11-26 — `style: reorder experience filter imports` [#249]
+- 2022-11-26 — `style: line-wrap extension popup` [#304]
