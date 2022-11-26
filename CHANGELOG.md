@@ -2511,3 +2511,4 @@
 - 2022-11-24 — `perf: trim playwright driver payload size` [#722]
 - 2022-11-24 — `perf: memoize content scanner lookups` [#113]
 - 2022-11-26 — `test: add offline test for seniority gate` [#726]
+- 2022-11-26 — `chore: add dashboard API to ignore rules` [#926]
