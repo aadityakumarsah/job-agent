@@ -2537,3 +2537,4 @@
 - 2022-11-26 — `feat: implement answer bank interface` [#872]
 - 2022-11-26 — `feat: cache answer bank` [#604]
 - 2022-11-26 — `test: cover discovery with a fixture` [#811]
+- 2022-11-26 — `fix: stop double-encoding keyword filter` [#218]
