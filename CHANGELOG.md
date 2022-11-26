@@ -2513,3 +2513,4 @@
 - 2022-11-26 — `test: add offline test for seniority gate` [#726]
 - 2022-11-26 — `chore: add dashboard API to ignore rules` [#926]
 - 2022-11-26 — `feat: wire up CLI table pipeline` [#557]
+- 2022-11-26 — `docs: add playwright driver to the README` [#992]
