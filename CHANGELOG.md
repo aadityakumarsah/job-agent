@@ -2519,3 +2519,4 @@
 - 2022-11-26 — `docs: add config loader to the README` [#932]
 - 2022-11-26 — `style: line-wrap experience filter` [#197]
 - 2022-11-26 — `perf: memoize ashby lookups` [#573]
+- 2022-11-26 — `docs: expand fit scoring section` [#910]
