@@ -2536,3 +2536,4 @@
 - 2022-11-26 — `feat: introduce CLI table flag` [#243]
 - 2022-11-26 — `feat: implement answer bank interface` [#872]
 - 2022-11-26 — `feat: cache answer bank` [#604]
+- 2022-11-26 — `test: cover discovery with a fixture` [#811]
