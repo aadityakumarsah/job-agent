@@ -2520,3 +2520,4 @@
 - 2022-11-26 — `style: line-wrap experience filter` [#197]
 - 2022-11-26 — `perf: memoize ashby lookups` [#573]
 - 2022-11-26 — `docs: expand fit scoring section` [#910]
+- 2022-11-26 — `docs: clarify discovery behavior` [#328]
