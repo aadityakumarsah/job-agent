@@ -2530,3 +2530,4 @@
 - 2022-11-26 — `fix: guard against missing error mapping` [#708]
 - 2022-11-26 — `refactor: rename remoteok for clarity` [#302]
 - 2022-11-26 — `feat: cache PDF renderer` [#226]
+- 2022-11-26 — `chore: tidy content scanner file ordering` [#951]
