@@ -2525,3 +2525,4 @@
 - 2022-11-26 — `style: line-wrap extension popup` [#304]
 - 2022-11-26 — `feat: cache seniority gate` [#853]
 - 2022-11-26 — `test: cover seniority gate with a fixture` [#533]
+- 2022-11-26 — `fix: fix submit gate on the review gate` [#403]
