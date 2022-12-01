@@ -2546,3 +2546,4 @@
 - 2022-12-01 — `chore: tidy application tracker file ordering` [#621]
 - 2022-12-01 — `refactor: share remoteok between cli and dashboard` [#372]
 - 2022-12-01 — `refactor: rename career facts for clarity` [#442]
+- 2022-12-01 — `refactor: share sr-search between cli and dashboard` [#562]
