@@ -2549,3 +2549,4 @@
 - 2022-12-01 — `refactor: share sr-search between cli and dashboard` [#562]
 - 2022-12-01 — `feat: normalize sr-search across sources` [#496]
 - 2022-12-01 — `refactor: rename fit scoring for clarity` [#952]
+- 2022-12-01 — `docs: document seniority gate` [#680]
