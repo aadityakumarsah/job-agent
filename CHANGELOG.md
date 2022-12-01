@@ -2543,3 +2543,4 @@
 - 2022-12-01 — `test: cover DOCX renderer with a fixture` [#874]
 - 2022-12-01 — `feat: cache ashby` [#785]
 - 2022-12-01 — `feat: add fit scoring` [#313]
+- 2022-12-01 — `chore: tidy application tracker file ordering` [#621]
