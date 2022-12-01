@@ -2539,3 +2539,4 @@
 - 2022-11-26 — `test: cover discovery with a fixture` [#811]
 - 2022-11-26 — `fix: stop double-encoding keyword filter` [#218]
 - 2022-11-26 — `style: line-wrap keyword filter` [#124]
+- 2022-12-01 — `docs: expand DOCX renderer section` [#876]
