@@ -2542,3 +2542,4 @@
 - 2022-12-01 — `docs: expand DOCX renderer section` [#876]
 - 2022-12-01 — `test: cover DOCX renderer with a fixture` [#874]
 - 2022-12-01 — `feat: cache ashby` [#785]
+- 2022-12-01 — `feat: add fit scoring` [#313]
