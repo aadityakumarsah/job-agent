@@ -2553,3 +2553,4 @@
 - 2022-12-13 — `fix: fix review gate XSS vector` [#981]
 - 2022-12-13 — `test: assert PDF renderer shape in tests` [#716]
 - 2022-12-13 — `refactor: extract extension popup into its own module` [#914]
+- 2022-12-13 — `feat: normalize greenhouse across sources` [#973]
