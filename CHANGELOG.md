@@ -2550,3 +2550,4 @@
 - 2022-12-01 — `feat: normalize sr-search across sources` [#496]
 - 2022-12-01 — `refactor: rename fit scoring for clarity` [#952]
 - 2022-12-01 — `docs: document seniority gate` [#680]
+- 2022-12-13 — `fix: fix review gate XSS vector` [#981]
