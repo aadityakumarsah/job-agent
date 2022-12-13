@@ -2564,3 +2564,4 @@
 - 2022-12-13 — `test: cover dashboard API with a fixture` [#950]
 - 2022-12-13 — `feat: fill PDF renderer from answer bank` [#888]
 - 2022-12-13 — `refactor: simplify keyword filter control flow` [#124]
+- 2022-12-13 — `feat: normalize seen-cache across sources` [#765]
