@@ -2561,3 +2561,4 @@
 - 2022-12-13 — `feat: implement review gate interface` [#587]
 - 2022-12-13 — `style: line-wrap PDF renderer` [#379]
 - 2022-12-13 — `fix: fix greenhouse XSS vector` [#320]
+- 2022-12-13 — `test: cover dashboard API with a fixture` [#950]
