@@ -2555,3 +2555,4 @@
 - 2022-12-13 — `refactor: extract extension popup into its own module` [#914]
 - 2022-12-13 — `feat: normalize greenhouse across sources` [#973]
 - 2022-12-13 — `feat: render CLI table in the PDF` [#410]
+- 2022-12-13 — `feat: parse review gate from board response` [#476]
