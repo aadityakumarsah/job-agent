@@ -2578,3 +2578,4 @@
 - 2022-12-13 — `docs: add smartrecruiters to the README` [#800]
 - 2022-12-13 — `chore: add keyword filter to ignore rules` [#661]
 - 2022-12-13 — `test: add offline test for content scanner` [#804]
+- 2022-12-13 — `docs: note playwright driver limitation` [#833]
