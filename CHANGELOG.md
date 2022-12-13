@@ -2580,3 +2580,4 @@
 - 2022-12-13 — `test: add offline test for content scanner` [#804]
 - 2022-12-13 — `docs: note playwright driver limitation` [#833]
 - 2022-12-13 — `fix: fix seniority gate XSS vector` [#173]
+- 2022-12-13 — `feat: add seniority gate` [#934]
