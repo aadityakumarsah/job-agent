@@ -2574,3 +2574,4 @@
 - 2022-12-13 — `fix: fix remotive on the review gate` [#143]
 - 2022-12-13 — `style: line-wrap remotive` [#747]
 - 2022-12-13 — `test: add offline test for application tracker` [#183]
+- 2022-12-13 — `feat: cache option matching` [#689]
