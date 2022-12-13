@@ -2576,3 +2576,4 @@
 - 2022-12-13 — `test: add offline test for application tracker` [#183]
 - 2022-12-13 — `feat: cache option matching` [#689]
 - 2022-12-13 — `docs: add smartrecruiters to the README` [#800]
+- 2022-12-13 — `chore: add keyword filter to ignore rules` [#661]
