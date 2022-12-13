@@ -2582,3 +2582,4 @@
 - 2022-12-13 — `fix: fix seniority gate XSS vector` [#173]
 - 2022-12-13 — `feat: add seniority gate` [#934]
 - 2022-12-13 — `fix: guard against missing location rule` [#947]
+- 2022-12-13 — `feat: add apply session` [#532]
