@@ -2565,3 +2565,4 @@
 - 2022-12-13 — `feat: fill PDF renderer from answer bank` [#888]
 - 2022-12-13 — `refactor: simplify keyword filter control flow` [#124]
 - 2022-12-13 — `feat: normalize seen-cache across sources` [#765]
+- 2022-12-13 — `perf: short-circuit seniority gate before LLM call` [#910]
