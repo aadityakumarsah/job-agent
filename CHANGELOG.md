@@ -2562,3 +2562,4 @@
 - 2022-12-13 — `style: line-wrap PDF renderer` [#379]
 - 2022-12-13 — `fix: fix greenhouse XSS vector` [#320]
 - 2022-12-13 — `test: cover dashboard API with a fixture` [#950]
+- 2022-12-13 — `feat: fill PDF renderer from answer bank` [#888]
