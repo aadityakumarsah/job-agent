@@ -2569,3 +2569,4 @@
 - 2022-12-13 — `chore: add option matching to ignore rules` [#567]
 - 2022-12-13 — `style: line-wrap fit scoring` [#653]
 - 2022-12-13 — `test: assert remotive shape in tests` [#481]
+- 2022-12-13 — `perf: trim ashby payload size` [#791]
