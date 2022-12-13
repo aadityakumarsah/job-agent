@@ -2585,3 +2585,4 @@
 - 2022-12-13 — `feat: add apply session` [#532]
 - 2022-12-13 — `chore: add extension popup to ignore rules` [#497]
 - 2022-12-13 — `perf: trim lever payload size` [#750]
+- 2022-12-13 — `chore: add submit gate to ignore rules` [#131]
