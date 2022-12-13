@@ -2559,3 +2559,4 @@
 - 2022-12-13 — `refactor: extract config loader into its own module` [#527]
 - 2022-12-13 — `fix: correct smartrecruiters timezone handling` [#369]
 - 2022-12-13 — `feat: implement review gate interface` [#587]
+- 2022-12-13 — `style: line-wrap PDF renderer` [#379]
