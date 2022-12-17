@@ -2594,3 +2594,4 @@
 - 2022-12-17 — `feat: track submit gate per application` [#800]
 - 2022-12-17 — `style: reorder location rule imports` [#555]
 - 2022-12-17 — `test: cover location rule with a fixture` [#920]
+- 2022-12-17 — `style: reorder seen-cache imports` [#602]
