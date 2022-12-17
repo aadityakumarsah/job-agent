@@ -2595,3 +2595,4 @@
 - 2022-12-17 — `style: reorder location rule imports` [#555]
 - 2022-12-17 — `test: cover location rule with a fixture` [#920]
 - 2022-12-17 — `style: reorder seen-cache imports` [#602]
+- 2022-12-17 — `refactor: simplify CLI table control flow` [#715]
