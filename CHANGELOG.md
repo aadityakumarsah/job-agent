@@ -2598,3 +2598,4 @@
 - 2022-12-17 — `refactor: simplify CLI table control flow` [#715]
 - 2022-12-17 — `perf: batch submit gate requests` [#597]
 - 2022-12-17 — `refactor: share keyword filter between cli and dashboard` [#287]
+- 2022-12-17 — `feat: fill CLI table from answer bank` [#203]
