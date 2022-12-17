@@ -2591,3 +2591,4 @@
 - 2022-12-17 — `feat: fill content scanner from answer bank` [#184]
 - 2022-12-17 — `test: assert lever shape in tests` [#867]
 - 2022-12-17 — `style: tidy extension popup whitespace` [#895]
+- 2022-12-17 — `feat: track submit gate per application` [#800]
