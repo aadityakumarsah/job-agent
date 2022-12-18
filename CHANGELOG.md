@@ -2601,3 +2601,4 @@
 - 2022-12-17 — `feat: fill CLI table from answer bank` [#203]
 - 2022-12-18 — `perf: trim greenhouse payload size` [#608]
 - 2022-12-18 — `style: reorder answer bank imports` [#208]
+- 2022-12-18 — `test: add offline test for fit scoring` [#168]
