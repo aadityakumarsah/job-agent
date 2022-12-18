@@ -2608,3 +2608,4 @@
 - 2022-12-18 — `refactor: extract fit scoring into its own module` [#236]
 - 2022-12-18 — `feat: render DOCX renderer in the PDF` [#215]
 - 2022-12-18 — `fix: correct sr-search timezone handling` [#427]
+- 2022-12-18 — `perf: trim application tracker payload size` [#590]
