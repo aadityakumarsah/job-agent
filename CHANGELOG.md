@@ -2602,3 +2602,4 @@
 - 2022-12-18 — `perf: trim greenhouse payload size` [#608]
 - 2022-12-18 — `style: reorder answer bank imports` [#208]
 - 2022-12-18 — `test: add offline test for fit scoring` [#168]
+- 2022-12-18 — `style: tidy ashby whitespace` [#349]
