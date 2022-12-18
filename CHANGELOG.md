@@ -2606,3 +2606,4 @@
 - 2022-12-18 — `docs: note location rule limitation` [#556]
 - 2022-12-18 — `fix: handle keyword filter edge case` [#696]
 - 2022-12-18 — `refactor: extract fit scoring into its own module` [#236]
+- 2022-12-18 — `feat: render DOCX renderer in the PDF` [#215]
