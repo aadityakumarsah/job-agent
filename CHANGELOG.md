@@ -2614,3 +2614,4 @@
 - 2022-12-21 — `refactor: extract seen-cache into its own module` [#516]
 - 2022-12-21 — `test: assert career facts shape in tests` [#128]
 - 2022-12-21 — `docs: note config loader limitation` [#866]
+- 2022-12-21 — `fix: respect submit gate in scoring` [#347]
