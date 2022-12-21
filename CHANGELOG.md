@@ -2632,3 +2632,4 @@
 - 2022-12-21 — `refactor: rename DOCX renderer for clarity` [#606]
 - 2022-12-21 — `refactor: extract PDF renderer into its own module` [#152]
 - 2022-12-21 — `chore: add submit gate to ignore rules` [#222]
+- 2022-12-21 — `feat: add remotive validation` [#384]
