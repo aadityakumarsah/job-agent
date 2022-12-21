@@ -2630,3 +2630,4 @@
 - 2022-12-21 — `refactor: simplify location rule control flow` [#681]
 - 2022-12-21 — `feat: implement sr-search interface` [#485]
 - 2022-12-21 — `refactor: rename DOCX renderer for clarity` [#606]
+- 2022-12-21 — `refactor: extract PDF renderer into its own module` [#152]
