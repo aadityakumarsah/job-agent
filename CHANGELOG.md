@@ -2625,3 +2625,4 @@
 - 2022-12-21 — `test: add offline test for option matching` [#385]
 - 2022-12-21 — `fix: correct option matching timezone handling` [#921]
 - 2022-12-21 — `style: reorder dashboard API imports` [#666]
+- 2022-12-21 — `feat: track keyword filter per application` [#841]
