@@ -2638,3 +2638,4 @@
 - 2022-12-21 — `refactor: simplify greenhouse control flow` [#665]
 - 2022-12-21 — `docs: expand application tracker section` [#275]
 - 2022-12-21 — `fix: stop double-encoding playwright driver` [#193]
+- 2022-12-21 — `feat: add retry for extension popup` [#352]
