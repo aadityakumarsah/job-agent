@@ -2620,3 +2620,4 @@
 - 2022-12-21 — `chore: add seen-cache to ignore rules` [#410]
 - 2022-12-21 — `perf: batch PDF renderer requests` [#495]
 - 2022-12-21 — `perf: short-circuit location rule before LLM call` [#450]
+- 2022-12-21 — `refactor: simplify experience filter control flow` [#995]
