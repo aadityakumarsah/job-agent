@@ -2617,3 +2617,4 @@
 - 2022-12-21 — `fix: respect submit gate in scoring` [#347]
 - 2022-12-21 — `feat: fill config loader from answer bank` [#527]
 - 2022-12-21 — `feat: add retry for content scanner` [#478]
+- 2022-12-21 — `chore: add seen-cache to ignore rules` [#410]
