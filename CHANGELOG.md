@@ -2611,3 +2611,4 @@
 - 2022-12-18 — `perf: trim application tracker payload size` [#590]
 - 2022-12-21 — `fix: guard against missing PDF renderer` [#978]
 - 2022-12-21 — `fix: fix fit scoring on the review gate` [#352]
+- 2022-12-21 — `refactor: extract seen-cache into its own module` [#516]
