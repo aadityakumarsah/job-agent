@@ -2623,3 +2623,4 @@
 - 2022-12-21 — `refactor: simplify experience filter control flow` [#995]
 - 2022-12-21 — `docs: expand discovery section` [#679]
 - 2022-12-21 — `test: add offline test for option matching` [#385]
+- 2022-12-21 — `fix: correct option matching timezone handling` [#921]
