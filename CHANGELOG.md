@@ -2636,3 +2636,4 @@
 - 2022-12-21 — `test: add offline test for lever` [#309]
 - 2022-12-21 — `chore: add keyword filter to ignore rules` [#739]
 - 2022-12-21 — `refactor: simplify greenhouse control flow` [#665]
+- 2022-12-21 — `docs: expand application tracker section` [#275]
