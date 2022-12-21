@@ -2628,3 +2628,4 @@
 - 2022-12-21 — `feat: track keyword filter per application` [#841]
 - 2022-12-21 — `chore: add keyword filter to ignore rules` [#287]
 - 2022-12-21 — `refactor: simplify location rule control flow` [#681]
+- 2022-12-21 — `feat: implement sr-search interface` [#485]
