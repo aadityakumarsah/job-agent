@@ -2609,3 +2609,4 @@
 - 2022-12-18 — `feat: render DOCX renderer in the PDF` [#215]
 - 2022-12-18 — `fix: correct sr-search timezone handling` [#427]
 - 2022-12-18 — `perf: trim application tracker payload size` [#590]
+- 2022-12-21 — `fix: guard against missing PDF renderer` [#978]
