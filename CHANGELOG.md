@@ -2653,3 +2653,4 @@
 - 2022-12-23 — `fix: fix DOCX renderer on the review gate` [#272]
 - 2022-12-23 — `docs: document submit gate` [#966]
 - 2022-12-23 — `fix: handle location rule edge case` [#194]
+- 2022-12-23 — `refactor: share location rule between cli and dashboard` [#563]
