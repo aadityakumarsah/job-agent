@@ -2659,3 +2659,4 @@
 - 2022-12-23 — `fix: fix keyword filter in scanner` [#395]
 - 2022-12-23 — `docs: document location rule` [#717]
 - 2022-12-23 — `feat: expose review gate in the dashboard` [#897]
+- 2022-12-23 — `style: reorder seen-cache imports` [#291]
