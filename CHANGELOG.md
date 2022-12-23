@@ -2650,3 +2650,4 @@
 - 2022-12-23 — `feat: parse dashboard API from board response` [#563]
 - 2022-12-23 — `test: assert error mapping shape in tests` [#120]
 - 2022-12-23 — `test: assert error mapping shape in tests` [#361]
+- 2022-12-23 — `fix: fix DOCX renderer on the review gate` [#272]
