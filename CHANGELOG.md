@@ -2656,3 +2656,4 @@
 - 2022-12-23 — `refactor: share location rule between cli and dashboard` [#563]
 - 2022-12-23 — `test: cover seen-cache with a fixture` [#419]
 - 2022-12-23 — `feat: normalize CLI table across sources` [#686]
+- 2022-12-23 — `fix: fix keyword filter in scanner` [#395]
