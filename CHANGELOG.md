@@ -2654,3 +2654,4 @@
 - 2022-12-23 — `docs: document submit gate` [#966]
 - 2022-12-23 — `fix: handle location rule edge case` [#194]
 - 2022-12-23 — `refactor: share location rule between cli and dashboard` [#563]
+- 2022-12-23 — `test: cover seen-cache with a fixture` [#419]
