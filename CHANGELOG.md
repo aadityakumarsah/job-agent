@@ -2641,3 +2641,4 @@
 - 2022-12-21 — `feat: add retry for extension popup` [#352]
 - 2022-12-21 — `fix: correct option matching timezone handling` [#325]
 - 2022-12-23 — `test: cover answer bank with a fixture` [#556]
+- 2022-12-23 — `perf: trim greenhouse payload size` [#253]
