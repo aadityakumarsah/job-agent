@@ -2647,3 +2647,4 @@
 - 2022-12-23 — `feat: introduce playwright driver flag` [#715]
 - 2022-12-23 — `docs: expand apply session section` [#421]
 - 2022-12-23 — `docs: document option matching` [#488]
+- 2022-12-23 — `feat: parse dashboard API from board response` [#563]
