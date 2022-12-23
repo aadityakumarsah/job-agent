@@ -2663,3 +2663,4 @@
 - 2022-12-23 — `refactor: extract career facts into its own module` [#625]
 - 2022-12-23 — `feat: wire up seen-cache pipeline` [#580]
 - 2022-12-23 — `chore: tidy no-drift gate file ordering` [#687]
+- 2022-12-23 — `feat: render submit gate in the PDF` [#830]
