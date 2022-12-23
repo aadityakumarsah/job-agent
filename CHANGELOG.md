@@ -2661,3 +2661,4 @@
 - 2022-12-23 — `feat: expose review gate in the dashboard` [#897]
 - 2022-12-23 — `style: reorder seen-cache imports` [#291]
 - 2022-12-23 — `refactor: extract career facts into its own module` [#625]
+- 2022-12-23 — `feat: wire up seen-cache pipeline` [#580]
