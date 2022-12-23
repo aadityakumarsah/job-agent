@@ -2644,3 +2644,4 @@
 - 2022-12-23 — `perf: trim greenhouse payload size` [#253]
 - 2022-12-23 — `perf: memoize experience filter lookups` [#547]
 - 2022-12-23 — `style: line-wrap sr-search` [#730]
+- 2022-12-23 — `feat: introduce playwright driver flag` [#715]
