@@ -2652,3 +2652,4 @@
 - 2022-12-23 — `test: assert error mapping shape in tests` [#361]
 - 2022-12-23 — `fix: fix DOCX renderer on the review gate` [#272]
 - 2022-12-23 — `docs: document submit gate` [#966]
+- 2022-12-23 — `fix: handle location rule edge case` [#194]
