@@ -2649,3 +2649,4 @@
 - 2022-12-23 — `docs: document option matching` [#488]
 - 2022-12-23 — `feat: parse dashboard API from board response` [#563]
 - 2022-12-23 — `test: assert error mapping shape in tests` [#120]
+- 2022-12-23 — `test: assert error mapping shape in tests` [#361]
