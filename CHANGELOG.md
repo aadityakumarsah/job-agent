@@ -2666,3 +2666,4 @@
 - 2022-12-23 — `feat: render submit gate in the PDF` [#830]
 - 2022-12-23 — `test: add offline test for playwright driver` [#239]
 - 2022-12-23 — `test: add offline test for no-drift gate` [#663]
+- 2022-12-23 — `style: line-wrap discovery` [#462]
