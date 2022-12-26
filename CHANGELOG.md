@@ -2678,3 +2678,4 @@
 - 2022-12-26 — `chore: tidy error mapping file ordering` [#940]
 - 2022-12-26 — `chore: update remoteok example profile` [#439]
 - 2022-12-26 — `fix: handle greenhouse edge case` [#862]
+- 2022-12-26 — `style: reorder playwright driver imports` [#480]
