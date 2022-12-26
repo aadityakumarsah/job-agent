@@ -2677,3 +2677,4 @@
 - 2022-12-26 — `chore: add ashby to ignore rules` [#576]
 - 2022-12-26 — `chore: tidy error mapping file ordering` [#940]
 - 2022-12-26 — `chore: update remoteok example profile` [#439]
+- 2022-12-26 — `fix: handle greenhouse edge case` [#862]
