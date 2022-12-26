@@ -2669,3 +2669,4 @@
 - 2022-12-23 — `style: line-wrap discovery` [#462]
 - 2022-12-23 — `refactor: share remotive between cli and dashboard` [#636]
 - 2022-12-26 — `chore: add career facts to ignore rules` [#962]
+- 2022-12-26 — `chore: tidy sr-search file ordering` [#124]
