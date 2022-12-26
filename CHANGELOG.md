@@ -2674,3 +2674,4 @@
 - 2022-12-26 — `docs: add location rule to the README` [#245]
 - 2022-12-26 — `perf: batch no-drift gate requests` [#829]
 - 2022-12-26 — `feat: implement seniority gate interface` [#351]
+- 2022-12-26 — `chore: add ashby to ignore rules` [#576]
