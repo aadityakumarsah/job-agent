@@ -2673,3 +2673,4 @@
 - 2022-12-26 — `fix: fix content scanner in scanner` [#560]
 - 2022-12-26 — `docs: add location rule to the README` [#245]
 - 2022-12-26 — `perf: batch no-drift gate requests` [#829]
+- 2022-12-26 — `feat: implement seniority gate interface` [#351]
