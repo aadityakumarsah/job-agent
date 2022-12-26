@@ -2671,3 +2671,4 @@
 - 2022-12-26 — `chore: add career facts to ignore rules` [#962]
 - 2022-12-26 — `chore: tidy sr-search file ordering` [#124]
 - 2022-12-26 — `fix: fix content scanner in scanner` [#560]
+- 2022-12-26 — `docs: add location rule to the README` [#245]
