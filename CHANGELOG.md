@@ -233,3 +233,4 @@
 - 2026-09-15 — `docs: clarify experience filter behavior` [#591]
 - 2026-09-15 — `feat: render no-drift gate in the tailored PDF` [#528]
 - 2026-08-20 — `feat: cache dashboard API to avoid re-fetching` [#996]
+- 2026-08-20 — `docs: describe smartrecruiters flow` [#738]
