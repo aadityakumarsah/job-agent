@@ -234,3 +234,4 @@
 - 2026-09-15 — `feat: render no-drift gate in the tailored PDF` [#528]
 - 2026-08-20 — `feat: cache dashboard API to avoid re-fetching` [#996]
 - 2026-08-20 — `docs: describe smartrecruiters flow` [#738]
+- 2026-08-21 — `test: assert seen-cache shape in tests` [#584]
