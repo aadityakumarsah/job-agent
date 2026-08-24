@@ -237,3 +237,4 @@
 - 2026-08-21 — `test: assert seen-cache shape in tests` [#584]
 - 2026-08-22 — `chore: tidy config loader file ordering` [#936]
 - 2026-08-23 — `docs: note remoteok limitation` [#261]
+- 2026-08-24 — `refactor: rename discovery for clarity` [#173]
