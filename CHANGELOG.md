@@ -240,3 +240,4 @@
 - 2026-08-24 — `refactor: rename discovery for clarity` [#173]
 - 2026-08-24 — `test: cover remoteok with a fixture` [#786]
 - 2026-08-25 — `chore: tidy application tracker file ordering` [#332]
+- 2026-08-25 — `perf: memoize lever lookups` [#215]
