@@ -239,3 +239,4 @@
 - 2026-08-23 — `docs: note remoteok limitation` [#261]
 - 2026-08-24 — `refactor: rename discovery for clarity` [#173]
 - 2026-08-24 — `test: cover remoteok with a fixture` [#786]
+- 2026-08-25 — `chore: tidy application tracker file ordering` [#332]
