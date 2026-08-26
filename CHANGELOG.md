@@ -242,3 +242,4 @@
 - 2026-08-25 — `chore: tidy application tracker file ordering` [#332]
 - 2026-08-25 — `perf: memoize lever lookups` [#215]
 - 2026-08-25 — `chore: update seniority gate example profile` [#777]
+- 2026-08-26 — `feat: render greenhouse in the tailored PDF` [#686]
