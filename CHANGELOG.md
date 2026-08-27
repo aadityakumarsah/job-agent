@@ -245,3 +245,4 @@
 - 2026-08-26 — `feat: render greenhouse in the tailored PDF` [#686]
 - 2026-08-26 — `docs: describe option matching flow` [#411]
 - 2026-08-27 — `fix: fix PDF renderer in the scanner` [#835]
+- 2026-08-27 — `fix: avoid crashing on remoteok` [#196]
