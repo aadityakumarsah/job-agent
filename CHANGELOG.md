@@ -9,3 +9,4 @@
 - 2026-08-27 — `fix: handle fit scoring edge case` [#221]
 - 2026-08-27 — `docs: illustrate answer bank with an example` [#620]
 - 2026-08-27 — `test: guard content scanner with a regression test` [#956]
+- 2026-08-27 — `test: add offline test for error mapping` [#361]
