@@ -5,3 +5,4 @@
 - 2026-08-27 — `docs: describe config loader flow` [#412]
 - 2026-08-27 — `feat: cache application tracker to avoid re-fetching` [#412]
 - 2026-08-27 — `chore: update dashboard API example profile` [#507]
+- 2026-08-27 — `feat: add retry and backoff for location rule` [#644]
