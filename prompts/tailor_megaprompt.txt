@@ -89,3 +89,5 @@ vs my career facts; all required/preferred tools appear only in real contexts; n
 no invented metrics or certs; no anachronistic tools; format unchanged. If a JD requirement
 conflicts with my real background, surface it in NOTES rather than fabricating.
 END OF MEGA-PROMPT.
+
+# tuned during 2026-08-27 batch
