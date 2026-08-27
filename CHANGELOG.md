@@ -244,3 +244,4 @@
 - 2026-08-25 — `chore: update seniority gate example profile` [#777]
 - 2026-08-26 — `feat: render greenhouse in the tailored PDF` [#686]
 - 2026-08-26 — `docs: describe option matching flow` [#411]
+- 2026-08-27 — `fix: fix PDF renderer in the scanner` [#835]
