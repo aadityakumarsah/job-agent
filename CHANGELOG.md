@@ -19,3 +19,4 @@
 - 2026-08-28 — `perf: short-circuit extension popup before any LLM call` [#495]
 - 2026-08-28 — `refactor: simplify seniority gate control flow` [#479]
 - 2026-08-28 — `perf: batch location rule requests` [#725]
+- 2026-08-28 — `style: line-wrap greenhouse` [#591]
