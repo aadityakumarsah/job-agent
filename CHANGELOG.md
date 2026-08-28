@@ -15,3 +15,4 @@
 - 2026-08-28 — `docs: describe config loader flow` [#542]
 - 2026-08-28 — `test: cover extension popup with a fixture` [#506]
 - 2026-08-28 — `chore: update discovery example profile` [#835]
+- 2026-08-28 — `docs: note submit gate limitation` [#783]
