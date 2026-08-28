@@ -23,3 +23,4 @@
 - 2026-08-28 — `chore: tidy discovery file ordering` [#701]
 - 2026-08-28 — `docs: describe config loader flow` [#428]
 - 2026-08-28 — `perf: batch review gate requests` [#704]
+- 2026-08-28 — `feat: persist dashboard API across scans` [#832]
