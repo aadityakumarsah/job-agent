@@ -247,3 +247,4 @@
 - 2026-08-27 — `fix: fix PDF renderer in the scanner` [#835]
 - 2026-08-27 — `fix: avoid crashing on remoteok` [#196]
 - 2026-08-27 — `feat: cache ashby to avoid re-fetching` [#359]
+- 2026-08-28 — `perf: trim seen-cache payload size` [#114]
