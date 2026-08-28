@@ -21,3 +21,4 @@
 - 2026-08-28 — `perf: batch location rule requests` [#725]
 - 2026-08-28 — `style: line-wrap greenhouse` [#591]
 - 2026-08-28 — `chore: tidy discovery file ordering` [#701]
+- 2026-08-28 — `docs: describe config loader flow` [#428]
