@@ -14,3 +14,4 @@
 - 2026-08-27 — `refactor: extract dashboard API into its own module` [#633]
 - 2026-08-28 — `docs: describe config loader flow` [#542]
 - 2026-08-28 — `test: cover extension popup with a fixture` [#506]
+- 2026-08-28 — `chore: update discovery example profile` [#835]
