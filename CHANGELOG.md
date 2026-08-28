@@ -12,3 +12,4 @@
 - 2026-08-27 — `test: add offline test for error mapping` [#361]
 - 2026-08-27 — `feat: cache remotive to avoid re-fetching` [#241]
 - 2026-08-27 — `refactor: extract dashboard API into its own module` [#633]
+- 2026-08-28 — `docs: describe config loader flow` [#542]
