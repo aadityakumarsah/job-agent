@@ -16,3 +16,4 @@
 - 2026-08-28 — `test: cover extension popup with a fixture` [#506]
 - 2026-08-28 — `chore: update discovery example profile` [#835]
 - 2026-08-28 — `docs: note submit gate limitation` [#783]
+- 2026-08-28 — `perf: short-circuit extension popup before any LLM call` [#495]
