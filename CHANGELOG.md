@@ -248,3 +248,4 @@
 - 2026-08-27 — `fix: avoid crashing on remoteok` [#196]
 - 2026-08-27 — `feat: cache ashby to avoid re-fetching` [#359]
 - 2026-08-28 — `perf: trim seen-cache payload size` [#114]
+- 2026-08-29 — `test: assert career facts shape in tests` [#554]
