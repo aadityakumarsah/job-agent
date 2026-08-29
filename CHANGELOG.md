@@ -28,3 +28,4 @@
 - 2026-08-29 — `refactor: rename smartrecruiters for clarity` [#467]
 - 2026-08-29 — `chore: tidy PDF renderer file ordering` [#177]
 - 2026-08-29 — `test: assert career facts shape in tests` [#400]
+- 2026-08-29 — `docs: illustrate remoteok with an example` [#178]
