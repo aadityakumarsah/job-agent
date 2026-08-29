@@ -26,3 +26,4 @@
 - 2026-08-28 — `feat: persist dashboard API across scans` [#832]
 - 2026-08-29 — `perf: short-circuit option matching before any LLM call` [#662]
 - 2026-08-29 — `refactor: rename smartrecruiters for clarity` [#467]
+- 2026-08-29 — `chore: tidy PDF renderer file ordering` [#177]
