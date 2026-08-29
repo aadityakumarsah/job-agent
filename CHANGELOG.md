@@ -249,3 +249,4 @@
 - 2026-08-27 — `feat: cache ashby to avoid re-fetching` [#359]
 - 2026-08-28 — `perf: trim seen-cache payload size` [#114]
 - 2026-08-29 — `test: assert career facts shape in tests` [#554]
+- 2026-08-29 — `test: add offline test for submit gate` [#574]
