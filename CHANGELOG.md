@@ -25,3 +25,4 @@
 - 2026-08-28 — `perf: batch review gate requests` [#704]
 - 2026-08-28 — `feat: persist dashboard API across scans` [#832]
 - 2026-08-29 — `perf: short-circuit option matching before any LLM call` [#662]
+- 2026-08-29 — `refactor: rename smartrecruiters for clarity` [#467]
