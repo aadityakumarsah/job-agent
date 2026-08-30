@@ -30,3 +30,4 @@
 - 2026-08-29 — `test: assert career facts shape in tests` [#400]
 - 2026-08-29 — `docs: illustrate remoteok with an example` [#178]
 - 2026-08-29 — `perf: memoize lever lookups` [#532]
+- 2026-08-30 — `fix: avoid crashing on ashby` [#558]
