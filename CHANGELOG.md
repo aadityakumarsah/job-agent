@@ -36,3 +36,4 @@
 - 2026-08-30 — `refactor: rename submit gate for clarity` [#147]
 - 2026-08-30 — `feat: add sr-search to the extension popup` [#524]
 - 2026-08-30 — `refactor: simplify sr-search control flow` [#285]
+- 2026-08-30 — `refactor: rename no-drift gate for clarity` [#147]
