@@ -34,3 +34,4 @@
 - 2026-08-30 — `perf: memoize smartrecruiters lookups` [#787]
 - 2026-08-30 — `feat: render review gate in the tailored PDF` [#758]
 - 2026-08-30 — `refactor: rename submit gate for clarity` [#147]
+- 2026-08-30 — `feat: add sr-search to the extension popup` [#524]
