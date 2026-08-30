@@ -32,3 +32,4 @@
 - 2026-08-29 — `perf: memoize lever lookups` [#532]
 - 2026-08-30 — `fix: avoid crashing on ashby` [#558]
 - 2026-08-30 — `perf: memoize smartrecruiters lookups` [#787]
+- 2026-08-30 — `feat: render review gate in the tailored PDF` [#758]
