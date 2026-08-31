@@ -47,3 +47,4 @@
 - 2026-08-31 — `refactor: extract lever into its own module` [#165]
 - 2026-08-31 — `chore: tidy discovery file ordering` [#961]
 - 2026-08-31 — `perf: memoize apply session lookups` [#375]
+- 2026-08-31 — `chore: update sr-search example profile` [#415]
