@@ -44,3 +44,4 @@
 - 2026-08-31 — `refactor: remove dead content scanner path` [#873]
 - 2026-08-31 — `feat: score DOCX renderer with the LLM` [#575]
 - 2026-08-31 — `docs: describe ashby flow` [#754]
+- 2026-08-31 — `refactor: extract lever into its own module` [#165]
