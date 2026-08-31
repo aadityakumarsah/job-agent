@@ -43,3 +43,4 @@
 - 2026-08-31 — `refactor: share CLI table between cli and dashboard` [#990]
 - 2026-08-31 — `refactor: remove dead content scanner path` [#873]
 - 2026-08-31 — `feat: score DOCX renderer with the LLM` [#575]
+- 2026-08-31 — `docs: describe ashby flow` [#754]
