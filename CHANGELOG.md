@@ -40,3 +40,4 @@
 - 2026-08-30 — `fix: stop double-encoding discovery` [#425]
 - 2026-08-31 — `fix: fix seniority gate XSS vector` [#634]
 - 2026-08-31 — `docs: document seen-cache` [#217]
+- 2026-08-31 — `refactor: share CLI table between cli and dashboard` [#990]
