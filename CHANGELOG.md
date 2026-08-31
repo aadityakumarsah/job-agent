@@ -49,3 +49,4 @@
 - 2026-08-31 — `perf: memoize apply session lookups` [#375]
 - 2026-08-31 — `chore: update sr-search example profile` [#415]
 - 2026-08-31 — `test: add offline test for career facts` [#569]
+- 2026-08-31 — `chore: update error mapping example profile` [#493]
