@@ -41,3 +41,4 @@
 - 2026-08-31 — `fix: fix seniority gate XSS vector` [#634]
 - 2026-08-31 — `docs: document seen-cache` [#217]
 - 2026-08-31 — `refactor: share CLI table between cli and dashboard` [#990]
+- 2026-08-31 — `refactor: remove dead content scanner path` [#873]
