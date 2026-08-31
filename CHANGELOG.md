@@ -38,3 +38,4 @@
 - 2026-08-30 — `refactor: simplify sr-search control flow` [#285]
 - 2026-08-30 — `refactor: rename no-drift gate for clarity` [#147]
 - 2026-08-30 — `fix: stop double-encoding discovery` [#425]
+- 2026-08-31 — `fix: fix seniority gate XSS vector` [#634]
