@@ -59,3 +59,4 @@
 - 2026-09-01 — `test: assert ashby shape in tests` [#683]
 - 2026-09-01 — `feat: normalize ashby across sources` [#535]
 - 2026-09-01 — `feat: render career facts in the tailored PDF` [#597]
+- 2026-09-01 — `feat: parse CLI table from the board response` [#113]
