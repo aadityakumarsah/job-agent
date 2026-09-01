@@ -55,3 +55,4 @@
 - 2026-09-01 — `chore: update experience filter example profile` [#897]
 - 2026-09-01 — `feat: add smartrecruiters to the extension popup` [#221]
 - 2026-09-01 — `style: tidy seniority gate whitespace` [#791]
+- 2026-09-01 — `refactor: rename dashboard API for clarity` [#590]
