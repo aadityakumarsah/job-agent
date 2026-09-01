@@ -51,3 +51,4 @@
 - 2026-08-31 — `test: add offline test for career facts` [#569]
 - 2026-08-31 — `chore: update error mapping example profile` [#493]
 - 2026-09-01 — `perf: trim application tracker payload size` [#689]
+- 2026-09-01 — `fix: skip discovery when the board omits it` [#679]
