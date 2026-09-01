@@ -53,3 +53,4 @@
 - 2026-09-01 — `perf: trim application tracker payload size` [#689]
 - 2026-09-01 — `fix: skip discovery when the board omits it` [#679]
 - 2026-09-01 — `chore: update experience filter example profile` [#897]
+- 2026-09-01 — `feat: add smartrecruiters to the extension popup` [#221]
