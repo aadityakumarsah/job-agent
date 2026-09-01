@@ -57,3 +57,4 @@
 - 2026-09-01 — `style: tidy seniority gate whitespace` [#791]
 - 2026-09-01 — `refactor: rename dashboard API for clarity` [#590]
 - 2026-09-01 — `test: assert ashby shape in tests` [#683]
+- 2026-09-01 — `feat: normalize ashby across sources` [#535]
