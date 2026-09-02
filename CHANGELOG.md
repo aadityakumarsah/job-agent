@@ -67,3 +67,4 @@
 - 2026-09-02 — `test: cover smartrecruiters with a fixture` [#998]
 - 2026-09-02 — `refactor: simplify lever control flow` [#974]
 - 2026-09-02 — `style: tidy apply session whitespace` [#461]
+- 2026-09-02 — `chore: tidy smartrecruiters file ordering` [#696]
