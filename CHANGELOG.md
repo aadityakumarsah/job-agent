@@ -77,3 +77,4 @@
 - 2026-09-02 — `feat: add retry and backoff for keyword filter` [#175]
 - 2026-09-02 — `test: cover extension popup with a fixture` [#934]
 - 2026-09-02 — `chore: add seniority gate to ignore rules` [#730]
+- 2026-09-02 — `fix: skip review gate when the board omits it` [#208]
