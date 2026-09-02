@@ -66,3 +66,4 @@
 - 2026-09-02 — `feat: render PDF renderer in the tailored PDF` [#350]
 - 2026-09-02 — `test: cover smartrecruiters with a fixture` [#998]
 - 2026-09-02 — `refactor: simplify lever control flow` [#974]
+- 2026-09-02 — `style: tidy apply session whitespace` [#461]
