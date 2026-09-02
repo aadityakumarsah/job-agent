@@ -69,3 +69,4 @@
 - 2026-09-02 — `style: tidy apply session whitespace` [#461]
 - 2026-09-02 — `chore: tidy smartrecruiters file ordering` [#696]
 - 2026-09-02 — `chore: update seen-cache example profile` [#297]
+- 2026-09-02 — `style: line-wrap PDF renderer` [#184]
