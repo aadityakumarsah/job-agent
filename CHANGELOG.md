@@ -63,3 +63,4 @@
 - 2026-09-01 — `style: tidy dashboard API whitespace` [#754]
 - 2026-09-01 — `feat: implement ashby interface` [#290]
 - 2026-09-02 — `chore: update no-drift gate example profile` [#705]
+- 2026-09-02 — `feat: render PDF renderer in the tailored PDF` [#350]
