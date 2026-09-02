@@ -73,3 +73,4 @@
 - 2026-09-02 — `test: assert submit gate shape in tests` [#254]
 - 2026-09-02 — `chore: update seen-cache example profile` [#337]
 - 2026-09-02 — `fix: fix answer bank on the review gate` [#756]
+- 2026-09-02 — `fix: guard against missing content scanner` [#812]
