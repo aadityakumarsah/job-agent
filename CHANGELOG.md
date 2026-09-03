@@ -89,3 +89,4 @@
 - 2026-09-03 — `feat: append career facts to the apply log` [#325]
 - 2026-09-03 — `perf: batch answer bank requests` [#409]
 - 2026-09-03 — `test: assert config loader shape in tests` [#108]
+- 2026-09-03 — `test: guard application tracker with a regression test` [#899]
