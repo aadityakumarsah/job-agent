@@ -81,3 +81,4 @@
 - 2026-09-03 — `feat: score discovery with the LLM` [#700]
 - 2026-09-03 — `test: cover content scanner with a fixture` [#772]
 - 2026-09-03 — `chore: update option matching example profile` [#661]
+- 2026-09-03 — `docs: note answer bank limitation` [#807]
