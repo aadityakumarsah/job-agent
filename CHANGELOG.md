@@ -96,3 +96,4 @@
 - 2026-09-03 — `fix: set sensible defaults for DOCX renderer` [#841]
 - 2026-09-03 — `chore: add experience filter to ignore rules` [#582]
 - 2026-09-03 — `chore: add playwright driver to ignore rules` [#836]
+- 2026-09-03 — `feat: cache application tracker to avoid re-fetching` [#583]
