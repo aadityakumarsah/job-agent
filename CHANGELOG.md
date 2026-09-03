@@ -79,3 +79,4 @@
 - 2026-09-02 — `chore: add seniority gate to ignore rules` [#730]
 - 2026-09-02 — `fix: skip review gate when the board omits it` [#208]
 - 2026-09-03 — `feat: score discovery with the LLM` [#700]
+- 2026-09-03 — `test: cover content scanner with a fixture` [#772]
