@@ -83,3 +83,4 @@
 - 2026-09-03 — `chore: update option matching example profile` [#661]
 - 2026-09-03 — `docs: note answer bank limitation` [#807]
 - 2026-09-03 — `chore: add apply session to ignore rules` [#365]
+- 2026-09-03 — `docs: expand DOCX renderer section` [#356]
