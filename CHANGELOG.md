@@ -94,3 +94,4 @@
 - 2026-09-03 — `feat: detect ashby and pause for the human` [#589]
 - 2026-09-03 — `perf: batch extension popup requests` [#974]
 - 2026-09-03 — `fix: set sensible defaults for DOCX renderer` [#841]
+- 2026-09-03 — `chore: add experience filter to ignore rules` [#582]
