@@ -98,3 +98,4 @@
 - 2026-09-03 — `chore: add playwright driver to ignore rules` [#836]
 - 2026-09-03 — `feat: cache application tracker to avoid re-fetching` [#583]
 - 2026-09-03 — `fix: stop double-encoding application tracker` [#349]
+- 2026-09-03 — `refactor: simplify dashboard API control flow` [#863]
