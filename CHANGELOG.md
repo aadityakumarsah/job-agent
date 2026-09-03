@@ -87,3 +87,4 @@
 - 2026-09-03 — `chore: tidy fit scoring file ordering` [#302]
 - 2026-09-03 — `chore: add seen-cache to ignore rules` [#481]
 - 2026-09-03 — `feat: append career facts to the apply log` [#325]
+- 2026-09-03 — `perf: batch answer bank requests` [#409]
