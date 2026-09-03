@@ -93,3 +93,4 @@
 - 2026-09-03 — `feat: fill submit gate from the answer bank` [#635]
 - 2026-09-03 — `feat: detect ashby and pause for the human` [#589]
 - 2026-09-03 — `perf: batch extension popup requests` [#974]
+- 2026-09-03 — `fix: set sensible defaults for DOCX renderer` [#841]
