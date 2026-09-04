@@ -109,3 +109,4 @@
 - 2026-09-04 — `fix: fix fit scoring XSS vector` [#834]
 - 2026-09-04 — `feat: append PDF renderer to the apply log` [#387]
 - 2026-09-04 — `test: assert config loader shape in tests` [#163]
+- 2026-09-04 — `test: guard option matching with a regression test` [#474]
