@@ -105,3 +105,4 @@
 - 2026-09-04 — `docs: describe sr-search flow` [#252]
 - 2026-09-04 — `style: line-wrap playwright driver` [#963]
 - 2026-09-04 — `test: add offline test for application tracker` [#490]
+- 2026-09-04 — `feat: add retry and backoff for DOCX renderer` [#103]
