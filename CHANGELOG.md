@@ -102,3 +102,4 @@
 - 2026-09-03 — `fix: repair sr-search ignore rule` [#256]
 - 2026-09-04 — `style: line-wrap lever` [#299]
 - 2026-09-04 — `refactor: simplify DOCX renderer control flow` [#688]
+- 2026-09-04 — `docs: describe sr-search flow` [#252]
