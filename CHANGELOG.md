@@ -114,3 +114,4 @@
 - 2026-09-04 — `chore: update config loader example profile` [#572]
 - 2026-09-04 — `feat: add answer bank to the extension popup` [#427]
 - 2026-09-04 — `refactor: extract remotive into its own module` [#978]
+- 2026-09-04 — `fix: respect error mapping in scoring` [#388]
