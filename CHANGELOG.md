@@ -107,3 +107,4 @@
 - 2026-09-04 — `test: add offline test for application tracker` [#490]
 - 2026-09-04 — `feat: add retry and backoff for DOCX renderer` [#103]
 - 2026-09-04 — `fix: fix fit scoring XSS vector` [#834]
+- 2026-09-04 — `feat: append PDF renderer to the apply log` [#387]
