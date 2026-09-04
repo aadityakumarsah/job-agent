@@ -111,3 +111,4 @@
 - 2026-09-04 — `test: assert config loader shape in tests` [#163]
 - 2026-09-04 — `test: guard option matching with a regression test` [#474]
 - 2026-09-04 — `refactor: rename seen-cache for clarity` [#584]
+- 2026-09-04 — `chore: update config loader example profile` [#572]
