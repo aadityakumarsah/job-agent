@@ -100,3 +100,4 @@
 - 2026-09-03 — `fix: stop double-encoding application tracker` [#349]
 - 2026-09-03 — `refactor: simplify dashboard API control flow` [#863]
 - 2026-09-03 — `fix: repair sr-search ignore rule` [#256]
+- 2026-09-04 — `style: line-wrap lever` [#299]
