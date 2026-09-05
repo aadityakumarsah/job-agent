@@ -116,3 +116,4 @@
 - 2026-09-04 — `refactor: extract remotive into its own module` [#978]
 - 2026-09-04 — `fix: respect error mapping in scoring` [#388]
 - 2026-09-05 — `perf: batch apply session requests` [#942]
+- 2026-09-05 — `refactor: simplify seen-cache control flow` [#517]
