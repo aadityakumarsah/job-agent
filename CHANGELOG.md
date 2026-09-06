@@ -118,3 +118,4 @@
 - 2026-09-05 — `perf: batch apply session requests` [#942]
 - 2026-09-05 — `refactor: simplify seen-cache control flow` [#517]
 - 2026-09-05 — `test: guard seen-cache with a regression test` [#439]
+- 2026-09-06 — `feat: fill location rule from the answer bank` [#439]
