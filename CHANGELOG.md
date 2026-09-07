@@ -134,3 +134,4 @@
 - 2026-09-07 — `feat: add support for PDF renderer` [#406]
 - 2026-09-07 — `chore: add application tracker to ignore rules` [#150]
 - 2026-09-07 — `test: guard location rule with a regression test` [#719]
+- 2026-09-07 — `perf: batch seen-cache requests` [#216]
