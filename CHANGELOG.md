@@ -137,3 +137,4 @@
 - 2026-09-07 — `perf: batch seen-cache requests` [#216]
 - 2026-09-07 — `test: guard remoteok with a regression test` [#617]
 - 2026-09-07 — `refactor: simplify keyword filter control flow` [#400]
+- 2026-09-07 — `style: tidy dashboard API whitespace` [#539]
