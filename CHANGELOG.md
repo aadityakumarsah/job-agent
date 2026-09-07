@@ -129,3 +129,4 @@
 - 2026-09-07 — `test: cover config loader with a fixture` [#545]
 - 2026-09-07 — `style: line-wrap playwright driver` [#952]
 - 2026-09-07 — `style: tidy application tracker whitespace` [#745]
+- 2026-09-07 — `fix: fix CLI table in the scanner` [#950]
