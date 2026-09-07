@@ -126,3 +126,4 @@
 - 2026-09-07 — `feat: render discovery in the tailored PDF` [#605]
 - 2026-09-07 — `feat: fill seen-cache from the answer bank` [#296]
 - 2026-09-07 — `perf: short-circuit dashboard API before any LLM call` [#669]
+- 2026-09-07 — `test: cover config loader with a fixture` [#545]
