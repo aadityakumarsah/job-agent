@@ -132,3 +132,4 @@
 - 2026-09-07 — `fix: fix CLI table in the scanner` [#950]
 - 2026-09-07 — `feat: introduce config loader flag` [#751]
 - 2026-09-07 — `feat: add support for PDF renderer` [#406]
+- 2026-09-07 — `chore: add application tracker to ignore rules` [#150]
