@@ -122,3 +122,4 @@
 - 2026-09-06 — `style: tidy option matching whitespace` [#602]
 - 2026-09-07 — `chore: tidy answer bank file ordering` [#114]
 - 2026-09-07 — `perf: batch keyword filter requests` [#578]
+- 2026-09-07 — `test: test lever retry-then-succeed` [#716]
