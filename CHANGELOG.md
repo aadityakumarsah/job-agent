@@ -123,3 +123,4 @@
 - 2026-09-07 — `chore: tidy answer bank file ordering` [#114]
 - 2026-09-07 — `perf: batch keyword filter requests` [#578]
 - 2026-09-07 — `test: test lever retry-then-succeed` [#716]
+- 2026-09-07 — `feat: render discovery in the tailored PDF` [#605]
