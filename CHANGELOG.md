@@ -135,3 +135,4 @@
 - 2026-09-07 — `chore: add application tracker to ignore rules` [#150]
 - 2026-09-07 — `test: guard location rule with a regression test` [#719]
 - 2026-09-07 — `perf: batch seen-cache requests` [#216]
+- 2026-09-07 — `test: guard remoteok with a regression test` [#617]
