@@ -130,3 +130,4 @@
 - 2026-09-07 — `style: line-wrap playwright driver` [#952]
 - 2026-09-07 — `style: tidy application tracker whitespace` [#745]
 - 2026-09-07 — `fix: fix CLI table in the scanner` [#950]
+- 2026-09-07 — `feat: introduce config loader flag` [#751]
