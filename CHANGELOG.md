@@ -120,3 +120,4 @@
 - 2026-09-05 — `test: guard seen-cache with a regression test` [#439]
 - 2026-09-06 — `feat: fill location rule from the answer bank` [#439]
 - 2026-09-06 — `style: tidy option matching whitespace` [#602]
+- 2026-09-07 — `chore: tidy answer bank file ordering` [#114]
