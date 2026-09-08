@@ -142,3 +142,4 @@
 - 2026-09-08 — `feat: add support for remoteok` [#942]
 - 2026-09-08 — `docs: clarify greenhouse behavior` [#212]
 - 2026-09-08 — `fix: repair option matching ignore rule` [#299]
+- 2026-09-08 — `refactor: simplify discovery control flow` [#364]
