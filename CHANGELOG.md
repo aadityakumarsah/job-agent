@@ -140,3 +140,4 @@
 - 2026-09-07 — `style: tidy dashboard API whitespace` [#539]
 - 2026-09-07 — `fix: set sensible defaults for dashboard API` [#632]
 - 2026-09-08 — `feat: add support for remoteok` [#942]
+- 2026-09-08 — `docs: clarify greenhouse behavior` [#212]
