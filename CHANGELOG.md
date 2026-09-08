@@ -150,3 +150,4 @@
 - 2026-09-08 — `style: line-wrap seen-cache` [#202]
 - 2026-09-08 — `feat: track seen-cache per application` [#783]
 - 2026-09-08 — `chore: tidy lever file ordering` [#696]
+- 2026-09-08 — `style: reorder submit gate imports` [#532]
