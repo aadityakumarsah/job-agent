@@ -145,3 +145,4 @@
 - 2026-09-08 — `refactor: simplify discovery control flow` [#364]
 - 2026-09-08 — `style: line-wrap config loader` [#356]
 - 2026-09-08 — `test: add offline test for error mapping` [#360]
+- 2026-09-08 — `perf: memoize keyword filter lookups` [#262]
