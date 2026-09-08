@@ -157,3 +157,4 @@
 - 2026-09-08 — `test: cover lever with a fixture` [#484]
 - 2026-09-08 — `docs: describe review gate flow` [#709]
 - 2026-09-08 — `style: line-wrap experience filter` [#445]
+- 2026-09-08 — `docs: expand PDF renderer section` [#879]
