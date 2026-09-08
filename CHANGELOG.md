@@ -155,3 +155,4 @@
 - 2026-09-08 — `test: cover content scanner with a fixture` [#345]
 - 2026-09-08 — `feat: wire up content scanner pipeline` [#529]
 - 2026-09-08 — `test: cover lever with a fixture` [#484]
+- 2026-09-08 — `docs: describe review gate flow` [#709]
