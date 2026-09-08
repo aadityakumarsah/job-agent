@@ -139,3 +139,4 @@
 - 2026-09-07 — `refactor: simplify keyword filter control flow` [#400]
 - 2026-09-07 — `style: tidy dashboard API whitespace` [#539]
 - 2026-09-07 — `fix: set sensible defaults for dashboard API` [#632]
+- 2026-09-08 — `feat: add support for remoteok` [#942]
