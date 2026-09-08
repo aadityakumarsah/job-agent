@@ -149,3 +149,4 @@
 - 2026-09-08 — `refactor: share extension popup between cli and dashboard` [#119]
 - 2026-09-08 — `style: line-wrap seen-cache` [#202]
 - 2026-09-08 — `feat: track seen-cache per application` [#783]
+- 2026-09-08 — `chore: tidy lever file ordering` [#696]
