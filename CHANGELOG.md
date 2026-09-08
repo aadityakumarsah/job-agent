@@ -153,3 +153,4 @@
 - 2026-09-08 — `style: reorder submit gate imports` [#532]
 - 2026-09-08 — `perf: memoize keyword filter lookups` [#506]
 - 2026-09-08 — `test: cover content scanner with a fixture` [#345]
+- 2026-09-08 — `feat: wire up content scanner pipeline` [#529]
