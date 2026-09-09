@@ -160,3 +160,4 @@
 - 2026-09-08 — `docs: expand PDF renderer section` [#879]
 - 2026-09-08 — `feat: score content scanner with the LLM` [#465]
 - 2026-09-09 — `chore: add ashby to ignore rules` [#896]
+- 2026-09-09 — `feat: normalize greenhouse across sources` [#774]
