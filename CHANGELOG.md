@@ -171,3 +171,4 @@
 - 2026-09-09 — `feat: normalize dashboard API across sources` [#878]
 - 2026-09-09 — `feat: add support for dashboard API` [#843]
 - 2026-09-09 — `perf: memoize CLI table lookups` [#140]
+- 2026-09-09 — `docs: describe DOCX renderer flow` [#981]
