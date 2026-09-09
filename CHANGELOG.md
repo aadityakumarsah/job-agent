@@ -163,3 +163,4 @@
 - 2026-09-09 — `feat: normalize greenhouse across sources` [#774]
 - 2026-09-09 — `fix: set sensible defaults for playwright driver` [#901]
 - 2026-09-09 — `docs: expand remoteok section` [#181]
+- 2026-09-09 — `perf: batch ashby requests` [#423]
