@@ -166,3 +166,4 @@
 - 2026-09-09 — `perf: batch ashby requests` [#423]
 - 2026-09-09 — `refactor: simplify experience filter control flow` [#713]
 - 2026-09-09 — `refactor: extract CLI table into its own module` [#764]
+- 2026-09-09 — `chore: tidy fit scoring file ordering` [#508]
