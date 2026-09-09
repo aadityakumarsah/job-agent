@@ -165,3 +165,4 @@
 - 2026-09-09 — `docs: expand remoteok section` [#181]
 - 2026-09-09 — `perf: batch ashby requests` [#423]
 - 2026-09-09 — `refactor: simplify experience filter control flow` [#713]
+- 2026-09-09 — `refactor: extract CLI table into its own module` [#764]
