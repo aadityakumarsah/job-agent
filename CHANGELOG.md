@@ -169,3 +169,4 @@
 - 2026-09-09 — `chore: tidy fit scoring file ordering` [#508]
 - 2026-09-09 — `chore: add experience filter to ignore rules` [#648]
 - 2026-09-09 — `feat: normalize dashboard API across sources` [#878]
+- 2026-09-09 — `feat: add support for dashboard API` [#843]
