@@ -177,3 +177,4 @@
 - 2026-09-10 — `chore: update ashby example profile` [#943]
 - 2026-09-10 — `feat: score apply session with the LLM` [#850]
 - 2026-09-10 — `test: cover submit gate with a fixture` [#474]
+- 2026-09-10 — `chore: add career facts to ignore rules` [#205]
