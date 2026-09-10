@@ -174,3 +174,4 @@
 - 2026-09-09 — `docs: describe DOCX renderer flow` [#981]
 - 2026-09-10 — `feat: score DOCX renderer with the LLM` [#419]
 - 2026-09-10 — `feat: expose career facts in the dashboard` [#238]
+- 2026-09-10 — `chore: update ashby example profile` [#943]
