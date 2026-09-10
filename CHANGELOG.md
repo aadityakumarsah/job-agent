@@ -179,3 +179,4 @@
 - 2026-09-10 — `test: cover submit gate with a fixture` [#474]
 - 2026-09-10 — `chore: add career facts to ignore rules` [#205]
 - 2026-09-10 — `feat: render experience filter in the tailored PDF` [#206]
+- 2026-09-10 — `refactor: extract remotive into its own module` [#143]
