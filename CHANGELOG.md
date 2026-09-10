@@ -172,3 +172,4 @@
 - 2026-09-09 — `feat: add support for dashboard API` [#843]
 - 2026-09-09 — `perf: memoize CLI table lookups` [#140]
 - 2026-09-09 — `docs: describe DOCX renderer flow` [#981]
+- 2026-09-10 — `feat: score DOCX renderer with the LLM` [#419]
