@@ -191,3 +191,4 @@
 - 2026-09-11 — `fix: correct smartrecruiters timezone handling` [#369]
 - 2026-09-11 — `chore: update dashboard API example profile` [#923]
 - 2026-09-11 — `test: assert lever shape in tests` [#741]
+- 2026-09-11 — `feat: add retry and backoff for apply session` [#628]
