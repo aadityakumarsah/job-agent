@@ -192,3 +192,4 @@
 - 2026-09-11 — `chore: update dashboard API example profile` [#923]
 - 2026-09-11 — `test: assert lever shape in tests` [#741]
 - 2026-09-11 — `feat: add retry and backoff for apply session` [#628]
+- 2026-09-11 — `chore: add career facts to ignore rules` [#903]
