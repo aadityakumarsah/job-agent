@@ -197,3 +197,4 @@
 - 2026-09-11 — `chore: tidy no-drift gate file ordering` [#647]
 - 2026-09-11 — `refactor: share fit scoring between cli and dashboard` [#224]
 - 2026-09-11 — `docs: clarify greenhouse behavior` [#737]
+- 2026-09-11 — `fix: stop double-encoding CLI table` [#551]
