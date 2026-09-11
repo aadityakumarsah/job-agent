@@ -194,3 +194,4 @@
 - 2026-09-11 — `feat: add retry and backoff for apply session` [#628]
 - 2026-09-11 — `chore: add career facts to ignore rules` [#903]
 - 2026-09-11 — `docs: clarify greenhouse behavior` [#680]
+- 2026-09-11 — `chore: tidy no-drift gate file ordering` [#647]
