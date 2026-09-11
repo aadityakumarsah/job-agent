@@ -187,3 +187,4 @@
 - 2026-09-11 — `feat: score ashby with the LLM` [#849]
 - 2026-09-11 — `docs: expand no-drift gate section` [#160]
 - 2026-09-11 — `perf: trim ashby payload size` [#734]
+- 2026-09-11 — `feat: track content scanner per application` [#382]
