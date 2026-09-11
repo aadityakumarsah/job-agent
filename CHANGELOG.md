@@ -181,3 +181,4 @@
 - 2026-09-10 — `feat: render experience filter in the tailored PDF` [#206]
 - 2026-09-10 — `refactor: extract remotive into its own module` [#143]
 - 2026-09-10 — `fix: avoid crashing on remoteok` [#185]
+- 2026-09-11 — `docs: illustrate keyword filter with an example` [#763]
