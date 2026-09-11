@@ -185,3 +185,4 @@
 - 2026-09-11 — `chore: update config loader example profile` [#212]
 - 2026-09-11 — `style: tidy apply session whitespace` [#472]
 - 2026-09-11 — `feat: score ashby with the LLM` [#849]
+- 2026-09-11 — `docs: expand no-drift gate section` [#160]
