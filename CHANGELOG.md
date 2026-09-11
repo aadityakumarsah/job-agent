@@ -188,3 +188,4 @@
 - 2026-09-11 — `docs: expand no-drift gate section` [#160]
 - 2026-09-11 — `perf: trim ashby payload size` [#734]
 - 2026-09-11 — `feat: track content scanner per application` [#382]
+- 2026-09-11 — `fix: correct smartrecruiters timezone handling` [#369]
