@@ -202,3 +202,4 @@
 - 2026-09-12 — `chore: tidy CLI table file ordering` [#714]
 - 2026-09-12 — `refactor: share submit gate between cli and dashboard` [#698]
 - 2026-09-12 — `feat: append remotive to the apply log` [#137]
+- 2026-09-12 — `docs: clarify remotive behavior` [#902]
