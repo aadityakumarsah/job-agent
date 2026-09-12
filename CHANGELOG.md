@@ -200,3 +200,4 @@
 - 2026-09-11 — `fix: stop double-encoding CLI table` [#551]
 - 2026-09-12 — `perf: trim lever payload size` [#277]
 - 2026-09-12 — `chore: tidy CLI table file ordering` [#714]
+- 2026-09-12 — `refactor: share submit gate between cli and dashboard` [#698]
