@@ -203,3 +203,4 @@
 - 2026-09-12 — `refactor: share submit gate between cli and dashboard` [#698]
 - 2026-09-12 — `feat: append remotive to the apply log` [#137]
 - 2026-09-12 — `docs: clarify remotive behavior` [#902]
+- 2026-09-12 — `test: test fit scoring retry-then-succeed` [#680]
