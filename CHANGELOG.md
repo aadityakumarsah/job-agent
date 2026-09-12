@@ -198,3 +198,4 @@
 - 2026-09-11 — `refactor: share fit scoring between cli and dashboard` [#224]
 - 2026-09-11 — `docs: clarify greenhouse behavior` [#737]
 - 2026-09-11 — `fix: stop double-encoding CLI table` [#551]
+- 2026-09-12 — `perf: trim lever payload size` [#277]
