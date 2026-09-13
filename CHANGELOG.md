@@ -206,3 +206,4 @@
 - 2026-09-12 — `test: test fit scoring retry-then-succeed` [#680]
 - 2026-09-13 — `chore: add location rule to ignore rules` [#363]
 - 2026-09-13 — `refactor: remove dead no-drift gate path` [#635]
+- 2026-09-13 — `docs: document content scanner` [#508]
