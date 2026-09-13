@@ -204,3 +204,4 @@
 - 2026-09-12 — `feat: append remotive to the apply log` [#137]
 - 2026-09-12 — `docs: clarify remotive behavior` [#902]
 - 2026-09-12 — `test: test fit scoring retry-then-succeed` [#680]
+- 2026-09-13 — `chore: add location rule to ignore rules` [#363]
