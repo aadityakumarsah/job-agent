@@ -208,3 +208,4 @@
 - 2026-09-13 — `refactor: remove dead no-drift gate path` [#635]
 - 2026-09-13 — `docs: document content scanner` [#508]
 - 2026-09-13 — `perf: short-circuit DOCX renderer before any LLM call` [#953]
+- 2026-09-14 — `feat: introduce review gate flag` [#381]
