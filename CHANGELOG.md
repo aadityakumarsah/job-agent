@@ -218,3 +218,4 @@
 - 2026-09-14 — `feat: append playwright driver to the apply log` [#508]
 - 2026-09-14 — `docs: illustrate keyword filter with an example` [#263]
 - 2026-09-14 — `feat: add submit gate to the extension popup` [#373]
+- 2026-09-14 — `style: tidy DOCX renderer whitespace` [#874]
