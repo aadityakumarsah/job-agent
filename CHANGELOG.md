@@ -220,3 +220,4 @@
 - 2026-09-14 — `feat: add submit gate to the extension popup` [#373]
 - 2026-09-14 — `style: tidy DOCX renderer whitespace` [#874]
 - 2026-09-14 — `test: add offline test for CLI table` [#372]
+- 2026-09-14 — `test: guard content scanner with a regression test` [#658]
