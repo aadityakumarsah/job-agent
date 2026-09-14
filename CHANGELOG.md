@@ -211,3 +211,4 @@
 - 2026-09-14 — `feat: introduce review gate flag` [#381]
 - 2026-09-14 — `chore: add experience filter to ignore rules` [#879]
 - 2026-09-14 — `feat: add remoteok to the extension popup` [#868]
+- 2026-09-14 — `perf: batch experience filter requests` [#284]
