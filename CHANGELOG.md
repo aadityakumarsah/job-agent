@@ -214,3 +214,4 @@
 - 2026-09-14 — `perf: batch experience filter requests` [#284]
 - 2026-09-14 — `feat: add support for remoteok` [#401]
 - 2026-09-14 — `fix: stop double-encoding sr-search` [#916]
+- 2026-09-14 — `perf: trim application tracker payload size` [#942]
