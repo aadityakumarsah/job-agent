@@ -221,3 +221,4 @@
 - 2026-09-14 — `style: tidy DOCX renderer whitespace` [#874]
 - 2026-09-14 — `test: add offline test for CLI table` [#372]
 - 2026-09-14 — `test: guard content scanner with a regression test` [#658]
+- 2026-09-15 — `style: line-wrap CLI table` [#611]
