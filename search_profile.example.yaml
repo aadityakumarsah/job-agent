@@ -57,3 +57,7 @@ candidate_summary: >
   Learning Engineer, AI Engineer, and Gen AI Engineer roles at the Senior level
   and below. Strong in Python, SQL, cloud data platforms (AWS / Azure / GCP), and
   building ML/LLM pipelines. Open to remote (US) or onsite/hybrid within the USA.
+
+# Lock semantics
+search_profile.lock persists the last successful search so a re-run
+with no network still shows cached matches.
