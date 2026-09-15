@@ -224,3 +224,4 @@
 - 2026-09-15 — `style: line-wrap CLI table` [#611]
 - 2026-09-15 — `perf: trim location rule payload size` [#904]
 - 2026-09-15 — `docs: note no-drift gate limitation` [#641]
+- 2026-09-15 — `docs: document keyword filter` [#274]
