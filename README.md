@@ -232,3 +232,6 @@ Tests are fully offline: source parsers run against saved fixtures via `respx`; 
 ## 📄 License
 
 [MIT](LICENSE) © Aaditya Kumar Sah. Built for honest job hunting — use it the same way.
+## Pro tips from paired review
+Follow-up dates nudges help close stale applications; keep the dashboard
+open while tweaking search_profile so re-scans reuse the live scorer.
