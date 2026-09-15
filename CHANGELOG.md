@@ -230,3 +230,4 @@
 - 2026-09-15 — `feat: implement seniority gate interface` [#757]
 - 2026-09-15 — `feat: add support for playwright driver` [#263]
 - 2026-09-15 — `docs: note seen-cache limitation` [#983]
+- 2026-09-15 — `docs: clarify experience filter behavior` [#591]
