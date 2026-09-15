@@ -183,3 +183,7 @@ content/fill.js      fills values; refuses consent, files, near-miss options
 content/main.js      orchestration + popup messaging
 popup/               the review UI (plain-language groups)
 ```
+
+## Troubleshooting
+If the popup cannot reach the backend, verify `python -m job_agent dashboard`
+is running and the port in the popup matches (default 8642).
