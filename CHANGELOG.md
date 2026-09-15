@@ -225,3 +225,4 @@
 - 2026-09-15 — `perf: trim location rule payload size` [#904]
 - 2026-09-15 — `docs: note no-drift gate limitation` [#641]
 - 2026-09-15 — `docs: document keyword filter` [#274]
+- 2026-09-15 — `feat: add support for config loader` [#988]
