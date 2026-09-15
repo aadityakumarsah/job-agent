@@ -223,3 +223,4 @@
 - 2026-09-14 — `test: guard content scanner with a regression test` [#658]
 - 2026-09-15 — `style: line-wrap CLI table` [#611]
 - 2026-09-15 — `perf: trim location rule payload size` [#904]
+- 2026-09-15 — `docs: note no-drift gate limitation` [#641]
