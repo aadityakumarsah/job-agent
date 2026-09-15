@@ -228,3 +228,4 @@
 - 2026-09-15 — `feat: add support for config loader` [#988]
 - 2026-09-15 — `style: reorder error mapping imports` [#979]
 - 2026-09-15 — `feat: implement seniority gate interface` [#757]
+- 2026-09-15 — `feat: add support for playwright driver` [#263]
