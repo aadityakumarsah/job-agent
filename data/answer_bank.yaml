@@ -1,0 +1,83 @@
+# ---------------------------------------------------------------------------
+# Answer bank — FILL-IN TEMPLATE (fake values)
+#
+# Copy this file to data/answer_bank.yaml and replace every value with your own.
+# data/answer_bank.yaml is gitignored (it holds personal data); this .example
+# file is committed so anyone can see the shape.
+#
+# Contact details (name / email / phone / location) are NOT here — they are read
+# from career_facts.yaml so there is a single source of truth. This file only
+# adds apply-specific links and answers.
+# ---------------------------------------------------------------------------
+
+# --- Work authorization (REQUIRED — no defaults; must be answered explicitly) --
+# These two must be present, or the bank fails to load. We never guess a
+# work-authorization answer to a real employer.
+authorized_us: true          # Legally authorized to work in the US?
+requires_sponsorship: false  # Do you (now or later) require visa sponsorship?
+
+# --- Compensation ------------------------------------------------------------
+salary_expectation: "$150,000 - $170,000"
+
+# --- Location / mobility -----------------------------------------------------
+work_mode: remote            # one of: remote | hybrid | onsite
+willing_to_relocate: false
+location_preference: "Anywhere (US), remote preferred"
+
+# Structured location — used verbatim for City / State / ZIP / Country form
+# fields (the location_preference sentence above is never put in those).
+city: "Santa Clara"
+state: "California"
+zip: "95050"
+country: "USA"
+
+# --- Availability ------------------------------------------------------------
+notice_period: "2 weeks"
+earliest_start_date: "2025-09-01"
+
+# --- Experience --------------------------------------------------------------
+total_years_experience: 5
+
+# --- Common yes/no screeners (defaults shown; override if different) ----------
+previously_employed_here: "No"   # "Have you previously worked for this company?"
+whatsapp_optin: "No"             # "Receive application updates via WhatsApp?"
+# "How did you hear about this job?" — a plain generic source; never a
+# specific person (that would invent a referrer).
+how_heard: "LinkedIn"
+
+# --- Apply-specific links (contact proper comes from career_facts.yaml) ------
+# Employer / job title / school / degree are NOT here — they auto-fill from
+# career_facts.yaml (most recent entry), so they can never drift from the resume.
+linkedin: "https://www.linkedin.com/in/example"
+github: "https://github.com/example"
+
+# --- Optional demographic / EEO block ----------------------------------------
+# Entirely optional. Delete this block to omit it. Every field may be left as
+# "Decline to state", which is always a valid, complete answer. These keys are
+# ALSO accepted at the top level of this file (top-level wins over this block);
+# an absent key resolves to the form's own decline option ("Decline To Self
+# Identify" / "Prefer not to answer" / ...). Never guessed, never AI-drafted.
+eeo:
+  gender: "Decline to state"
+  race: "Decline to state"
+  hispanic_latino: "No"       # the Hispanic/Latino question is separate from race
+  veteran_status: "Decline to state"
+  disability_status: "Decline to state"
+
+# Some forms ask your field/discipline; filled verbatim when set, paused when not.
+discipline: "Software Engineering"
+
+# --- AI-draft style (screening-question drafting) -----------------------------
+# Free-text screening questions the bank can't answer get a grounded AI draft
+# (career facts + JD only) shown at the review gate as [AI-DRAFT] — you always
+# review/edit before anything is submitted.
+answer_max_words: 120
+answer_tone: "concise and professional"
+
+# --- Prepared free-text answers ----------------------------------------------
+# Keyed by a lowercase question keyword. A form's free-text question can be
+# matched against these keys; an unmatched question still pauses for you rather
+# than being guessed.
+prepared_answers:
+  why this company: "I'm drawn to your work on X and want to contribute to Y."
+  why are you leaving: "Seeking a role with more scope in Z."

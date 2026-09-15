@@ -1,0 +1,37 @@
+Jordan Rivers
+jordan.rivers@example.com | +1 (555) 010-0100
+
+PROFESSIONAL SUMMARY
+Data Engineer with experience designing and operating batch and streaming data pipelines on AWS. Strong in Python and SQL, with hands-on Apache Airflow orchestration, dbt data modeling, and Apache Spark processing over S3, Glue, and Redshift. Focused on reliable, observable pipelines and pipeline performance.
+
+TECHNICAL SKILLS
+Data & Orchestration: Apache Airflow, dbt, Apache Spark
+Cloud: AWS (S3, Glue, Redshift)
+Languages: Python, SQL
+
+PROFESSIONAL EXPERIENCE
+Role: Data Engineer
+Company: Acme Analytics
+Project Description: Batch and streaming data pipelines feeding the analytics warehouse.
+Duration: Jan 2022 - Present
+Responsibilities:
+- Built Apache Airflow DAGs orchestrating nightly ETL from source systems into Redshift.
+- Implemented dbt models to produce curated, tested analytics marts for reporting teams.
+- Developed Apache Spark jobs to process large event datasets into partitioned S3 datasets on AWS Glue.
+Achievements:
+- Processed 5,000,000 records per day across production pipelines.
+- Reduced pipeline runtime by 30%, improving data freshness for downstream analytics.
+Role: Data Analyst
+Company: Beacon Software
+Project Description: Reporting and dashboards for business stakeholders.
+Duration: Jun 2019 - Dec 2021
+Responsibilities:
+- Wrote SQL to power BI dashboards in Tableau for weekly business reviews.
+- Automated recurring reports in Python to replace manual spreadsheet work.
+Achievements:
+- Delivered a self-service reporting layer that removed manual weekly spreadsheet preparation and gave stakeholders consistent, on-demand metrics.
+EDUCATION
+B.S., Computer Science, State University
+
+CERTIFICATIONS
+AWS Certified Data Engineer - Associate
